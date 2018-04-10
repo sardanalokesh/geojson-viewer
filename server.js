@@ -20,6 +20,8 @@ app.use(function (req, res, next) {
 
 app.use('/', express.static(path.join(__dirname, 'public')));
 app.use('/points', express.static(path.join(__dirname, 'points')));
+//app.use('/data', express.static(path.join(__dirname, 'data')));
+app.use('/all', express.static(path.join(__dirname, 'all')));
 
 http.listen(3100, function(){ 
 	console.log('listening on *:3100'); 

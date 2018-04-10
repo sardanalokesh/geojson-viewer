@@ -1,7 +1,5 @@
 'use strict';
 
-const REST_URL = "http://localhost:8888"
-
 mapboxgl.accessToken = 'pk.eyJ1Ijoic2FyZGFuYWxva2VzaCIsImEiOiJjamM0bWYyMzgwd2ZrMndtbTFjODB6bjhsIn0.fgzXP2ZCimQUDOoSjabWWA';
 var map;
 

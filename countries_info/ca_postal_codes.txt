@@ -1,0 +1,1636 @@
+CA:v9s|nanaimo|0
+CA:j4y|brossard|0
+CA:v8j|prince rupert|0
+CA:h2s|montreal|0
+CA:p0s|wawa|0
+CA:j9j|aylmer|0
+CA:b4b|lower sackville|0
+CA:v5m|vancouver|0
+CA:g0m|st-victor|0
+CA:l7m|burlington|0
+CA:e3c|fredericton|0
+CA:l9k|ancaster|0
+CA:t7x|spruce grove|0
+CA:b4v|bridgewater|0
+CA:v4w|aldergrove|0
+CA:l7t|burlington|0
+CA:v0l|riske creek|0
+CA:n9j|windsor|0
+CA:j9e|maniwaki|0
+CA:v6s|vancouver|0
+CA:r2j|winnipeg|0
+CA:n5x|london|0
+CA:p3p|hanmer|0
+CA:v8p|victoria|0
+CA:k1k|ottawa|0
+CA:l1k|oshawa|0
+CA:n2c|kitchener|0
+CA:s0j|la ronge|0
+CA:s6v|prince albert|0
+CA:n9v|amherstburg|0
+CA:n0p|dresden|0
+CA:v2j|quesnel|0
+CA:m5t|toronto|0
+CA:p0g|nobel|0
+CA:l1j|oshawa|0
+CA:e4w|richibucto|0
+CA:t2z|calgary|0
+CA:p0m|chelmsford|0
+CA:j3y|saint-hubert|0
+CA:k1a|ottawa|0
+CA:t6c|edmonton|0
+CA:b0t|caledonia|0
+CA:n2z|kincardine|0
+CA:n2j|waterloo|0
+CA:l0p|norval|0
+CA:n8r|windsor|0
+CA:j5z|le gardeur|0
+CA:h7h|laval|0
+CA:v2a|penticton|0
+CA:l7p|burlington|0
+CA:g8y|trois-rivieres|0
+CA:g6x|charny|0
+CA:p3a|sudbury|0
+CA:n0g|holstein|0
+CA:n0h|thornbury|0
+CA:t6e|edmonton|0
+CA:b0v|digby|0
+CA:h3h|montreal|0
+CA:n6h|london|0
+CA:m1x|scarborough|0
+CA:l6t|brampton|0
+CA:g2b|quebec|0
+CA:v3l|new westminster|0
+CA:v9y|port alberni|0
+CA:l2r|st catharines|0
+CA:k4k|rockland|0
+CA:n5y|london|0
+CA:h7r|laval|0
+CA:g7g|chicoutimi|0
+CA:l6e|markham|0
+CA:g1x|ste-foy|0
+CA:r3a|winnipeg|0
+CA:g1l|quebec|0
+CA:h7m|laval|0
+CA:n8n|windsor|0
+CA:t2b|calgary|0
+CA:j6w|lachenaie|0
+CA:h3j|montreal|0
+CA:h2w|montreal|0
+CA:g3h|pont-rouge|0
+CA:l8g|hamilton|0
+CA:m6e|york|0
+CA:t5n|edmonton|0
+CA:h2m|montreal|0
+CA:v5h|burnaby|0
+CA:k7r|napanee|0
+CA:b2t|enfield|0
+CA:v1t|vernon|0
+CA:h2z|montreal|0
+CA:v3t|surrey|0
+CA:n4b|delhi|0
+CA:g0g|saint-augustin|0
+CA:p0k|iroquois falls|0
+CA:m9p|etobicoke|0
+CA:t4s|sylvan lake|0
+CA:g4w|matane|0
+CA:h7k|laval|0
+CA:k2j|nepean|0
+CA:n4l|meaford|0
+CA:l4b|richmond hill|0
+CA:m1s|scarborough|0
+CA:l2j|niagara falls|0
+CA:v9n|courtenay|0
+CA:t4j|ponoka|0
+CA:l9g|ancaster|0
+CA:v1s|kamloops|0
+CA:b2g|antigonish|0
+CA:t2j|calgary|0
+CA:p8n|dryden|0
+CA:g7k|chicoutimi|0
+CA:b3n|halifax|0
+CA:b3k|halifax|0
+CA:a0l|mount moriah|0
+CA:v4p|surrey|0
+CA:v6l|vancouver|0
+CA:b3p|halifax|0
+CA:h7l|laval|0
+CA:g6p|victoriaville|0
+CA:v2c|kamloops|0
+CA:e7l|oakland|0
+CA:v9c|victoria|0
+CA:g2j|quebec|0
+CA:s3n|yorkton|0
+CA:j7t|les cedres|0
+CA:m5h|toronto|0
+CA:r7n|dauphin|0
+CA:g6w|saint-romuald|0
+CA:t5m|edmonton|0
+CA:s4x|regina|0
+CA:m3b|north york|0
+CA:v3v|surrey|0
+CA:m2l|north york|0
+CA:e2k|saint john|0
+CA:h2x|montreal|0
+CA:l1x|pickering|0
+CA:g8m|normandin|0
+CA:k7g|gananoque|0
+CA:l2n|st catharines|0
+CA:m6g|toronto|0
+CA:l5v|mississauga|0
+CA:l8m|hamilton|0
+CA:b1p|sydney|0
+CA:t5x|edmonton|0
+CA:k4p|greely|0
+CA:a0a|bay roberts|0
+CA:l7g|georgetown|0
+CA:j9z|la sarre|0
+CA:h1b|pointe-aux-trembles|0
+CA:e1c|moncton|0
+CA:e8k|beresford|0
+CA:n1t|cambridge|0
+CA:p3l|garson|0
+CA:v5a|burnaby|0
+CA:n0n|wyoming|0
+CA:t6t|edmonton|0
+CA:b2h|new glasgow|0
+CA:n0j|burgessville|0
+CA:v4r|maple ridge|0
+CA:l4n|barrie|0
+CA:k8v|trenton|0
+CA:h9j|pierrefonds|0
+CA:h3g|montreal|0
+CA:l0j|kleinburg|0
+CA:r7b|brandon|0
+CA:j7y|saint-jerome|0
+CA:e3y|dsl de drummond|0
+CA:t0g|rochester|0
+CA:s7j|saskatoon|0
+CA:j4b|boucherville|0
+CA:g0c|carleton|0
+CA:v0s|port renfrew|0
+CA:j6j|chateauguay|0
+CA:l2s|st catharines|0
+CA:g3m|donnacona|0
+CA:t8b|sherwood park|0
+CA:j6z|lorraine|0
+CA:s0l|kindersley|0
+CA:k7c|carleton place|0
+CA:v7v|west vancouver|0
+CA:t5g|edmonton|0
+CA:h1x|montreal|0
+CA:t2w|calgary|0
+CA:m4e|toronto|0
+CA:j3m|marieville|0
+CA:h2t|montreal|0
+CA:l7n|burlington|0
+CA:j2g|granby|0
+CA:j7b|blainville|0
+CA:n9h|windsor|0
+CA:v1a|kimberley|0
+CA:v2r|chilliwack|0
+CA:t9h|fort mcmurray|0
+CA:s9h|swift current|0
+CA:k0g|kemptville|0
+CA:l7r|burlington|0
+CA:k2g|nepean|0
+CA:p3y|lively|0
+CA:v9w|campbell river|0
+CA:t5e|edmonton|0
+CA:m3a|north york|0
+CA:e8c|dalhousie|0
+CA:j7h|boisbriand|0
+CA:l1e|courtice|0
+CA:b4p|wolfville|0
+CA:j4x|brossard|0
+CA:v1b|vernon|0
+CA:p0n|south porcupine|0
+CA:j8t|gatineau|0
+CA:h9r|pointe-claire|0
+CA:e4v|st-antoine|0
+CA:h3y|westmount|0
+CA:j7n|mirabel|0
+CA:m1l|scarborough|0
+CA:t8w|grande prairie|0
+CA:j3t|nicolet|0
+CA:j0a|warwick|0
+CA:j0l|kahnawake|0
+CA:g7n|laterriere|0
+CA:t9n|bonnyville|0
+CA:k4m|manotick|0
+CA:b3j|halifax|0
+CA:l5t|mississauga|0
+CA:l9t|milton|0
+CA:k1n|ottawa|0
+CA:m2h|north york|0
+CA:j9b|chelsea|0
+CA:j0h|saint-pie|0
+CA:k7l|kingston|0
+CA:m8v|etobicoke|0
+CA:j1h|sherbrooke|0
+CA:v1j|fort saint john|0
+CA:h3p|mont-royal|0
+CA:v8y|victoria|0
+CA:j8r|gatineau|0
+CA:l3m|grimsby|0
+CA:e2n|saint john|0
+CA:t2y|calgary|0
+CA:j1t|asbestos|0
+CA:v5x|vancouver|0
+CA:t4n|red deer|0
+CA:j8h|lachute|0
+CA:v1y|kelowna|0
+CA:l1t|ajax|0
+CA:p0x|keewatin|0
+CA:g2n|charlesbourg|0
+CA:b2n|truro|0
+CA:j0w|lac-nominingue|0
+CA:j2b|drummondville|0
+CA:v2b|kamloops|0
+CA:n4s|woodstock|0
+CA:v8s|victoria|0
+CA:h1c|montreal|0
+CA:t1s|okotoks|0
+CA:j3h|mont-saint-hilaire|0
+CA:v8w|victoria|0
+CA:l8e|stoney creek|0
+CA:v1c|cranbrook|0
+CA:h3r|mont-royal|0
+CA:t4r|red deer|0
+CA:n8p|windsor|0
+CA:g7h|chicoutimi|0
+CA:g8w|cap-de-la-madeleine|0
+CA:t5w|edmonton|0
+CA:l5c|mississauga|0
+CA:r3e|winnipeg|0
+CA:m5m|toronto|0
+CA:k4r|russell|0
+CA:l9l|port perry|0
+CA:v1g|dawson creek|0
+CA:n0r|harrow|0
+CA:v4l|delta|0
+CA:m1r|scarborough|0
+CA:l6m|oakville|0
+CA:e5m|hampstead|0
+CA:g7b|la baie|0
+CA:v9k|qualicum beach|0
+CA:g2g|ste-foy|0
+CA:t8x|grande prairie|0
+CA:j3r|sorel|0
+CA:a1c|st johns|0
+CA:h2b|montreal|0
+CA:h8y|pierrefonds|0
+CA:g8z|trois-rivieres|0
+CA:h1k|anjou|0
+CA:h9w|beaconsfield|0
+CA:n0b|ayr|0
+CA:t3c|calgary|0
+CA:h9p|dorval|0
+CA:m4g|east york|0
+CA:m4a|north york|0
+CA:s4v|regina|0
+CA:v9b|victoria|0
+CA:n4k|owen sound|0
+CA:h4v|montreal|0
+CA:v3w|surrey|0
+CA:h1s|st-leonard|0
+CA:k1p|ottawa|0
+CA:m4k|east york|0
+CA:g0w|ste-monique-lac-saint-jean|0
+CA:e8l|st-sauveur|0
+CA:t8r|morinville|0
+CA:v7c|richmond|0
+CA:j8z|hull|0
+CA:b3t|terence bay|0
+CA:t1h|lethbridge|0
+CA:h4y|dorval|0
+CA:t1g|taber|0
+CA:r3k|winnipeg|0
+CA:v4g|delta|0
+CA:t6s|edmonton|0
+CA:p1h|huntsville|0
+CA:l6r|brampton|0
+CA:t2k|calgary|0
+CA:e1v|miramichi|0
+CA:g1k|quebec|0
+CA:a8a|deer lake|0
+CA:j0c|saint-germain-de-grantham|0
+CA:n0a|cayuga|0
+CA:e4t|st-paul|0
+CA:l2w|st catharines|0
+CA:v4k|delta|0
+CA:n7v|point edward|0
+CA:n1m|fergus|0
+CA:m9b|etobicoke|0
+CA:t4v|camrose|0
+CA:l6l|oakville|0
+CA:g6l|princeville|0
+CA:l8t|hamilton|0
+CA:k1m|ottawa|0
+CA:h3l|montreal|0
+CA:g8h|roberval|0
+CA:n6k|london|0
+CA:t4h|olds|0
+CA:r3m|winnipeg|0
+CA:j6y|terrebonne|0
+CA:r2r|winnipeg|0
+CA:e3a|fredericton|0
+CA:l6j|oakville|0
+CA:e1a|dieppe|0
+CA:l2g|niagara falls|0
+CA:v9p|parksville|0
+CA:j6e|joliette|0
+CA:e4z|petitcodiac|0
+CA:v2x|maple ridge|0
+CA:e4p|grand-barachois|0
+CA:t7z|stony plain|0
+CA:g9h|becancour|0
+CA:n4n|hanover|0
+CA:p1p|gravenhurst|0
+CA:t2g|calgary|0
+CA:m8x|etobicoke|0
+CA:j2n|farnham|0
+CA:r3n|winnipeg|0
+CA:h4j|montreal|0
+CA:v1x|kelowna|0
+CA:j8b|sainte-adele|0
+CA:j2l|bromont|0
+CA:v3s|surrey|0
+CA:s7h|saskatoon|0
+CA:l4x|mississauga|0
+CA:v9x|nanaimo|0
+CA:t5h|edmonton|0
+CA:h3a|montreal|0
+CA:v6z|vancouver|0
+CA:m4x|toronto|0
+CA:g5t|degelis|0
+CA:l8w|hamilton|0
+CA:k0h|wolfe island|0
+CA:l3b|welland|0
+CA:m6s|york|0
+CA:a1n|mount pearl|0
+CA:g1e|beauport|0
+CA:l9w|orangeville|0
+CA:m3k|north york|0
+CA:k2w|kanata|0
+CA:t2h|calgary|0
+CA:s0n|richmound|0
+CA:t4x|beaumont|0
+CA:v7s|west vancouver|0
+CA:n5c|ingersoll|0
+CA:l1c|bowmanville|0
+CA:e4s|bouctouche|0
+CA:m8z|etobicoke|0
+CA:v6v|richmond|0
+CA:v7e|richmond|0
+CA:j0r|saint-sauveur-des-monts|0
+CA:v3j|burnaby|0
+CA:b2w|dartmouth|0
+CA:t1x|chestermere|0
+CA:m6l|north york|0
+CA:p2a|parry sound|0
+CA:t1k|lethbridge|0
+CA:e2a|bathurst|0
+CA:v9r|nanaimo|0
+CA:n5p|st thomas|0
+CA:n6g|london|0
+CA:b1s|sydney|0
+CA:k1j|gloucester|0
+CA:t2v|calgary|0
+CA:j3l|chambly|0
+CA:s9v|lloydminster|0
+CA:l7a|brampton|0
+CA:p5e|espanola|0
+CA:b1m|sydney|0
+CA:h8s|lachine|0
+CA:p0c|bala|0
+CA:b3l|halifax|0
+CA:a0n|lourdes|0
+CA:j8m|masson|0
+CA:p7c|thunder bay|0
+CA:n0m|clinton|0
+CA:n1k|guelph|0
+CA:l5p|mississauga|0
+CA:g0s|st-joseph-de-beauce|0
+CA:r0m|griswold|0
+CA:l0r|fort hope|0
+CA:h1t|montreal|0
+CA:l4l|woodbridge|0
+CA:j6r|mercier|0
+CA:l3v|orillia|0
+CA:h2l|montreal|0
+CA:t5k|edmonton|0
+CA:e2j|saint john|0
+CA:j9v|ville-marie|0
+CA:v6e|vancouver|0
+CA:h9g|dollard-des-ormeaux|0
+CA:j9t|amos|0
+CA:l4t|malton|0
+CA:h3x|montreal|0
+CA:m1e|scarborough|0
+CA:g2a|loretteville|0
+CA:j7v|vaudreuil-dorion|0
+CA:l5m|streetsville|0
+CA:v1n|castlegar|0
+CA:g1t|sillery|0
+CA:t5a|edmonton|0
+CA:n3p|brantford|0
+CA:e6b|maple grove|0
+CA:s4n|regina|0
+CA:m2n|north york|0
+CA:n1e|guelph|0
+CA:t2x|calgary|0
+CA:g0x|yamachiche|0
+CA:k9j|peterborough|0
+CA:s0a|esterhazy|0
+CA:m3m|north york|0
+CA:v5z|vancouver|0
+CA:c1n|summerside|0
+CA:n2r|kitchener|0
+CA:v2l|prince george|0
+CA:g6z|saint-jean-chrysostome|0
+CA:v2m|prince george|0
+CA:l1h|oshawa|0
+CA:v6b|vancouver|0
+CA:m4m|toronto|0
+CA:l8p|hamilton|0
+CA:k6v|brockville|0
+CA:p9n|kenora|0
+CA:m5c|toronto|0
+CA:m1p|scarborough|0
+CA:t5y|edmonton|0
+CA:e4l|sackville|0
+CA:t4c|cochrane|0
+CA:e1x|tracadie-sheila|0
+CA:j5r|la prairie|0
+CA:r0l|grandview|0
+CA:m5x|toronto|0
+CA:t3z|redwood meadows|0
+CA:m2j|north york|0
+CA:t0b|sedgewick|0
+CA:g6s|victoriaville|0
+CA:e1h|moncton|0
+CA:j1e|fleurimont|0
+CA:t1b|medicine hat|0
+CA:n7l|chatham|0
+CA:r2g|winnipeg|0
+CA:h3b|montreal|0
+CA:v6h|vancouver|0
+CA:m4p|toronto|0
+CA:n5w|london|0
+CA:l0n|inglewood|0
+CA:p0p|little current|0
+CA:g1p|ste-foy|0
+CA:p7b|thunder bay|0
+CA:v1z|kelowna|0
+CA:s7l|saskatoon|0
+CA:l1w|pickering|0
+CA:j9x|rouyn-noranda|0
+CA:r3p|winnipeg|0
+CA:m6p|toronto|0
+CA:g6g|thetford mines|0
+CA:p0l|cochrane|0
+CA:r1n|portage la prairie|0
+CA:j9p|val-dor|0
+CA:t6m|edmonton|0
+CA:g0r|st-pamphile|0
+CA:t7s|whitecourt|0
+CA:e3e|hanwell|0
+CA:n3s|brantford|0
+CA:n8s|tecumseh|0
+CA:t0j|drumheller|0
+CA:v3y|pitt meadows|0
+CA:a1l|paradise|0
+CA:l6b|markham|0
+CA:j2t|saint-hyacinthe|0
+CA:v6t|vancouver|0
+CA:l0s|virgil|0
+CA:g0y|st-sebastien-de-frontenac|0
+CA:m1k|scarborough|0
+CA:e2e|quispamsis|0
+CA:y1a|whitehorse|0
+CA:t1a|medicine hat|0
+CA:j4t|saint-hubert|0
+CA:t8c|sherwood park|0
+CA:m4t|toronto|0
+CA:h3s|montreal|0
+CA:r2v|winnipeg|0
+CA:v6n|vancouver|0
+CA:e7p|wilmot|0
+CA:l9z|wasaga beach|0
+CA:v2n|prince george|0
+CA:j2k|cowansville|0
+CA:h9x|baie-durfé|0
+CA:g0j|cap-chat|0
+CA:h3t|montreal|0
+CA:v3k|coquitlam|0
+CA:t5l|edmonton|0
+CA:g2k|quebec|0
+CA:e7m|jacksonville|0
+CA:s4h|weyburn|0
+CA:t4p|red deer|0
+CA:b5a|yarmouth|0
+CA:t6n|edmonton|0
+CA:r0a|st malo|0
+CA:e1w|caraquet|0
+CA:s6h|moose jaw|0
+CA:r9a|the pas|0
+CA:l6s|brampton|0
+CA:l9v|orangeville|0
+CA:l4j|thornhill|0
+CA:n2t|waterloo|0
+CA:p8t|sioux lookout|0
+CA:l0g|schomberg|0
+CA:j1s|windsor|0
+CA:h4n|saint-laurent|0
+CA:t3j|calgary|0
+CA:v0e|clearwater|0
+CA:l4k|concord|0
+CA:l0e|pefferlaw|0
+CA:r3t|winnipeg|0
+CA:t5p|edmonton|0
+CA:e4g|penobsquis|0
+CA:a1x|conception bay south|0
+CA:n8t|windsor|0
+CA:e7a|st-francois-de-madawaska|0
+CA:g9p|shawinigan-sud|0
+CA:m4j|east york|0
+CA:h1m|montreal|0
+CA:v4m|delta|0
+CA:v0a|golden|0
+CA:n3t|brantford|0
+CA:n6m|london|0
+CA:g5m|rimouski|0
+CA:p3e|sudbury|0
+CA:e3b|fredericton|0
+CA:g1h|charlesbourg|0
+CA:v8n|victoria|0
+CA:v5s|vancouver|0
+CA:b3a|dartmouth|0
+CA:r1a|st andrews|0
+CA:l4w|mississauga|0
+CA:p3b|sudbury|0
+CA:c1a|charlottetown|0
+CA:k6h|cornwall|0
+CA:j3n|saint-basile-le-grand|0
+CA:t5t|edmonton|0
+CA:g5h|mont-joli|0
+CA:j7z|saint-jerome|0
+CA:v8x|victoria|0
+CA:g5x|beauceville|0
+CA:k1y|ottawa|0
+CA:r3j|winnipeg|0
+CA:e4n|cap-pele|0
+CA:j0j|napierville|0
+CA:j3x|varennes|0
+CA:l8h|hamilton|0
+CA:t5r|edmonton|0
+CA:v7p|north vancouver|0
+CA:j7l|mascouche|0
+CA:h1j|anjou|0
+CA:v1l|nelson|0
+CA:j1n|rock forest|0
+CA:e2l|saint john|0
+CA:v8g|terrace|0
+CA:j8l|buckingham|0
+CA:v9h|campbell river|0
+CA:v5v|vancouver|0
+CA:e2m|saint john|0
+CA:v2s|abbotsford|0
+CA:v5k|vancouver|0
+CA:j4p|saint-lambert|0
+CA:v5t|vancouver|0
+CA:v6j|vancouver|0
+CA:t6h|edmonton|0
+CA:p6a|sault ste marie|0
+CA:l5n|mississauga|0
+CA:h1e|montreal|0
+CA:h3c|montreal|0
+CA:a1m|portugal cove-st philips|0
+CA:n9g|windsor|0
+CA:t1y|calgary|0
+CA:v6y|richmond|0
+CA:e4e|sussex|0
+CA:m1c|scarborough|0
+CA:g1r|quebec|0
+CA:r2p|winnipeg|0
+CA:l4g|aurora|0
+CA:j4g|longueuil|0
+CA:s0h|caronport|0
+CA:t6v|edmonton|0
+CA:h3e|verdun|0
+CA:v7m|north vancouver|0
+CA:k2e|nepean|0
+CA:r2y|winnipeg|0
+CA:t9w|wainwright|0
+CA:e5t|shannon|0
+CA:j7a|rosemere|0
+CA:e8r|paquetville|0
+CA:h4a|montreal|0
+CA:m4s|toronto|0
+CA:g1m|vanier|0
+CA:g4z|baie-comeau|0
+CA:j1l|sherbrooke|0
+CA:a1s|goulds|0
+CA:m4l|toronto|0
+CA:m8y|etobicoke|0
+CA:r4h|headingley|0
+CA:g1v|ste-foy|0
+CA:k1s|ottawa|0
+CA:n0c|markdale|0
+CA:g5b|port-cartier|0
+CA:h1h|montreal-nord|0
+CA:p7e|thunder bay|0
+CA:s0e|melfort|0
+CA:y0b|old crow|0
+CA:t9v|lloydminster|0
+CA:h3z|montreal|0
+CA:v8k|salt spring island|0
+CA:t9c|vegreville|0
+CA:n1c|guelph|0
+CA:x0b|taloyoak|0
+CA:k0j|haley station|0
+CA:t9g|devon|0
+CA:j6s|salaberry-de-valleyfield|0
+CA:v7n|north vancouver|0
+CA:g5j|amqui|0
+CA:r8n|thompson|0
+CA:v5c|burnaby|0
+CA:m4r|toronto|0
+CA:h7s|laval|0
+CA:s0c|lampman|0
+CA:h4p|montreal|0
+CA:t0e|evansburg|0
+CA:g6e|sainte-marie|0
+CA:t4g|innisfail|0
+CA:j9h|aylmer|0
+CA:r0e|st george|0
+CA:p0a|burks falls|0
+CA:l4s|richmond hill|0
+CA:l2e|niagara falls|0
+CA:j2h|granby|0
+CA:n6b|london|0
+CA:v7t|west vancouver|0
+CA:v0x|hope|0
+CA:p0r|blind river|0
+CA:h1a|montreal|0
+CA:r2m|winnipeg|0
+CA:t5c|edmonton|0
+CA:t2a|calgary|0
+CA:g3k|val-belair|0
+CA:r3c|winnipeg|0
+CA:p5n|kapuskasing|0
+CA:e5n|hampton|0
+CA:a0g|fogo|0
+CA:j0e|st-alphonse-de-granby|0
+CA:v6k|vancouver|0
+CA:v0v|kitkatla|0
+CA:t8e|ardrossan|0
+CA:h7j|laval|0
+CA:h4m|saint-laurent|0
+CA:n2k|kitchener|0
+CA:m6j|toronto|0
+CA:t2e|calgary|0
+CA:n7a|goderich|0
+CA:p1a|north bay|0
+CA:e8p|inkerman|0
+CA:b3b|dartmouth|0
+CA:b0s|annapolis royal|0
+CA:l0k|beaverton|0
+CA:l2m|st catharines|0
+CA:h8t|lachine|0
+CA:n5a|stratford|0
+CA:t6g|edmonton|0
+CA:n5r|st thomas|0
+CA:v2g|williams lake|0
+CA:n6l|london|0
+CA:g8b|alma|0
+CA:l1b|newcastle|0
+CA:t5j|edmonton|0
+CA:l1v|pickering|0
+CA:n1r|cambridge|0
+CA:l9n|holland landing|0
+CA:k6a|hawkesbury|0
+CA:s7m|saskatoon|0
+CA:t8v|grande prairie|0
+CA:l9b|hamilton|0
+CA:l4a|whitchurch-stouffville|0
+CA:l7b|king city|0
+CA:k8h|petawawa|0
+CA:l9m|penetanguishene|0
+CA:m6m|north york|0
+CA:g1j|quebec|0
+CA:h7g|laval|0
+CA:r3h|winnipeg|0
+CA:v0b|canyon|0
+CA:a0r|churchill falls|0
+CA:g5c|baie-comeau|0
+CA:p5a|elliot lake|0
+CA:p2b|sturgeon falls|0
+CA:s4p|regina|0
+CA:v5j|burnaby|0
+CA:k7m|kingston|0
+CA:a0b|placentia|0
+CA:h4h|verdun|0
+CA:n4w|listowel|0
+CA:h2c|montreal|0
+CA:g5v|montmagny|0
+CA:g9a|trois-rivieres|0
+CA:h2v|montreal|0
+CA:j7p|saint-eustache|0
+CA:h2h|montreal|0
+CA:p0h|callander|0
+CA:t3h|calgary|0
+CA:v3n|burnaby|0
+CA:l7l|burlington|0
+CA:j2x|iberville|0
+CA:k1z|ottawa|0
+CA:b0p|canning|0
+CA:v9a|victoria|0
+CA:g1n|quebec|0
+CA:a1e|st johns|0
+CA:h4l|saint-laurent|0
+CA:l2h|niagara falls|0
+CA:l5r|mississauga|0
+CA:m4b|east york|0
+CA:j1x|magog|0
+CA:n3h|cambridge|0
+CA:j4h|longueuil|0
+CA:k1e|orleans|0
+CA:n2b|kitchener|0
+CA:v0r|lantzville|0
+CA:j6t|salaberry-de-valleyfield|0
+CA:s7n|saskatoon|0
+CA:b4a|bedford|0
+CA:v7h|north vancouver|0
+CA:n3y|simcoe|0
+CA:v7k|north vancouver|0
+CA:b2y|dartmouth|0
+CA:x0c|coral harbour|0
+CA:k0e|iroquois|0
+CA:l9y|collingwood|0
+CA:v2k|prince george|0
+CA:n9b|windsor|0
+CA:e7c|st-basile|0
+CA:l3k|port colborne|0
+CA:a1w|manuels|0
+CA:s0m|maidstone|0
+CA:v1k|merritt|0
+CA:j8x|hull|0
+CA:t8s|peace river|0
+CA:s4w|regina|0
+CA:n3l|paris|0
+CA:v1m|langley|0
+CA:h3m|montreal|0
+CA:h4t|saint-laurent|0
+CA:l3y|newmarket|0
+CA:l5e|mississauga|0
+CA:v3x|surrey|0
+CA:e8e|charlo|0
+CA:l1a|port hope|0
+CA:a0m|burgeo|0
+CA:m5g|toronto|0
+CA:b0k|pictou|0
+CA:l8j|stoney creek|0
+CA:t6r|edmonton|0
+CA:n8w|windsor|0
+CA:v8m|saanichton|0
+CA:r0h|rosser|0
+CA:h7e|laval|0
+CA:r3v|winnipeg|0
+CA:t9e|leduc|0
+CA:t3e|calgary|0
+CA:e8b|kedgwick|0
+CA:r8a|flin flon|0
+CA:b3s|halifax|0
+CA:n5h|aylmer|0
+CA:t8a|sherwood park|0
+CA:k1r|ottawa|0
+CA:l5b|mississauga|0
+CA:g7s|jonquiere|0
+CA:l4m|barrie|0
+CA:m6n|york|0
+CA:m1n|scarborough|0
+CA:n0e|waterford|0
+CA:v1r|trail|0
+CA:l3c|welland|0
+CA:n0l|dorchester|0
+CA:j3p|sorel-tracy|0
+CA:k2v|kanata|0
+CA:t3b|calgary|0
+CA:v7a|richmond|0
+CA:l6h|oakville|0
+CA:v5e|burnaby|0
+CA:m9v|etobicoke|0
+CA:g1a|quebec|0
+CA:h2a|montreal|0
+CA:n9y|kingsville|0
+CA:m6r|toronto|0
+CA:j5y|repentigny|0
+CA:l9c|hamilton|0
+CA:g8l|dolbeau-mistassini|0
+CA:k9h|peterborough|0
+CA:t7p|westlock|0
+CA:v2v|mission|0
+CA:n9e|windsor|0
+CA:j5a|saint-constant|0
+CA:j3a|saint-jean-sur-richelieu|0
+CA:m2p|north york|0
+CA:t6p|edmonton|0
+CA:l6g|markham|0
+CA:r6w|winkler|0
+CA:e1b|riverview|0
+CA:l3t|thornhill|0
+CA:v9m|comox|0
+CA:l4p|keswick|0
+CA:n2v|waterloo|0
+CA:r6m|morden|0
+CA:h3v|montreal|0
+CA:k2r|nepean|0
+CA:j4j|longueuil|0
+CA:h1r|st-leonard|0
+CA:g4x|gaspe|0
+CA:k6j|cornwall|0
+CA:m6b|north york|0
+CA:b0j|chester|0
+CA:m5s|toronto|0
+CA:e9e|red bank reserve|0
+CA:e7n|grafton|0
+CA:n2l|waterloo|0
+CA:s4s|regina|0
+CA:j0y|waswanipi|0
+CA:g6t|victoriaville|0
+CA:h7c|laval|0
+CA:r3g|winnipeg|0
+CA:m4w|toronto|0
+CA:l7c|caledon|0
+CA:v2y|langley|0
+CA:h9a|dollard-des-ormeaux|0
+CA:j6k|chateauguay|0
+CA:l2v|thorold|0
+CA:v5l|vancouver|0
+CA:h4c|montreal|0
+CA:v1e|salmon arm|0
+CA:k2s|stittsville|0
+CA:k1b|ottawa|0
+CA:l1n|whitby|0
+CA:h1y|montreal|0
+CA:j1a|coaticook|0
+CA:n3a|new hamburg|0
+CA:l7j|acton|0
+CA:k2l|kanata|0
+CA:k2b|ottawa|0
+CA:n7t|sarnia|0
+CA:j8c|sainte-agathe-des-monts|0
+CA:c1c|charlottetown|0
+CA:j7e|sainte-therese|0
+CA:t2l|calgary|0
+CA:e7e|st-leonard-parent|0
+CA:h9k|pierrefonds|0
+CA:h4s|saint-laurent|0
+CA:s7k|saskatoon|0
+CA:p1b|north bay|0
+CA:j2j|granby|0
+CA:g2c|quebec|0
+CA:v1v|kelowna|0
+CA:m6k|toronto|0
+CA:k1g|ottawa|0
+CA:l9h|dundas|0
+CA:g0b|fatima|0
+CA:n5v|london|0
+CA:v5g|burnaby|0
+CA:t9a|wetaskiwin|0
+CA:m4n|north york|0
+CA:r3y|winnipeg|0
+CA:m1g|west hill|0
+CA:a0e|grand bank|0
+CA:g8t|cap-de-la-madeleine|0
+CA:m2k|north york|0
+CA:k1v|gloucester|0
+CA:t6j|edmonton|0
+CA:j4z|brossard|0
+CA:t3k|calgary|0
+CA:n2n|kitchener|0
+CA:h4b|montreal|0
+CA:v5p|vancouver|0
+CA:v6g|vancouver|0
+CA:p0t|geraldton|0
+CA:t1j|lethbridge|0
+CA:t9m|cold lake|0
+CA:h2k|montreal|0
+CA:b4e|beaver bank|0
+CA:s9x|meadow lake|0
+CA:v7g|north vancouver|0
+CA:a2n|stephenville|0
+CA:m2r|north york|0
+CA:e8a|saint-quentin|0
+CA:p1l|bracebridge|0
+CA:v6w|richmond|0
+CA:t2p|calgary|0
+CA:n4v|woodstock|0
+CA:h9b|dollard-des-ormeaux|0
+CA:m4v|toronto|0
+CA:l9r|alliston|0
+CA:n6p|london|0
+CA:m5b|toronto|0
+CA:v0t|bella bella|0
+CA:v0h|oliver|0
+CA:g7a|saint-nicolas|0
+CA:t2c|calgary|0
+CA:j0k|maskinonge|0
+CA:h4k|montreal|0
+CA:v8a|powell river|0
+CA:l5j|mississauga|0
+CA:l6x|brampton|0
+CA:r2h|winnipeg|0
+CA:l3p|markham|0
+CA:t5s|edmonton|0
+CA:m5n|toronto|0
+CA:h4z|montreal|0
+CA:t1v|high river|0
+CA:n3b|elmira|0
+CA:n8x|windsor|0
+CA:e4k|memramcook|0
+CA:k7v|renfrew|0
+CA:v6m|vancouver|0
+CA:m1b|scarborough|0
+CA:v8r|victoria|0
+CA:r2c|winnipeg|0
+CA:g1c|beauport|0
+CA:m4c|east york|0
+CA:g9x|la tuque|0
+CA:r5g|steinbach|0
+CA:l6c|markham|0
+CA:k2p|ottawa|0
+CA:v4c|delta|0
+CA:l4h|woodbridge|0
+CA:h1z|montreal|0
+CA:v0n|squamish|0
+CA:n1a|dunnville|0
+CA:k4b|navan|0
+CA:e4a|chipman|0
+CA:v2h|kamloops|0
+CA:e3n|atholville|0
+CA:v7y|vancouver|0
+CA:t9s|athabasca|0
+CA:g5y|saint-georges|0
+CA:j6v|lachenaie|0
+CA:m8w|etobicoke|0
+CA:l1m|whitby|0
+CA:l0m|stayner|0
+CA:n9a|windsor|0
+CA:g8k|saint-felicien|0
+CA:p0v|balmertown|0
+CA:r3b|winnipeg|0
+CA:k0a|carp|0
+CA:s0k|humboldt|0
+CA:v5b|burnaby|0
+CA:n2h|kitchener|0
+CA:s9a|north battleford|0
+CA:v4t|westbank|0
+CA:k1c|orleans|0
+CA:j0n|pointe-calumet|0
+CA:k0m|fenelon falls|0
+CA:k0b|alfred|0
+CA:h8z|pierrefonds|0
+CA:e3l|st stephen|0
+CA:t6k|edmonton|0
+CA:g5r|riviere-du-loup|0
+CA:t0a|elk point|0
+CA:s0g|moosomin|0
+CA:l3x|newmarket|0
+CA:l5k|mississauga|0
+CA:e8m|tilley road|0
+CA:h8n|lasalle|0
+CA:h4e|montreal|0
+CA:n6a|london|0
+CA:n3c|cambridge|0
+CA:h1w|montreal|0
+CA:l6a|maple|0
+CA:m4y|toronto|0
+CA:t7a|drayton valley|0
+CA:h7n|laval|0
+CA:l1r|whitby|0
+CA:h9h|kirkland|0
+CA:h2e|montreal|0
+CA:k0l|lakefield|0
+CA:l2p|st catharines|0
+CA:k9a|cobourg|0
+CA:h5b|montreal|0
+CA:n0k|dublin|0
+CA:e2g|quispamsis|0
+CA:g1g|charlesbourg|0
+CA:v2p|chilliwack|0
+CA:r2x|winnipeg|0
+CA:t0h|garden river|0
+CA:n7w|sarnia|0
+CA:l4r|midland|0
+CA:h5a|montreal|0
+CA:a2a|grand falls|0
+CA:e8s|shippagan|0
+CA:x1a|yellowknife|0
+CA:t0l|stand off|0
+CA:h3w|montreal|0
+CA:v3a|langley|0
+CA:h7p|fabreville|0
+CA:k1x|gloucester|0
+CA:p2n|kirkland lake|0
+CA:n1l|guelph|0
+CA:k0c|winchester|0
+CA:g9n|shawinigan|0
+CA:l4e|richmond hill|0
+CA:l0h|gormley|0
+CA:v8z|victoria|0
+CA:h7y|laval|0
+CA:v7j|north vancouver|0
+CA:g1s|quebec|0
+CA:n2e|kitchener|0
+CA:r0j|neepawa|0
+CA:n1g|guelph|0
+CA:b0w|barrington|0
+CA:v8c|kitimat|0
+CA:v3b|port coquitlam|0
+CA:n3w|caledonia|0
+CA:m6a|north york|0
+CA:h7b|laval|0
+CA:m4h|toronto|0
+CA:b3r|halifax|0
+CA:m3c|north york|0
+CA:m6c|toronto|0
+CA:j0x|wakefield|0
+CA:j4v|greenfield park|0
+CA:m1h|scarborough|0
+CA:t6a|edmonton|0
+CA:j1g|sherbrooke|0
+CA:h2j|montreal|0
+CA:l1g|oshawa|0
+CA:t3a|calgary|0
+CA:m5v|toronto|0
+CA:t0p|ft mackay|0
+CA:v5w|vancouver|0
+CA:b0n|windsor|0
+CA:j5m|laurentides|0
+CA:j8e|mont-tremblant|0
+CA:l9s|innisfil|0
+CA:t0m|three hills|0
+CA:v9t|nanaimo|0
+CA:j6a|repentigny|0
+CA:k2m|kanata|0
+CA:n2a|kitchener|0
+CA:r4a|west st paul|0
+CA:b4h|amherst|0
+CA:e5v|deer island|0
+CA:v7w|west vancouver|0
+CA:m1v|scarborough|0
+CA:k7p|kingston|0
+CA:b0e|inverness|0
+CA:m1t|scarborough|0
+CA:l5h|mississauga|0
+CA:v3c|port coquitlam|0
+CA:b9a|port hawkesbury|0
+CA:l4v|mississauga|0
+CA:m9a|etobicoke|0
+CA:j8y|hull|0
+CA:h2g|montreal|0
+CA:t5b|edmonton|0
+CA:g4v|sainte-anne-des-monts|0
+CA:k7a|smiths falls|0
+CA:g4t|fatima|0
+CA:k7h|perth|0
+CA:n1h|guelph|0
+CA:e6k|harvey station|0
+CA:a5a|clarenville|0
+CA:l4c|richmond hill|0
+CA:n8m|essex|0
+CA:e2h|saint john|0
+CA:j2c|drummondville|0
+CA:j0p|coteau-du-lac|0
+CA:g6b|lac-megantic|0
+CA:j8v|cantley|0
+CA:j5w|lassomption|0
+CA:g4r|sept-iles|0
+CA:j5j|sainte-sophie|0
+CA:h1n|montreal|0
+CA:l5s|mississauga|0
+CA:v6x|richmond|0
+CA:v5r|vancouver|0
+CA:t2n|calgary|0
+CA:r2k|winnipeg|0
+CA:h3n|montreal|0
+CA:j7r|saint-eustache|0
+CA:m5r|toronto|0
+CA:e4h|baltimore|0
+CA:t9x|vermilion|0
+CA:e5c|st george|0
+CA:t2s|calgary|0
+CA:m9r|etobicoke|0
+CA:l7s|burlington|0
+CA:e1j|lower coverdale|0
+CA:e3v|edmundston|0
+CA:a1b|st johns|0
+CA:g2e|quebec|0
+CA:j4n|longueuil|0
+CA:j3v|saint-bruno|0
+CA:e5h|blacks harbour|0
+CA:l4z|mississauga|0
+CA:t2r|calgary|0
+CA:l9a|hamilton|0
+CA:l4y|mississauga|0
+CA:p3c|sudbury|0
+CA:a0p|goose bay|0
+CA:v8v|victoria|0
+CA:v7r|north vancouver|0
+CA:j5b|delson|0
+CA:r0b|gillam|0
+CA:k2a|ottawa|0
+CA:j6n|beauharnois|0
+CA:a1a|st johns|0
+CA:e4r|shediac bridge|0
+CA:h1p|st-leonard|0
+CA:v3g|abbotsford|0
+CA:v6a|vancouver|0
+CA:n8a|wallaceburg|0
+CA:r3r|winnipeg|0
+CA:n7g|strathroy|0
+CA:m5w|toronto|0
+CA:h3k|montreal|0
+CA:j1m|lennoxville|0
+CA:t8l|fort saskatchewan|0
+CA:h1l|montreal|0
+CA:v0g|kaslo|0
+CA:l8k|hamilton|0
+CA:l2t|st catharines|0
+CA:v6c|vancouver|0
+CA:j4s|saint-lambert|0
+CA:g7j|chicoutimi|0
+CA:a0h|st albans|0
+CA:j7j|mirabel|0
+CA:t1w|canmore|0
+CA:v3m|new westminster|0
+CA:n4g|tillsonburg|0
+CA:b3m|halifax|0
+CA:e2v|oromocto|0
+CA:k1l|vanier|0
+CA:n3r|brantford|0
+CA:n2m|kitchener|0
+CA:v5n|vancouver|0
+CA:e1g|berry mills|0
+CA:v9g|ladysmith|0
+CA:j9a|hull|0
+CA:h7v|laval|0
+CA:m7a|toronto|0
+CA:v4b|white rock|0
+CA:l0c|sunderland|0
+CA:s4r|regina|0
+CA:t1m|coaldale|0
+CA:e6a|boiestown|0
+CA:v4n|surrey|0
+CA:l8l|hamilton|0
+CA:v0p|gold river|0
+CA:m5l|toronto|0
+CA:k2k|kanata|0
+CA:g0n|robertsonville|0
+CA:j4l|longueuil|0
+CA:s4a|estevan|0
+CA:v6p|vancouver|0
+CA:a1k|torbay|0
+CA:j2s|saint-hyacinthe|0
+CA:e7g|everett|0
+CA:j1j|sherbrooke|0
+CA:m2m|north york|0
+CA:v4e|delta|0
+CA:l5a|mississauga|0
+CA:n8y|windsor|0
+CA:k9v|lindsay|0
+CA:b3h|halifax|0
+CA:r0g|la salle|0
+CA:g2l|charlesbourg|0
+CA:m1w|scarborough|0
+CA:m5a|toronto|0
+CA:k2h|nepean|0
+CA:n6n|london|0
+CA:m9n|york|0
+CA:a0k|baie verte|0
+CA:j1z|saint-cyrille-de-wendover|0
+CA:g6v|levis|0
+CA:k7s|arnprior|0
+CA:b4n|new minas|0
+CA:j7k|mascouche|0
+CA:m3j|north york|0
+CA:j7g|boisbriand|0
+CA:n6e|london|0
+CA:h7t|laval|0
+CA:h1v|montreal|0
+CA:t8h|sherwood park|0
+CA:m9l|north york|0
+CA:v0k|cache creek|0
+CA:t2m|calgary|0
+CA:k1t|gloucester|0
+CA:a1g|kilbride|0
+CA:l6z|brampton|0
+CA:j0z|temiscaming|0
+CA:l8v|hamilton|0
+CA:r5h|ste anne|0
+CA:n7m|chatham|0
+CA:k6k|cornwall|0
+CA:e5k|grand bay-westfield|0
+CA:j0v|papineauville|0
+CA:a2v|labrador city|0
+CA:v5y|vancouver|0
+CA:n8h|leamington|0
+CA:m3h|north york|0
+CA:e1n|miramichi|0
+CA:h7a|laval|0
+CA:h9s|dorval|0
+CA:r0k|boissevain|0
+CA:h1g|montreal-nord|0
+CA:e5p|apohaqui|0
+CA:l5l|mississauga|0
+CA:v7x|vancouver|0
+CA:r3l|winnipeg|0
+CA:t6b|edmonton|0
+CA:g7x|jonquiere|0
+CA:l3s|markham|0
+CA:t3g|calgary|0
+CA:l8n|hamilton|0
+CA:l3z|bradford|0
+CA:e6h|meductic|0
+CA:t7e|edson|0
+CA:k1w|orleans|0
+CA:l5g|port credit|0
+CA:j1k|sherbrooke|0
+CA:n6j|london|0
+CA:v8t|victoria|0
+CA:v7l|north vancouver|0
+CA:v4v|winfield|0
+CA:a2h|corner brook|0
+CA:t4t|rocky mountain house|0
+CA:h8p|lasalle|0
+CA:e7b|st-jacques|0
+CA:l6v|brampton|0
+CA:t1l|banff|0
+CA:s4t|regina|0
+CA:k7k|kingston|0
+CA:k8a|pembroke|0
+CA:g3z|baie-saint-paul|0
+CA:v7b|richmond|0
+CA:n4x|st marys|0
+CA:v8l|sidney|0
+CA:m5k|toronto|0
+CA:x0a|iqaluit|0
+CA:h2n|montreal|0
+CA:m9c|etobicoke|0
+CA:v3e|coquitlam|0
+CA:j3g|beloeil|0
+CA:t0k|cardston|0
+CA:h4r|saint-laurent|0
+CA:n5z|london|0
+CA:l6y|brampton|0
+CA:v1w|kelowna|0
+CA:j0s|ormstown|0
+CA:t0c|rimbey|0
+CA:t4b|airdrie|0
+CA:v0j|telegraph creek|0
+CA:m5e|toronto|0
+CA:v2z|langley|0
+CA:a0j|little bay islands|0
+CA:l8s|hamilton|0
+CA:e9c|doaktown|0
+CA:n2p|kitchener|0
+CA:t4l|lacombe|0
+CA:m3n|north york|0
+CA:g1w|ste-foy|0
+CA:l0a|millbrook|0
+CA:l8r|hamilton|0
+CA:l6k|oakville|0
+CA:v3r|surrey|0
+CA:j3b|saint-jean-sur-richelieu|0
+CA:a0c|bonavista|0
+CA:v6r|vancouver|0
+CA:t7n|barrhead|0
+CA:g5a|la malbaie|0
+CA:k4a|orleans|0
+CA:e8t|haut-lameque|0
+CA:h8r|lasalle|0
+CA:j4r|greenfield park|0
+CA:m5p|toronto|0
+CA:t6l|edmonton|0
+CA:t3r|calgary|0
+CA:j6x|terrebonne|0
+CA:n2g|kitchener|0
+CA:h4g|verdun|0
+CA:p0j|new liskeard|0
+CA:t9j|fort mcmurray|0
+CA:m1j|scarborough|0
+CA:l6p|brampton|0
+CA:v3h|port moody|0
+CA:g6a|saint-georges|0
+CA:l3r|unionville|0
+CA:g0t|les escoumins|0
+CA:n1s|cambridge|0
+CA:j0b|bromptonville|0
+CA:j8p|gatineau|0
+CA:e4m|coburg|0
+CA:r0c|inwood|0
+CA:g1b|beauport|0
+CA:n4z|stratford|0
+CA:h2p|montreal|0
+CA:j4k|longueuil|0
+CA:l9p|uxbridge|0
+CA:t7v|hinton|0
+CA:n6c|london|0
+CA:t5z|edmonton|0
+CA:v0m|harrison hot springs|0
+CA:t9k|fort mcmurray|0
+CA:j0t|saint-jovite|0
+CA:m9w|etobicoke|0
+CA:t8n|st albert|0
+CA:m1m|scarborough|0
+CA:v4a|surrey|0
+CA:v2t|abbotsford|0
+CA:v0c|tumbler ridge|0
+CA:e1e|moncton|0
+CA:h2y|montreal|0
+CA:t1p|strathmore|0
+CA:j4w|brossard|0
+CA:j9l|mont-laurier|0
+CA:l1s|ajax|0
+CA:k1h|ottawa|0
+CA:n4t|woodstock|0
+CA:n9c|windsor|0
+CA:g3j|val-belair|0
+CA:m5j|toronto|0
+CA:g3l|saint-raymond|0
+CA:l1z|ajax|0
+CA:l1p|whitby|0
+CA:m9m|north york|0
+CA:x0e|hay river|0
+CA:p4n|timmins|0
+CA:s6j|moose jaw|0
+CA:e5r|fairfield|0
+CA:k0k|wellington|0
+CA:k8n|belleville|0
+CA:t7y|spruce grove|0
+CA:j4m|longueuil|0
+CA:h7x|laval|0
+CA:h7w|laval|0
+CA:r7a|brandon|0
+CA:g0l|cabano|0
+CA:c0a|bonshaw|0
+CA:l7e|bolton|0
+CA:k8p|belleville|0
+CA:t5v|edmonton|0
+CA:a1v|gander|0
+CA:g0e|murdochville|0
+CA:l6w|brampton|0
+CA:k2c|ottawa|0
+CA:g0a|deschambault|0
+CA:p6b|sault ste marie|0
+CA:j3z|saint-hubert|0
+CA:t2t|calgary|0
+CA:h2r|montreal|0
+CA:v9l|duncan|0
+CA:k2t|kanata|0
+CA:r3x|winnipeg|0
+CA:t1r|brooks|0
+CA:m6h|toronto|0
+CA:l0l|midhurst|0
+CA:m3l|north york|0
+CA:j3e|sainte-julie|0
+CA:g5l|rimouski|0
+CA:j7c|blainville|0
+CA:n7s|sarnia|0
+CA:t3l|calgary|0
+CA:p7j|thunder bay|0
+CA:v9e|victoria|0
+CA:e8g|lorne|0
+CA:l2a|fort erie|0
+CA:v1h|vernon|0
+CA:p9a|fort frances|0
+CA:x0g|ft liard|0
+CA:v0w|atlin|0
+CA:c0b|tignish|0
+CA:j0m|kuujjuaq|0
+CA:b1g|dominion|0
+CA:e6c|nashwaak bridge|0
+CA:b1a|glace bay|0
+CA:e9b|blackville|0
+CA:r2n|winnipeg|0
+CA:b1v|sydney mines|0
+CA:p0b|utterson|0
+CA:v2e|kamloops|0
+CA:b1h|new waterford|0
+CA:b0m|oxford|0
+CA:e6e|millville|0
+CA:e6l|keswick|0
+CA:s7r|saskatoon|0
+CA:j0g|yamaska|0
+CA:g8p|chibougamau|0
+CA:r2w|winnipeg|0
+CA:e9g|neguac|0
+CA:b3g|eastern passage|0
+CA:v9z|sooke|0
+CA:b2a|north sydney|0
+CA:e4j|salisbury|0
+CA:a1y|carbonear|0
+CA:e5l|fredericton junction|0
+CA:e7k|centreville|0
+CA:p6c|sault ste marie|0
+CA:t4a|airdrie|0
+CA:t1c|medicine hat|0
+CA:p7a|thunder bay|0
+CA:b4c|lower sackville|0
+CA:t3m|calgary|0
+CA:b4g|beaver bank|0
+CA:e3z|grand-sault/grand falls|0
+CA:p4r|timmins|0
+CA:e5a|moores mills|0
+CA:t8g|north cooking lake|0
+CA:e4y|rogersville|0
+CA:p0w|rainy river|0
+CA:v2w|maple ridge|0
+CA:g4s|sept-iles|0
+CA:p3n|val caron|0
+CA:s7v|saskatoon|0
+CA:v1p|kelowna|0
+CA:c1e|charlottetown|0
+CA:e5e|welshpool|0
+CA:r2l|winnipeg|0
+CA:t6x|edmonton|0
+CA:g9t|st-georges-de-champlain|0
+CA:g0h|ragueneau|0
+CA:g0k|saint-guy|0
+CA:g0p|saint-valere|0
+CA:g0v|sainte-rose-du-nord|0
+CA:g0z|saint-rosaire|0
+CA:g1y|cap-rouge|0
+CA:g2m|charlesbourg|0
+CA:g3a|saint-augustin|0
+CA:g3e|saint-emile|0
+CA:g3g|lac-saint-charles|0
+CA:g4a|clermont|0
+CA:g5n|rimouski|0
+CA:g5z|saint-georges|0
+CA:g6c|pintendre|0
+CA:g6h|thetford mines|0
+CA:g6j|saint-etienne-de-lauzon|0
+CA:g6k|saint-redempteur|0
+CA:g6r|victoriaville|0
+CA:g7p|saint-ambroise|0
+CA:g7t|jonquiere|0
+CA:g7y|jonquiere|0
+CA:g7z|jonquiere|0
+CA:g8a|jonquiere|0
+CA:g8c|alma|0
+CA:g8e|alma|0
+CA:g8g|metabetchouan-lac-a-la-croix|0
+CA:g8j|saint-prime|0
+CA:g8n|hebertville|0
+CA:g8v|trois-rivieres|0
+CA:g9b|trois-rivieres|0
+CA:g9c|trois-rivieres|0
+CA:g9r|shawinigan|0
+CA:h0m|akwesasne|0
+CA:h4w|cote saint-luc|0
+CA:h4x|montreal-ouest|0
+CA:h9c|lile-bizard|0
+CA:h9e|lile-bizard|0
+CA:a1h|st. johns|0
+CA:j2a|saint-nicephore|0
+CA:j2e|drummondville|0
+CA:j2m|shefford|0
+CA:j2r|saint-hyacinthe|0
+CA:j2w|saint-luc|0
+CA:j2y|saint-jean-sur-richelieu|0
+CA:j5k|saint-colomban|0
+CA:j5l|saint-jerome|0
+CA:j5t|lavaltrie|0
+CA:j5v|louiseville|0
+CA:j5x|lepiphanie|0
+CA:j7m|la plaine|0
+CA:j7x|les coteaux|0
+CA:j8a|saint-hippolyte|0
+CA:j8g|brownsburg-chatham|0
+CA:j8n|val-des-monts|0
+CA:j9y|rouyn-noranda|0
+CA:b0c|st margaret village|0
+CA:b0h|st andrews|0
+CA:b0l|river hebert east|0
+CA:k4c|cumberland|0
+CA:b0r|springfield|0
+CA:k6t|lyn|0
+CA:k7n|kingston|0
+CA:k8b|pembroke|0
+CA:k8r|belleville|0
+CA:k9k|peterborough|0
+CA:k9l|peterborough|0
+CA:b1b|port morien|0
+CA:b1c|catalone|0
+CA:b1e|reserve mines|0
+CA:b1j|east bay|0
+CA:b1k|big ridge|0
+CA:b1l|sydney|0
+CA:b1n|sydney|0
+CA:b1r|sydney|0
+CA:b1t|christmas island|0
+CA:l0b|orono|0
+CA:b1w|eskasoni|0
+CA:b1x|boularderie east|0
+CA:l1l|oshawa|0
+CA:b1y|groves point|0
+CA:l1y|pickering|0
+CA:b2c|iona|0
+CA:b2e|loch lomond|0
+CA:l5w|mississauga|0
+CA:b2j|framboise|0
+CA:b2r|waverley|0
+CA:b2s|belnan|0
+CA:b2v|dartmouth|0
+CA:b2x|dartmouth|0
+CA:b2z|mineville|0
+CA:b3e|lake echo|0
+CA:b3v|williamswood|0
+CA:b3z|hubley|0
+CA:m7y|toronto|0
+CA:a2b|grand falls-windsor|0
+CA:b4r|coldbrook|0
+CA:n1p|cambridge|0
+CA:n3e|cambridge|0
+CA:n3v|brantford|0
+CA:n5l|port stanley|0
+CA:n7x|sarnia|0
+CA:n8v|windsor|0
+CA:n9k|windsor|0
+CA:p0e|severn bridge|0
+CA:p0y|ingolf|0
+CA:p1c|north bay|0
+CA:p3g|greater sudbury|0
+CA:p4p|timmins|0
+CA:p7g|thunder bay|0
+CA:p7k|thunder bay|0
+CA:r1b|lockport|0
+CA:r2e|east st paul|0
+CA:r3s|winnipeg|0
+CA:r3w|winnipeg|0
+CA:r4j|winnipeg|0
+CA:r4k|cartier|0
+CA:r4l|st francois xavier|0
+CA:r5a|howden|0
+CA:r7c|brandon|0
+CA:s0p|kinoosao|0
+CA:s2v|buena vista|0
+CA:s4l|emerald park|0
+CA:s4y|regina|0
+CA:s4z|regina|0
+CA:s6k|moose jaw|0
+CA:s6w|prince albert|0
+CA:s6x|prince albert|0
+CA:s7p|saskatoon|0
+CA:s7s|saskatoon|0
+CA:s7t|saskatoon|0
+CA:s7w|saskatoon|0
+CA:t0v|fitzgerald|0
+CA:t3n|calgary|0
+CA:t3p|calgary|0
+CA:t4e|red deer county|0
+CA:t6w|edmonton|0
+CA:c1b|stratford|0
+CA:v4s|mission|0
+CA:v4x|abbotsford|0
+CA:v4z|chilliwack|0
+CA:v9j|courtenay|0
+CA:v9v|nanaimo|0
+CA:y0a|watson lake|0
+CA:e2p|saint john|0
+CA:e2r|saint john|0
+CA:e2s|saint john|0
+CA:e4b|flowers cove|0
+CA:e4c|youngs cove|0
+CA:e4x|saint-louis|0
+CA:e5b|bocabec|0
+CA:e5g|grand manan|0
+CA:e5j|pocologan|0
+CA:e5s|carters point|0
+CA:e6g|temperance vale|0
+CA:e6j|mcadam|0
+CA:e7h|tilley|0
+CA:e7j|johnville|0
+CA:e8j|petit-rocher|0
+CA:e8n|maisonnette|0
+CA:e9a|hardwicke|0
+CA:e9h|tabusintac|0
+CA:j7w|pincourt|0
+CA:t3s|calgary|0
+CA:j1c|sherbrooke|0
+CA:j1r|sherbrooke|0
+CA:j5c|sainte-catherine|0
+CA:l9j|barrie|0
+CA:b6l|valley|0
+CA:e3g|fredericton|0
+CA:v8b|squamish|0
+CA:l7k|caledon east|0
+CA:g3c|stoneham|0
+CA:g3b|lac-beauport|0
+CA:g3n|shannon|0
+CA:s4m|regina|0
+CA:r4g|oak bluff|0

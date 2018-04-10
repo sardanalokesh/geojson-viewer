@@ -1,0 +1,2790 @@
+AU:6054|bassendean|0
+AU:2200|bankstown|0
+AU:7170|cambridge|0
+AU:4069|brookfield|0
+AU:7172|sorell|0
+AU:4680|gladstone|0
+AU:2232|loftus|0
+AU:3498|irymple|0
+AU:3277|allansford|0
+AU:2134|burwood|0
+AU:4170|norman park|0
+AU:3160|belgrave|0
+AU:5352|tanunda|0
+AU:2161|guildford|0
+AU:4075|oxley|0
+AU:4519|beerwah|0
+AU:2068|castlecrag|0
+AU:2482|mullumbimby|0
+AU:3620|lancaster|0
+AU:5090|hope valley|0
+AU:2029|rose bay|0
+AU:5269|wolseley|0
+AU:3975|lyndhurst|0
+AU:2300|newcastle|0
+AU:2114|meadowbank|0
+AU:2620|queanbeyan|0
+AU:2550|bega|0
+AU:5008|devon park|0
+AU:2047|drummoyne|0
+AU:3223|portarlington|0
+AU:5035|keswick|0
+AU:2170|liverpool|0
+AU:3690|wodonga|0
+AU:3286|macarthur|0
+AU:2073|pymble|0
+AU:6154|booragoon|0
+AU:2763|quakers hill|0
+AU:3228|torquay|0
+AU:2533|kiama|0
+AU:5063|eastwood|0
+AU:4010|albion|0
+AU:4120|stones corner|0
+AU:2036|matraville|0
+AU:5016|largs bay|0
+AU:4556|buderim|0
+AU:3911|baxter|0
+AU:2830|dubbo|0
+AU:6009|crawley|0
+AU:2354|kentucky|0
+AU:3795|silvan|0
+AU:3608|nagambie|0
+AU:5640|cleve|0
+AU:6084|chittering|0
+AU:4221|palm beach|0
+AU:3429|sunbury|0
+AU:3221|geelong|0
+AU:3029|truganina|0
+AU:4870|cairns|0
+AU:3342|ballan|0
+AU:3328|teesdale|0
+AU:3133|vermont|0
+AU:2443|north haven|0
+AU:3030|werribee south|0
+AU:4608|charlestown|0
+AU:3325|derrinallum|0
+AU:5710|cook|0
+AU:3125|burwood|0
+AU:3128|box hill|0
+AU:3321|inverleigh|0
+AU:3242|birregurra|0
+AU:2681|yenda|0
+AU:3013|yarraville|0
+AU:2446|pappinbarra|0
+AU:2779|hazelbrook|0
+AU:1655|manly|0
+AU:2137|concord|0
+AU:6168|rockingham|0
+AU:3448|elphinstone|0
+AU:7054|ridgeway|0
+AU:2440|sherwood|0
+AU:4705|marlborough|0
+AU:3181|windsor|0
+AU:3875|bairnsdale|0
+AU:2211|padstow|0
+AU:3031|flemington|0
+AU:4127|springwood|0
+AU:3304|lyons|0
+AU:4735|winton|0
+AU:6148|ferndale|0
+AU:4104|yeronga|0
+AU:2024|waverley|0
+AU:2400|ashley|0
+AU:6324|mount barker|0
+AU:5571|ardrossan|0
+AU:5333|loxton|0
+AU:4005|teneriffe|0
+AU:6232|eaton|0
+AU:4157|capalaba|0
+AU:4118|hillcrest|0
+AU:3011|footscray|0
+AU:3106|templestowe|0
+AU:4891|karumba|0
+AU:7291|carrick|0
+AU:3225|queenscliff|0
+AU:5044|glengowrie|0
+AU:3061|campbellfield|0
+AU:2350|armidale|0
+AU:3176|scoresby|0
+AU:3193|beaumaris|0
+AU:4500|strathpine|0
+AU:4562|eumundi|0
+AU:6391|williams|0
+AU:2198|georges hall|0
+AU:2227|gymea|0
+AU:4506|morayfield|0
+AU:2205|arncliffe|0
+AU:2250|gosford|0
+AU:4006|fortitude valley|0
+AU:7109|grove|0
+AU:1495|caringbah|0
+AU:2487|kingscliff|0
+AU:2380|gunnedah|0
+AU:4305|ipswich|0
+AU:5159|aberfoyle park|0
+AU:4416|sunnyside|0
+AU:2536|batemans bay|0
+AU:4614|yarraman|0
+AU:4119|underwood|0
+AU:2325|abernethy|0
+AU:2515|austinmer|0
+AU:3240|buckley|0
+AU:5051|hawthorndene|0
+AU:2159|galston|0
+AU:2031|randwick|0
+AU:5092|modbury|0
+AU:2135|strathfield|0
+AU:3052|parkville|0
+AU:6020|sorrento|0
+AU:3390|murtoa|0
+AU:7053|taroona|0
+AU:3340|bacchus marsh|0
+AU:2765|riverstone|0
+AU:2151|north rocks|0
+AU:3549|robinvale|0
+AU:5431|black rock|0
+AU:2171|hoxton park|0
+AU:3636|numurkah|0
+AU:4719|theodore|0
+AU:2292|broadmeadow|0
+AU:7303|birralee|0
+AU:3066|collingwood|0
+AU:7322|somerset|0
+AU:2061|milsons point|0
+AU:2071|killara|0
+AU:3123|hawthorn east|0
+AU:3666|euroa|0
+AU:3071|thornbury|0
+AU:2357|coonabarabran|0
+AU:2441|bonville|0
+AU:6151|kensington|0
+AU:2210|riverwood|0
+AU:1730|seven hills|0
+AU:3300|hamilton|0
+AU:3374|great western|0
+AU:3912|somerville|0
+AU:2576|bowral|0
+AU:2579|marulan|0
+AU:2577|robertson|0
+AU:3151|burwood east|0
+AU:5291|port macdonnell|0
+AU:3930|mount eliza|0
+AU:4076|wacol|0
+AU:6112|armadale|0
+AU:4131|loganlea|0
+AU:2034|coogee|0
+AU:3168|notting hill|0
+AU:6536|kalbarri|0
+AU:7021|lauderdale|0
+AU:3913|tyabb|0
+AU:3084|heidelberg|0
+AU:6167|kwinana beach|0
+AU:7262|bridport|0
+AU:2216|rockdale|0
+AU:4871|laura|0
+AU:5062|mitcham|0
+AU:2871|forbes|0
+AU:2477|wollongbar|0
+AU:4077|richlands|0
+AU:2289|kotara|0
+AU:3909|kalimna|0
+AU:3101|kew|0
+AU:3450|castlemaine|0
+AU:5451|auburn|0
+AU:3153|bayswater|0
+AU:2102|warriewood|0
+AU:5011|woodville|0
+AU:2136|enfield|0
+AU:7253|george town|0
+AU:4207|yatala|0
+AU:2756|windsor|0
+AU:2120|thornleigh|0
+AU:3175|dandenong|0
+AU:4558|maroochydore|0
+AU:3111|donvale|0
+AU:3442|woodend|0
+AU:3931|mornington|0
+AU:2208|kingsgrove|0
+AU:6016|mount hawthorn|0
+AU:3630|shepparton|0
+AU:3023|caroline springs|0
+AU:4559|woombye|0
+AU:6027|joondalup|0
+AU:2224|sylvania|0
+AU:7015|lindisfarne|0
+AU:3851|montgomery|0
+AU:1800|ashfield|0
+AU:2500|wollongong|0
+AU:5434|hawker|0
+AU:4280|jimboomba|0
+AU:2612|braddon|0
+AU:3939|rosebud|0
+AU:4347|grantham|0
+AU:3287|hawkesdale|0
+AU:6432|boulder|0
+AU:1481|hurstville|0
+AU:3882|nicholson|0
+AU:5360|greenock|0
+AU:5162|morphett vale|0
+AU:3006|southbank|0
+AU:4883|atherton|0
+AU:3496|red cliffs|0
+AU:2322|tomago|0
+AU:7027|colebrook|0
+AU:3182|st kilda|0
+AU:3777|healesville|0
+AU:2422|gloucester|0
+AU:5118|gawler|0
+AU:3046|glenroy|0
+AU:3335|rockbank|0
+AU:2193|canterbury|0
+AU:5320|morgan|0
+AU:2042|enmore|0
+AU:3099|hurstbridge|0
+AU:2535|berry|0
+AU:2800|orange|0
+AU:3730|yarrawonga|0
+AU:3134|ringwood|0
+AU:6065|wanneroo|0
+AU:2122|eastwood|0
+AU:2231|kurnell|0
+AU:7011|claremont|0
+AU:3130|blackburn|0
+AU:2701|coolamon|0
+AU:2017|waterloo|0
+AU:7000|hobart|0
+AU:6401|northam|0
+AU:6530|geraldton|0
+AU:3714|alexandra|0
+AU:3159|selby|0
+AU:4715|biloela|0
+AU:4723|capella|0
+AU:1715|pennant hills|0
+AU:2064|artarmon|0
+AU:4213|mudgeeraba|0
+AU:2390|narrabri|0
+AU:3977|sandhurst|0
+AU:4218|broadbeach|0
+AU:2128|silverwater|0
+AU:6285|margaret river|0
+AU:2257|empire bay|0
+AU:1670|north ryde|0
+AU:2221|blakehurst|0
+AU:2530|huntley|0
+AU:5605|butler|0
+AU:2320|maitland|0
+AU:5374|hampden|0
+AU:4078|forest lake|0
+AU:3844|traralgon|0
+AU:1890|ingleburn|0
+AU:4053|stafford|0
+AU:3381|illawarra|0
+AU:2099|dee why|0
+AU:2485|tweed heads|0
+AU:3121|richmond|0
+AU:2444|riverside|0
+AU:2750|penrith|0
+AU:2026|bondi|0
+AU:3251|beeac|0
+AU:3816|longwarry|0
+AU:2295|stockton|0
+AU:3194|mentone|0
+AU:3040|essendon|0
+AU:3579|kerang|0
+AU:5014|hendon|0
+AU:2602|dickson|0
+AU:3850|sale|0
+AU:2567|narellan|0
+AU:6076|kalamunda|0
+AU:5111|edinburgh|0
+AU:6066|ballajura|0
+AU:4659|howard|0
+AU:1701|rydalmere|0
+AU:4101|south brisbane|0
+AU:5373|kapunda|0
+AU:0870|alice springs|0
+AU:2573|tahmoor|0
+AU:2711|hay|0
+AU:1710|epping|0
+AU:5223|kingscote|0
+AU:4009|eagle farm|0
+AU:2294|carrington|0
+AU:4820|charters towers|0
+AU:3444|kyneton|0
+AU:4227|varsity lakes|0
+AU:1435|alexandria|0
+AU:5064|glen osmond|0
+AU:2165|fairfield|0
+AU:3465|alma|0
+AU:3896|swifts creek|0
+AU:4152|carina|0
+AU:5084|kilburn|0
+AU:2260|terrigal|0
+AU:2566|minto|0
+AU:5009|beverley|0
+AU:4224|tugun|0
+AU:3021|st albans|0
+AU:7320|burnie|0
+AU:3053|carlton|0
+AU:2101|narrabeen|0
+AU:3929|flinders|0
+AU:2656|osborne|0
+AU:3122|hawthorn|0
+AU:3644|cobram|0
+AU:2160|merrylands|0
+AU:5501|two wells|0
+AU:2875|trundle|0
+AU:7300|perth|0
+AU:2537|moruya|0
+AU:5010|regency park|0
+AU:3437|gisborne|0
+AU:3070|northcote|0
+AU:2464|yamba|0
+AU:3250|colac|0
+AU:6281|dunsborough|0
+AU:6430|kalgoorlie|0
+AU:6164|atwell|0
+AU:3770|coldstream|0
+AU:3140|lilydale|0
+AU:3305|portland|0
+AU:4720|emerald|0
+AU:3377|ararat|0
+AU:3068|clifton hill|0
+AU:2118|carlingford|0
+AU:1675|gladesville|0
+AU:2077|hornsby|0
+AU:2775|spencer|0
+AU:3804|narre warren north|0
+AU:2519|fairy meadow|0
+AU:2439|kendall|0
+AU:3249|alvie|0
+AU:5670|elliston|0
+AU:4068|indooroopilly|0
+AU:2092|seaforth|0
+AU:4343|gatton|0
+AU:2611|weston|0
+AU:3231|fairhaven|0
+AU:4220|burleigh|0
+AU:3074|thomastown|0
+AU:2048|stanmore|0
+AU:6109|maddington|0
+AU:6056|bellevue|0
+AU:7120|baden|0
+AU:5094|gepps cross|0
+AU:3778|fernshaw|0
+AU:3501|hattah|0
+AU:2617|belconnen|0
+AU:2820|wellington|0
+AU:7325|wynyard|0
+AU:2046|abbotsford|0
+AU:2795|bathurst|0
+AU:1490|miranda|0
+AU:3190|highett|0
+AU:3677|wangaratta|0
+AU:5154|aldgate|0
+AU:6233|australind|0
+AU:4300|springfield|0
+AU:2039|rozelle|0
+AU:3072|preston|0
+AU:4888|evelyn|0
+AU:3047|broadmeadows|0
+AU:6743|kununurra|0
+AU:3337|melton|0
+AU:3156|ferntree gully|0
+AU:4510|caboolture|0
+AU:2190|chullora|0
+AU:7005|sandy bay|0
+AU:4165|redland bay|0
+AU:3516|leichardt|0
+AU:3104|balwyn north|0
+AU:5485|wilmington|0
+AU:5023|findon|0
+AU:5042|flinders university|0
+AU:6707|exmouth|0
+AU:6290|augusta|0
+AU:3550|bendigo|0
+AU:4121|tarragindi|0
+AU:5412|riverton|0
+AU:4178|wynnum|0
+AU:2833|collarenebri|0
+AU:3551|arnold|0
+AU:6721|port hedland|0
+AU:4700|rockhampton|0
+AU:3831|neerim|0
+AU:3184|elwood|0
+AU:3713|eildon|0
+AU:7140|plenty|0
+AU:4730|longreach|0
+AU:3268|timboon|0
+AU:4800|conway|0
+AU:2824|warren|0
+AU:6392|darkan|0
+AU:3950|korumburra|0
+AU:5022|grange|0
+AU:6914|balcatta|0
+AU:3044|pascoe vale|0
+AU:2229|taren point|0
+AU:2088|mosman|0
+AU:6152|manning|0
+AU:7307|latrobe|0
+AU:2358|uralla|0
+AU:3700|tallangatta|0
+AU:2304|warabrook|0
+AU:7009|moonah|0
+AU:5483|melrose|0
+AU:6701|carnarvon|0
+AU:3094|montmorency|0
+AU:4205|bethania|0
+AU:2870|parkes|0
+AU:3264|terang|0
+AU:3685|great southern|0
+AU:2627|jindabyne|0
+AU:4226|robina|0
+AU:7275|exeter|0
+AU:3927|somers|0
+AU:2218|carlton|0
+AU:3138|mooroolbark|0
+AU:3266|cobden|0
+AU:2214|milperra|0
+AU:2594|young|0
+AU:3803|hallam|0
+AU:2640|albury|0
+AU:4670|avondale|0
+AU:5114|smithfield|0
+AU:6021|stirling|0
+AU:4163|cleveland|0
+AU:3862|stockdale|0
+AU:4879|palm cove|0
+AU:2365|oban|0
+AU:2259|tuggerah|0
+AU:5271|naracoorte|0
+AU:2518|bellambi|0
+AU:3026|laverton north|0
+AU:5112|elizabeth|0
+AU:7330|forest|0
+AU:6106|welshpool|0
+AU:6153|mount pleasant|0
+AU:4561|yandina|0
+AU:5680|streaky bay|0
+AU:2326|weston|0
+AU:2206|earlwood|0
+AU:2622|braidwood|0
+AU:4061|the gap|0
+AU:7150|pelverata|0
+AU:2450|coffs harbour|0
+AU:6220|harvey|0
+AU:2420|salisbury|0
+AU:4565|tewantin|0
+AU:2065|greenwich|0
+AU:5065|glenside|0
+AU:0830|palmerston|0
+AU:4109|sunnybank|0
+AU:5031|thebarton|0
+AU:2158|dural|0
+AU:6522|mingenew|0
+AU:2085|belrose|0
+AU:7190|runnymede|0
+AU:3334|morrisons|0
+AU:5433|bruce|0
+AU:4008|pinkenba|0
+AU:2233|yarrawarrah|0
+AU:6103|rivervale|0
+AU:3885|bruthen|0
+AU:2153|baulkham hills|0
+AU:2089|neutral bay|0
+AU:3204|mckinnon|0
+AU:3704|koetong|0
+AU:3173|keysborough|0
+AU:2299|lambton|0
+AU:2074|turramurra|0
+AU:0820|winnellie|0
+AU:4605|murgon|0
+AU:3757|whittlesea|0
+AU:3910|langwarrin|0
+AU:2581|dalton|0
+AU:3409|douglas|0
+AU:4825|mount isa|0
+AU:2315|nelson bay|0
+AU:4159|birkdale|0
+AU:3544|ultima|0
+AU:2163|villawood|0
+AU:2209|beverly hills|0
+AU:2452|sawtell|0
+AU:2044|tempe|0
+AU:4217|gold coast|0
+AU:2783|lawson|0
+AU:3364|ascot|0
+AU:7018|bellerive|0
+AU:2506|berkeley|0
+AU:2774|blaxland|0
+AU:4560|bli bli|0
+AU:2428|tuncurry|0
+AU:6535|ogilvie|0
+AU:6166|munster|0
+AU:3171|springvale|0
+AU:3671|benalla|0
+AU:4019|margate|0
+AU:5600|whyalla|0
+AU:7248|mayfield|0
+AU:6448|gibson|0
+AU:5000|adelaide|0
+AU:0835|howard springs|0
+AU:2164|smithfield|0
+AU:4020|redcliffe|0
+AU:3237|ferguson|0
+AU:3292|nelson|0
+AU:3008|docklands|0
+AU:3095|research|0
+AU:5723|coober pedy|0
+AU:4630|bancroft|0
+AU:3230|anglesea|0
+AU:6008|subiaco|0
+AU:3075|lalor|0
+AU:5355|nuriootpa|0
+AU:2753|grose vale|0
+AU:7209|ross|0
+AU:3150|glen waverley|0
+AU:5173|aldinga|0
+AU:3139|seville|0
+AU:4650|maryborough|0
+AU:2831|carinda|0
+AU:2000|sydney|0
+AU:2040|leichhardt|0
+AU:5066|burnside|0
+AU:2655|the rock|0
+AU:3330|rokewood|0
+AU:3137|kilsyth|0
+AU:3996|inverloch|0
+AU:6090|malaga|0
+AU:2430|taree|0
+AU:3500|mildura|0
+AU:4740|mackay|0
+AU:4060|ashgrove|0
+AU:2050|camperdown|0
+AU:3141|south yarra|0
+AU:5453|clare|0
+AU:1835|auburn|0
+AU:3065|fitzroy|0
+AU:2217|kogarah|0
+AU:3152|wantirna|0
+AU:7256|currie|0
+AU:2195|lakemba|0
+AU:4013|northgate|0
+AU:6102|bentley|0
+AU:6225|buckingham|0
+AU:5602|cowell|0
+AU:3196|chelsea|0
+AU:2606|phillip|0
+AU:4880|mareeba|0
+AU:3833|baw baw|0
+AU:3944|portsea|0
+AU:2230|woolooware|0
+AU:4055|ferny hills|0
+AU:2680|griffith|0
+AU:2285|cardiff|0
+AU:2850|mudgee|0
+AU:5482|booleroo centre|0
+AU:2041|balmain|0
+AU:2336|aberdeen|0
+AU:6728|derby|0
+AU:3512|carina|0
+AU:3315|coleraine|0
+AU:5081|walkerville|0
+AU:5108|salisbury|0
+AU:5158|hallett cove|0
+AU:2110|hunters hill|0
+AU:5268|bordertown|0
+AU:3185|elsternwick|0
+AU:2502|warrawong|0
+AU:4507|bellara|0
+AU:5356|dutton|0
+AU:1590|st leonards|0
+AU:4823|julia creek|0
+AU:2256|woy woy|0
+AU:2478|pimlico|0
+AU:3170|mulgrave|0
+AU:4025|kooringal|0
+AU:6532|rockwell|0
+AU:1765|castle hill|0
+AU:1585|crows nest|0
+AU:3195|braeside|0
+AU:7215|gray|0
+AU:2030|vaucluse|0
+AU:3166|oakleigh|0
+AU:3946|bena|0
+AU:2583|rugby|0
+AU:3127|mont albert|0
+AU:2745|glenmore park|0
+AU:5576|yorketown|0
+AU:5353|angaston|0
+AU:2162|chester hill|0
+AU:2152|northmead|0
+AU:2648|wentworth|0
+AU:4725|barcaldine|0
+AU:2035|maroubra|0
+AU:2148|blacktown|0
+AU:2207|bexley|0
+AU:3280|warrnambool|0
+AU:2372|liston|0
+AU:3067|abbotsford|0
+AU:6760|marble bar|0
+AU:3616|tatura|0
+AU:2710|deniliquin|0
+AU:4821|stamford|0
+AU:4285|beaudesert|0
+AU:6160|fremantle|0
+AU:2049|petersham|0
+AU:2258|ourimbah|0
+AU:4552|conondale|0
+AU:5262|frances|0
+AU:3332|lethbridge|0
+AU:4807|ayr|0
+AU:3363|dean|0
+AU:3105|bulleen|0
+AU:5086|gilles plains|0
+AU:2228|yowie bay|0
+AU:2223|oatley|0
+AU:3076|epping|0
+AU:3073|reservoir|0
+AU:5575|brentwood|0
+AU:3943|sorrento|0
+AU:3802|endeavour hills|0
+AU:4830|burketown|0
+AU:5491|jamestown|0
+AU:2007|ultimo|0
+AU:2072|gordon|0
+AU:3020|albion|0
+AU:4805|bowen|0
+AU:3056|brunswick|0
+AU:2138|rhodes|0
+AU:2517|woonona|0
+AU:3809|officer|0
+AU:6304|beverley|0
+AU:3265|ellerslie|0
+AU:4123|rochedale|0
+AU:5342|monash|0
+AU:4570|gympie|0
+AU:4895|cooktown|0
+AU:3103|balwyn|0
+AU:3564|echuca|0
+AU:5700|port augusta|0
+AU:3765|montrose|0
+AU:3766|kalorama|0
+AU:3453|harcourt|0
+AU:2525|figtree|0
+AU:6251|newlands|0
+AU:2020|mascot|0
+AU:3953|leongatha|0
+AU:3260|camperdown|0
+AU:3945|loch|0
+AU:3201|carrum downs|0
+AU:3212|lara|0
+AU:2840|bourke|0
+AU:4164|thornlands|0
+AU:2836|wilcannia|0
+AU:5033|hilton|0
+AU:3146|glen iris|0
+AU:3000|melbourne|0
+AU:2141|lidcombe|0
+AU:3083|bundoora|0
+AU:3462|newstead|0
+AU:2460|grafton|0
+AU:3057|brunswick east|0
+AU:2191|belfield|0
+AU:3132|mitcham|0
+AU:5290|mount gambier|0
+AU:3172|dingley village|0
+AU:3678|milawa|0
+AU:7321|hampshire|0
+AU:3971|yarram|0
+AU:3384|barkly|0
+AU:6230|bunbury|0
+AU:4655|hervey bay|0
+AU:3177|doveton|0
+AU:3163|glen huntly|0
+AU:4873|newell|0
+AU:2534|gerringong|0
+AU:3475|logan|0
+AU:2463|ashby|0
+AU:7310|devonport|0
+AU:2480|lismore|0
+AU:4208|ormeau|0
+AU:4106|rocklea|0
+AU:5461|balaklava|0
+AU:6302|york|0
+AU:4125|park ridge|0
+AU:4070|moggill|0
+AU:6359|hyden|0
+AU:3314|cavendish|0
+AU:6327|redmond|0
+AU:2106|newport|0
+AU:2066|longueville|0
+AU:2090|cremorne|0
+AU:4000|spring hill|0
+AU:3461|drummond|0
+AU:7315|ulverstone|0
+AU:2261|the entrance|0
+AU:3016|williamstown|0
+AU:2799|neville|0
+AU:2604|kingston|0
+AU:4816|kennedy|0
+AU:5039|clarence gardens|0
+AU:2570|camden|0
+AU:4064|milton|0
+AU:3058|coburg|0
+AU:5168|old noarlunga|0
+AU:6110|gosnells|0
+AU:3034|avondale heights|0
+AU:2330|singleton|0
+AU:2145|wentworthville|0
+AU:6111|kelmscott|0
+AU:4012|nundah|0
+AU:2794|cowra|0
+AU:3660|seymour|0
+AU:6725|broome|0
+AU:2580|yarra|0
+AU:4306|moore|0
+AU:3028|laverton|0
+AU:2900|tuggeranong|0
+AU:2340|barry|0
+AU:6208|pinjarra|0
+AU:5330|waikerie|0
+AU:4741|eton|0
+AU:4001|brisbane|0
+AU:3289|tabor|0
+AU:3568|cohuna|0
+AU:3131|forest hill|0
+AU:2790|lithgow|0
+AU:2913|palmerston|0
+AU:2038|annandale|0
+AU:3032|maribyrnong|0
+AU:2019|botany|0
+AU:7268|underwood|0
+AU:4702|parkhurst|0
+AU:5163|hackham|0
+AU:5722|andamooka|0
+AU:3400|horsham|0
+AU:2097|collaroy|0
+AU:2590|cootamundra|0
+AU:5422|erskine|0
+AU:2663|junee|0
+AU:3079|ivanhoe|0
+AU:4557|mooloolaba|0
+AU:6155|canning vale|0
+AU:3036|keilor|0
+AU:6150|murdoch|0
+AU:4703|yeppoon|0
+AU:2911|mitchell|0
+AU:5067|norwood|0
+AU:4421|tara|0
+AU:5153|mylor|0
+AU:3155|boronia|0
+AU:3934|mount martha|0
+AU:3178|rowville|0
+AU:4370|warwick|0
+AU:5606|port lincoln|0
+AU:5061|unley|0
+AU:2093|balgowlah|0
+AU:6330|albany|0
+AU:3214|corio|0
+AU:5169|seaford|0
+AU:3142|toorak|0
+AU:3319|apsley|0
+AU:6210|mandurah|0
+AU:1445|rosebery|0
+AU:6051|maylands|0
+AU:2526|unanderra|0
+AU:3037|hillside|0
+AU:2060|north sydney|0
+AU:2143|regents park|0
+AU:3764|kilmore|0
+AU:6713|dampier|0
+AU:4814|aitkenvale|0
+AU:2140|homebush|0
+AU:2115|ermington|0
+AU:3814|garfield|0
+AU:2283|toronto|0
+AU:3480|donald|0
+AU:2062|cammeray|0
+AU:1680|ryde|0
+AU:3107|templestowe lower|0
+AU:3717|yea|0
+AU:4209|coomera|0
+AU:3915|hastings|0
+AU:3995|wonthaggi|0
+AU:2203|dulwich hill|0
+AU:6317|katanning|0
+AU:3722|mansfield|0
+AU:3012|brooklyn|0
+AU:3317|harrow|0
+AU:3958|buffalo|0
+AU:1499|sutherland|0
+AU:3149|mount waverley|0
+AU:3414|dimboola|0
+AU:2582|yass|0
+AU:3821|crossover|0
+AU:3707|corryong|0
+AU:2127|wentworth point|0
+AU:4377|the summit|0
+AU:6022|hamersley|0
+AU:2023|bellevue hill|0
+AU:5554|kadina|0
+AU:6616|latham|0
+AU:2156|kenthurst|0
+AU:4885|malanda|0
+AU:5237|palmer|0
+AU:1595|lane cove|0
+AU:2825|nyngan|0
+AU:2470|casino|0
+AU:3558|hunter|0
+AU:3226|ocean grove|0
+AU:3318|edenhope|0
+AU:2343|quirindi|0
+AU:3960|foster|0
+AU:4034|boondall|0
+AU:5157|kangarilla|0
+AU:4225|coolangatta|0
+AU:6010|claremont|0
+AU:6026|woodvale|0
+AU:5045|glenelg|0
+AU:2560|campbelltown|0
+AU:3840|morwell|0
+AU:3352|cardigan|0
+AU:2069|roseville|0
+AU:2905|calwell|0
+AU:2291|merewether|0
+AU:2287|wallsend|0
+AU:3820|warragul|0
+AU:3018|altona|0
+AU:5235|cromer|0
+AU:2766|eastern creek|0
+AU:3197|carrum|0
+AU:2037|glebe|0
+AU:2720|tumut|0
+AU:2481|byron bay|0
+AU:7117|dover|0
+AU:3147|ashburton|0
+AU:4211|nerang|0
+AU:5473|gladstone|0
+AU:5277|penola|0
+AU:4860|innisfail|0
+AU:0850|katherine|0
+AU:4472|blackall|0
+AU:5155|bridgewater|0
+AU:6639|sandstone|0
+AU:6069|upper swan|0
+AU:4874|weipa|0
+AU:6007|leederville|0
+AU:2333|muswellbrook|0
+AU:4171|bulimba|0
+AU:2548|merimbula|0
+AU:3806|berwick|0
+AU:3746|eldorado|0
+AU:4229|bond university|0
+AU:2290|gateshead|0
+AU:4110|acacia ridge|0
+AU:2086|frenchs forest|0
+AU:4501|lawnton|0
+AU:6753|newman|0
+AU:4356|pittsworth|0
+AU:2621|bungendore|0
+AU:3192|cheltenham|0
+AU:4113|eight mile plains|0
+AU:2829|coonamble|0
+AU:5272|conmurra|0
+AU:6014|wembley|0
+AU:4151|coorparoo|0
+AU:2877|condobolin|0
+AU:3629|mooroopna|0
+AU:2150|parramatta|0
+AU:7017|old beach|0
+AU:1335|potts point|0
+AU:2234|menai|0
+AU:4304|bundamba|0
+AU:5034|wayville|0
+AU:5019|semaphore|0
+AU:7260|forester|0
+AU:3759|panton hill|0
+AU:3922|cowes|0
+AU:4415|miles|0
+AU:5125|golden grove|0
+AU:3333|meredith|0
+AU:2281|catherine hill bay|0
+AU:7010|glenorchy|0
+AU:3858|dawson|0
+AU:6107|cannington|0
+AU:4114|kingston|0
+AU:3124|camberwell|0
+AU:3174|noble park|0
+AU:3060|fawkner|0
+AU:4621|lakeside|0
+AU:2142|granville|0
+AU:2834|lightning ridge|0
+AU:2469|drake|0
+AU:3059|greenvale|0
+AU:3485|woomelang|0
+AU:4810|townsville|0
+AU:3936|dromana|0
+AU:4350|toowoomba|0
+AU:3282|koroit|0
+AU:2033|kensington|0
+AU:2100|brookvale|0
+AU:2370|dundee|0
+AU:3239|gellibrand|0
+AU:2083|brooklyn|0
+AU:7008|new town|0
+AU:2645|urana|0
+AU:3793|monbulk|0
+AU:6000|perth|0
+AU:4520|samford|0
+AU:4067|st lucia|0
+AU:3189|moorabbin|0
+AU:5038|plympton|0
+AU:4066|toowong|0
+AU:3087|watsonia|0
+AU:3220|newtown|0
+AU:6156|melville|0
+AU:6714|karratha|0
+AU:2473|evans head|0
+AU:0800|darwin|0
+AU:2081|berowra|0
+AU:2226|como|0
+AU:2880|tibooburra|0
+AU:2117|oatlands|0
+AU:2251|davistown|0
+AU:0810|casuarina|0
+AU:2360|inverell|0
+AU:4502|petrie|0
+AU:3136|croydon|0
+AU:4573|coolum beach|0
+AU:5253|murray bridge|0
+AU:7270|beaconsfield|0
+AU:5280|millicent|0
+AU:3041|strathmore|0
+AU:2021|paddington|0
+AU:2848|kandos|0
+AU:3695|huon|0
+AU:5043|ascot park|0
+AU:4310|anthony|0
+AU:2027|darling point|0
+AU:3205|south melbourne|0
+AU:4802|cannonvale|0
+AU:3585|swan hill|0
+AU:6011|cottesloe|0
+AU:3789|sherbrooke|0
+AU:2737|euston|0
+AU:5172|willunga|0
+AU:2505|port kembla|0
+AU:3039|moonee ponds|0
+AU:4808|brandon|0
+AU:2427|harrington|0
+AU:4610|crawford|0
+AU:3186|brighton|0
+AU:5560|bute|0
+AU:3199|frankston|0
+AU:5017|osborne|0
+AU:2630|cooma|0
+AU:6472|beacon|0
+AU:3812|nar nar goon|0
+AU:2329|merriwa|0
+AU:5201|meadows|0
+AU:2010|surry hills|0
+AU:3458|trentham|0
+AU:3925|newhaven|0
+AU:4223|currumbin|0
+AU:5007|hindmarsh|0
+AU:4014|virginia|0
+AU:3162|caulfield|0
+AU:5690|ceduna|0
+AU:5082|prospect|0
+AU:3135|heathmont|0
+AU:4455|hodgson|0
+AU:3158|upwey|0
+AU:5211|victor harbor|0
+AU:0812|marrara|0
+AU:4051|newmarket|0
+AU:3108|doncaster|0
+AU:3546|bolton|0
+AU:1685|west ryde|0
+AU:7250|launceston|0
+AU:4724|alpha|0
+AU:3206|albert park|0
+AU:2107|avalon|0
+AU:3312|lindsay|0
+AU:4352|gore|0
+AU:2618|hall|0
+AU:5245|hahndorf|0
+AU:2810|grenfell|0
+AU:2070|lindfield|0
+AU:3818|drouin|0
+AU:2155|kellyville|0
+AU:2873|tottenham|0
+AU:7030|interlaken|0
+AU:3715|merton|0
+AU:5047|sturt|0
+AU:2866|amaroo|0
+AU:5652|wudinna|0
+AU:2263|gorokan|0
+AU:4212|helensvale|0
+AU:2767|doonside|0
+AU:4380|stanthorpe|0
+AU:2780|katoomba|0
+AU:2016|redfern|0
+AU:1475|marrickville|0
+AU:5231|kersbrook|0
+AU:2087|forestville|0
+AU:3144|malvern|0
+AU:2541|nowra|0
+AU:4567|noosa heads|0
+AU:4850|ingham|0
+AU:2609|fyshwick|0
+AU:4124|greenbank|0
+AU:3110|nunawading|0
+AU:2009|pyrmont|0
+AU:3191|sandringham|0
+AU:2551|eden|0
+AU:2575|mittagong|0
+AU:3380|stawell|0
+AU:6603|wongan hills|0
+AU:2317|soldiers point|0
+AU:5540|port pirie|0
+AU:2538|milton|0
+AU:3805|narre warren|0
+AU:3198|seaford|0
+AU:7113|franklin|0
+AU:3064|craigieburn|0
+AU:2076|wahroonga|0
+AU:6537|denham|0
+AU:3043|tullamarine|0
+AU:2008|chippendale|0
+AU:2324|raymond terrace|0
+AU:2337|segenhoe|0
+AU:3207|port melbourne|0
+AU:2484|murwillumbah|0
+AU:2103|mona vale|0
+AU:2540|huskisson|0
+AU:3614|toolamba|0
+AU:3216|belmont|0
+AU:4887|herberton|0
+AU:4551|caloundra|0
+AU:3987|nyora|0
+AU:7216|st helens|0
+AU:3088|briar hill|0
+AU:3810|pakenham|0
+AU:3825|moe|0
+AU:3224|leopold|0
+AU:3561|rochester|0
+AU:4111|nathan|0
+AU:2516|bulli|0
+AU:2454|raleigh|0
+AU:3222|drysdale|0
+AU:1220|grosvenor place|0
+AU:4122|mansfield|0
+AU:3357|buninyong|0
+AU:4426|jackson|0
+AU:2600|canberra|0
+AU:6017|osborne park|0
+AU:3815|bunyip|0
+AU:2067|chatswood|0
+AU:3093|lower plenty|0
+AU:4215|southport|0
+AU:3350|newington|0
+AU:2650|wagga wagga|0
+AU:2658|ryan|0
+AU:4129|loganholme|0
+AU:2212|revesby|0
+AU:4303|riverview|0
+AU:2265|cooranbong|0
+AU:6255|bridgetown|0
+AU:2559|claymore|0
+AU:3763|kinglake|0
+AU:4505|burpengary|0
+AU:4709|tieri|0
+AU:4405|dalby|0
+AU:0860|tennant creek|0
+AU:4627|grosvenor|0
+AU:4169|east brisbane|0
+AU:5068|leabrook|0
+AU:1805|burwood|0
+AU:2147|seven hills|0
+AU:3643|cobram|0
+AU:4004|spring hill|0
+AU:2113|north ryde|0
+AU:3689|wodonga|0
+AU:3179|scoresby|0
+AU:3676|wangaratta|0
+AU:3169|clayton|0
+AU:6323|mount barker|0
+AU:2616|belconnen|0
+AU:3113|warrandyte south|0
+AU:4563|cooroy|0
+AU:4854|tully|0
+AU:4881|kuranda|0
+AU:4360|nobby|0
+AU:3167|oakleigh south|0
+AU:1465|kensington|0
+AU:9726|gold coast|0
+AU:3619|kyabram|0
+AU:3487|lascelles|0
+AU:7025|richmond|0
+AU:6073|mundaring|0
+AU:6284|cowaramup|0
+AU:4470|charleville|0
+AU:2672|lake cargelligo|0
+AU:4312|mount hallen|0
+AU:3786|ferny creek|0
+AU:3966|binginwarri|0
+AU:3904|metung|0
+AU:3726|devenish|0
+AU:5250|littlehampton|0
+AU:2305|new lambton|0
+AU:2666|grogan|0
+AU:3959|fish creek|0
+AU:3143|armadale|0
+AU:2395|weetaliba|0
+AU:2447|burrapine|0
+AU:3271|darlington|0
+AU:3232|lorne|0
+AU:2647|mulwala|0
+AU:5414|manoora|0
+AU:2312|minimbah|0
+AU:4518|glass house mountains|0
+AU:2278|killingworth|0
+AU:6566|west toodyay|0
+AU:4417|surat|0
+AU:3634|tallygaroopna|0
+AU:7277|rosevears|0
+AU:5631|cummins|0
+AU:4811|cluden|0
+AU:2722|gundagai|0
+AU:2344|duri|0
+AU:4555|palmwoods|0
+AU:3218|geelong west|0
+AU:3338|melton south|0
+AU:3758|wandong|0
+AU:2777|valley heights|0
+AU:2653|tumbarumba|0
+AU:5641|kimba|0
+AU:6157|bicton|0
+AU:2700|narrandera|0
+AU:4358|cambooya|0
+AU:4671|booyal|0
+AU:2448|nambucca heads|0
+AU:4695|mount larcom|0
+AU:6367|kondinin|0
+AU:5236|tungkillo|0
+AU:4869|edmonton|0
+AU:4340|moorang|0
+AU:6620|perenjori|0
+AU:3621|tongala|0
+AU:2371|emmaville|0
+AU:3740|porepunkah|0
+AU:2632|craigie|0
+AU:5171|mclaren flat|0
+AU:6012|mosman park|0
+AU:2284|teralba|0
+AU:3779|marysville|0
+AU:2671|wyalong|0
+AU:2318|williamtown|0
+AU:3276|woolsthorpe|0
+AU:4571|kin kin|0
+AU:2359|bundarra|0
+AU:4383|wallangarra|0
+AU:6365|jitarning|0
+AU:3744|wandiligong|0
+AU:3440|macedon|0
+AU:4508|deception bay|0
+AU:6409|tammin|0
+AU:6035|yanchep|0
+AU:3434|springfield|0
+AU:2758|kurrajong|0
+AU:4496|talwood|0
+AU:4804|mount coolon|0
+AU:3954|koonwarra|0
+AU:5734|oodnadatta|0
+AU:2669|girral|0
+AU:5121|penfield|0
+AU:4408|bell|0
+AU:2578|bundanoon|0
+AU:4465|mitchell|0
+AU:4704|yaamba|0
+AU:2716|jerilderie|0
+AU:6253|balingup|0
+AU:5074|campbelltown|0
+AU:4568|pomona|0
+AU:3646|dookie|0
+AU:6313|highbury|0
+AU:5556|wallaroo|0
+AU:6511|cervantes|0
+AU:4309|kulgun|0
+AU:2865|manildra|0
+AU:5345|barmera|0
+AU:5279|mount burr|0
+AU:3808|beaconsfield upper|0
+AU:6333|denmark|0
+AU:7116|geeveston|0
+AU:3284|port fairy|0
+AU:3527|wycheproof|0
+AU:4751|walkerston|0
+AU:3427|diggers rest|0
+AU:3556|eaglehawk|0
+AU:3860|riverslea|0
+AU:3856|toongabbie|0
+AU:3640|katunga|0
+AU:3424|rainbow|0
+AU:2079|mount colah|0
+AU:5161|reynella|0
+AU:2586|boorowa|0
+AU:3756|upper plenty|0
+AU:7175|bream creek|0
+AU:5413|marrabel|0
+AU:2623|captains flat|0
+AU:5238|angas valley|0
+AU:2132|croydon|0
+AU:5523|merriton|0
+AU:5371|roseworthy|0
+AU:2421|paterson|0
+AU:3782|macclesfield|0
+AU:2404|keera|0
+AU:5049|kingston park|0
+AU:2466|iluka|0
+AU:4362|deuchar|0
+AU:2334|greta|0
+AU:7155|kettering|0
+AU:2646|balldale|0
+AU:5522|port broughton|0
+AU:3533|sea lake|0
+AU:5252|kanmantoo|0
+AU:3933|moorooduc|0
+AU:3451|fryerstown|0
+AU:4468|morven|0
+AU:5015|port adelaide|0
+AU:6163|spearwood|0
+AU:7331|stanley|0
+AU:3559|corop|0
+AU:6560|wundowie|0
+AU:4722|springsure|0
+AU:2449|argents hill|0
+AU:3435|lancefield|0
+AU:6074|sawyers valley|0
+AU:6123|mundijong|0
+AU:4387|inglewood|0
+AU:5351|mount crawford|0
+AU:4179|manly|0
+AU:5212|port elliot|0
+AU:6710|onslow|0
+AU:4753|marian|0
+AU:2827|gilgandra|0
+AU:6258|manjimup|0
+AU:4130|carbrook|0
+AU:2032|daceyville|0
+AU:7470|rosebery|0
+AU:5117|angle vale|0
+AU:6411|doodlakine|0
+AU:2220|hurstville grove|0
+AU:4799|bloomsbury|0
+AU:6510|moora|0
+AU:3878|eagle point|0
+AU:5141|summertown|0
+AU:4512|wamuran|0
+AU:3089|diamond creek|0
+AU:3962|toora|0
+AU:7292|rosevale|0
+AU:4428|wallumbilla|0
+AU:3788|olinda|0
+AU:2738|gol gol|0
+AU:3567|leitchville|0
+AU:2262|budgewoi|0
+AU:6390|boddington|0
+AU:3751|woodstock|0
+AU:5254|monteith|0
+AU:3797|powelltown|0
+AU:5156|upper sturt|0
+AU:2264|mandalong|0
+AU:3723|woods point|0
+AU:3341|myrniong|0
+AU:4754|septimus|0
+AU:7177|dunalley|0
+AU:2849|glen alice|0
+AU:3329|shelford|0
+AU:6407|youndegin|0
+AU:3658|reedy creek|0
+AU:4580|tin can bay|0
+AU:3109|doncaster east|0
+AU:6239|donnybrook|0
+AU:2486|carool|0
+AU:5550|inkerman|0
+AU:3148|jordanville|0
+AU:4574|obi obi|0
+AU:3278|purnim|0
+AU:3623|stanhope|0
+AU:2713|finley|0
+AU:3981|heath hill|0
+AU:3683|chiltern|0
+AU:5490|caltowie|0
+AU:4738|koumala|0
+AU:0847|pine creek|0
+AU:2804|canowindra|0
+AU:5174|sellicks hill|0
+AU:6322|tenterden|0
+AU:2369|tingha|0
+AU:6635|yalgoo|0
+AU:6440|laverton|0
+AU:2842|mendooran|0
+AU:2327|kurri kurri|0
+AU:5343|lyrup|0
+AU:5381|robertstown|0
+AU:4521|dayboro|0
+AU:6434|forrest|0
+AU:2572|thirlmere|0
+AU:4210|maudsland|0
+AU:3525|wychitella|0
+AU:4341|townson|0
+AU:3902|johnsonville|0
+AU:6019|scarborough|0
+AU:6425|moorine rock|0
+AU:3447|taradale|0
+AU:5242|balhannah|0
+AU:2706|darlington point|0
+AU:6159|north fremantle|0
+AU:4673|yandaran|0
+AU:3847|rosedale|0
+AU:2556|bringelly|0
+AU:4750|bucasia|0
+AU:4554|eudlo|0
+AU:3903|swan reach|0
+AU:4710|emu park|0
+AU:3477|beazleys bridge|0
+AU:2852|gulgong|0
+AU:2173|holsworthy|0
+AU:3566|gunbower|0
+AU:7026|campania|0
+AU:2096|curl curl|0
+AU:3423|jeparit|0
+AU:3669|upotipotpon|0
+AU:6237|boyanup|0
+AU:3892|mallacoota|0
+AU:5464|rochester|0
+AU:3767|mount dandenong|0
+AU:3393|bangerang|0
+AU:6475|koorda|0
+AU:2286|holmesville|0
+AU:2328|denman|0
+AU:2423|crawford river|0
+AU:6438|leonora|0
+AU:4878|yorkeys knob|0
+AU:3711|buxton|0
+AU:7020|sandford|0
+AU:2832|walgett|0
+AU:7469|renison bell|0
+AU:3412|goroke|0
+AU:6429|londonderry|0
+AU:4342|forest hill|0
+AU:3324|mount bute|0
+AU:5264|meningie|0
+AU:3753|beveridge|0
+AU:3823|allambee|0
+AU:4346|marburg|0
+AU:2773|glenbrook|0
+AU:3115|wonga park|0
+AU:5152|stirling|0
+AU:3813|tynong north|0
+AU:2844|birriwa|0
+AU:3718|molesworth|0
+AU:4160|ormiston|0
+AU:6346|ravensthorpe|0
+AU:7254|bellingham|0
+AU:6642|meekatharra|0
+AU:2730|batlow|0
+AU:2483|brunswick heads|0
+AU:5120|virginia|0
+AU:3610|moorilim|0
+AU:7306|lower barrington|0
+AU:3888|orbost|0
+AU:5167|port noarlunga|0
+AU:4017|deagon|0
+AU:2527|albion park|0
+AU:6055|guildford|0
+AU:4480|quilpie|0
+AU:3637|yalca|0
+AU:2787|edith|0
+AU:2568|menangle|0
+AU:5085|northfield|0
+AU:5134|montacute|0
+AU:5137|ashton|0
+AU:2462|wooli|0
+AU:2818|geurie|0
+AU:5133|inglewood|0
+AU:4219|west burleigh|0
+AU:2571|wilton|0
+AU:2388|yarrie lake|0
+AU:6071|hovea|0
+AU:2267|wangi wangi|0
+AU:3360|linton|0
+AU:5210|mount compass|0
+AU:2311|gresford|0
+AU:4718|moura|0
+AU:7316|south riana|0
+AU:7022|south arm|0
+AU:4625|gayndah|0
+AU:4272|mount tamborine|0
+AU:4271|eagle heights|0
+AU:6503|gingin|0
+AU:5573|urania|0
+AU:5255|langhorne creek|0
+AU:2805|gooloogong|0
+AU:5267|keith|0
+AU:7467|queenstown|0
+AU:3705|cudgewa|0
+AU:4737|blue mountain|0
+AU:3682|springhurst|0
+AU:3824|trafalgar|0
+AU:3691|lucyvale|0
+AU:3294|dunkeld|0
+AU:3505|merbein south|0
+AU:4307|coleyville|0
+AU:2569|douglas park|0
+AU:3807|beaconsfield|0
+AU:3792|the patch|0
+AU:6125|serpentine|0
+AU:6431|lakewood|0
+AU:3688|barnawartha|0
+AU:2425|the branch|0
+AU:7019|rokeby|0
+AU:3594|nyah|0
+AU:6375|corrigin|0
+AU:2197|bass hill|0
+AU:2633|delegate|0
+AU:3418|glenlee|0
+AU:4407|cecil plains|0
+AU:2587|kingsvale|0
+AU:2431|jerseyville|0
+AU:2776|faulconbridge|0
+AU:6170|wellard|0
+AU:2782|wentworth falls|0
+AU:3747|murmungee|0
+AU:3472|eddington|0
+AU:4373|killarney|0
+AU:2786|mount victoria|0
+AU:4454|injune|0
+AU:3490|kulwin|0
+AU:2353|moonbi|0
+AU:5098|ingle farm|0
+AU:3395|rosebery|0
+AU:3595|nyah west|0
+AU:7050|kingston|0
+AU:2665|ariah park|0
+AU:5241|lobethal|0
+AU:2584|binalong|0
+AU:6308|pingelly|0
+AU:2546|wadbilliga|0
+AU:4852|south mission beach|0
+AU:2539|conjola|0
+AU:3750|wollert|0
+AU:4861|bartle frere|0
+AU:2280|belmont|0
+AU:4228|tallebudgera|0
+AU:5234|birdwood|0
+AU:3431|riddells creek|0
+AU:5244|harrogate|0
+AU:2381|premer|0
+AU:3618|merrigum|0
+AU:3370|glengower|0
+AU:3880|paynesville|0
+AU:4615|nanango|0
+AU:4275|canungra|0
+AU:3460|daylesford|0
+AU:3871|delburn|0
+AU:7290|hadspen|0
+AU:2549|millingandi|0
+AU:2335|branxton|0
+AU:5131|houghton|0
+AU:6623|morawa|0
+AU:5309|mindarie|0
+AU:5572|arthurton|0
+AU:2222|penshurst|0
+AU:4344|rockmount|0
+AU:3351|smythes creek|0
+AU:5415|mintaro|0
+AU:2644|holbrook|0
+AU:3555|kangaroo flat|0
+AU:3978|clyde north|0
+AU:2785|blackheath|0
+AU:2402|warialda|0
+AU:3024|mount cottrell|0
+AU:3241|winchelsea|0
+AU:7301|bishopsbourne|0
+AU:2651|forest hill|0
+AU:3612|whroo|0
+AU:3937|red hill|0
+AU:4553|mooloolah|0
+AU:4490|tuen|0
+AU:2835|cobar|0
+AU:2714|tocumwal|0
+AU:3463|walmer|0
+AU:6158|east fremantle|0
+AU:3154|the basin|0
+AU:5259|tailem bend|0
+AU:3467|avoca|0
+AU:4714|mount morgan|0
+AU:5151|piccadilly|0
+AU:5276|robe|0
+AU:3799|wesburn|0
+AU:2705|whitton|0
+AU:2878|mossgiel|0
+AU:2347|barraba|0
+AU:4401|biddeston|0
+AU:4858|mourilyan|0
+AU:3355|wendouree|0
+AU:6569|calingiri|0
+AU:3918|bittern|0
+AU:3733|whitfield|0
+AU:3062|somerton|0
+AU:5142|uraidla|0
+AU:2382|boggabri|0
+AU:6214|coolup|0
+AU:3663|mangalore|0
+AU:7180|taranna|0
+AU:7252|weymouth|0
+AU:6122|byford|0
+AU:3584|lake boga|0
+AU:2715|balranald|0
+AU:3870|boolarra|0
+AU:4829|bedourie|0
+AU:4882|tolga|0
+AU:4355|crows nest|0
+AU:2219|sans souci|0
+AU:2167|glenfield|0
+AU:5052|belair|0
+AU:4301|redbank|0
+AU:2321|heddon greta|0
+AU:7210|campbell town|0
+AU:2660|culcairn|0
+AU:3754|mernda|0
+AU:7012|glenlusk|0
+AU:4742|nebo|0
+AU:5256|milang|0
+AU:2628|berridale|0
+AU:6070|darlington|0
+AU:3938|mccrae|0
+AU:3464|carisbrook|0
+AU:7162|woodbridge|0
+AU:4660|childers|0
+AU:4400|kingsthorpe|0
+AU:3796|mount evelyn|0
+AU:3749|bruarong|0
+AU:5495|port germein|0
+AU:3227|barwon heads|0
+AU:4890|normanton|0
+AU:2323|mulbring|0
+AU:4515|royston|0
+AU:5460|pinery|0
+AU:2574|bargo|0
+AU:4354|goombungee|0
+AU:2821|narromine|0
+AU:2084|terrey hills|0
+AU:2845|wallerawang|0
+AU:3428|bulla|0
+AU:4503|dakabin|0
+AU:5633|lock|0
+AU:6514|green head|0
+AU:2346|klori|0
+AU:3709|walwa|0
+AU:4517|beerburrum|0
+AU:4035|albany creek|0
+AU:5400|wasleys|0
+AU:5251|mount barker|0
+AU:5480|laura|0
+AU:3331|steiglitz|0
+AU:2652|tarcutta|0
+AU:2629|yaouk|0
+AU:7265|winnaleah|0
+AU:6236|wellington mill|0
+AU:3664|avenel|0
+AU:2146|toongabbie|0
+AU:4865|little mulgrave|0
+AU:3859|tinamba|0
+AU:2675|hillston|0
+AU:2471|coraki|0
+AU:3874|woodside|0
+AU:4516|elimbah|0
+AU:2225|oyster bay|0
+AU:3441|mount macedon|0
+AU:7305|railton|0
+AU:3673|swanpool|0
+AU:4824|oorindi|0
+AU:3641|strathmerton|0
+AU:6485|wyalkatchem|0
+AU:4390|goondiwindi|0
+AU:3886|newmerella|0
+AU:6562|bakers hill|0
+AU:3988|mountain view|0
+AU:4133|waterford|0
+AU:2429|bunyah|0
+AU:5372|freeling|0
+AU:4569|cooran|0
+AU:2729|tumblong|0
+AU:2869|trewilga|0
+AU:4872|innot hot springs|0
+AU:3211|little river|0
+AU:2456|woolgoolga|0
+AU:5410|stockport|0
+AU:3752|south morang|0
+AU:2455|urunga|0
+AU:3984|monomeith|0
+AU:5048|brighton|0
+AU:4877|port douglas|0
+AU:4353|haden|0
+AU:4059|red hill|0
+AU:3775|christmas hills|0
+AU:0845|batchelor|0
+AU:5417|burra|0
+AU:2529|shellharbour|0
+AU:4313|ottaba|0
+AU:4270|tamborine|0
+AU:3687|wahgunyah|0
+AU:6383|yoting|0
+AU:2453|ebor|0
+AU:3233|skenes creek|0
+AU:2508|woronora dam|0
+AU:7212|blessington|0
+AU:3371|dunach|0
+AU:2703|yanco|0
+AU:3311|casterton|0
+AU:4105|tennyson|0
+AU:5558|north yelta|0
+AU:3854|glengarry west|0
+AU:4413|wieambilla|0
+AU:3356|sebastopol|0
+AU:3540|quambatook|0
+AU:5304|pinnaroo|0
+AU:3515|marong|0
+AU:3387|marnoo|0
+AU:2624|thredbo village|0
+AU:3580|koondrook|0
+AU:2770|mount druitt|0
+AU:3675|boweya|0
+AU:6271|capel|0
+AU:6558|wooroloo|0
+AU:6740|wyndham|0
+AU:2213|east hills|0
+AU:4566|noosaville|0
+AU:4007|hamilton|0
+AU:6215|hamel|0
+AU:2642|tooma|0
+AU:2316|bobs farm|0
+AU:5731|leigh creek|0
+AU:2762|schofields|0
+AU:4721|clermont|0
+AU:3741|harrietville|0
+AU:6751|tom price|0
+AU:5502|reeves plains|0
+AU:7173|forcett|0
+AU:4606|wondai|0
+AU:4626|mundubbera|0
+AU:6037|two rocks|0
+AU:6082|mount helena|0
+AU:7304|jackeys marsh|0
+AU:4662|torbanlea|0
+AU:5581|port vincent|0
+AU:4514|villeneuve|0
+AU:5213|middleton|0
+AU:3787|sassafras gully|0
+AU:3537|boort|0
+AU:3272|woorndoo|0
+AU:7214|mathinna|0
+AU:4361|ellangowan|0
+AU:2712|berrigan|0
+AU:5419|hallett|0
+AU:4868|woree|0
+AU:3735|whorouly|0
+AU:2479|knockrow|0
+AU:4357|stonehenge|0
+AU:3783|gembrook|0
+AU:2806|eugowra|0
+AU:3739|eurobin|0
+AU:6443|eucla|0
+AU:3791|kallista|0
+AU:6320|wansbrough|0
+AU:3976|hampton park|0
+AU:3992|dalyston|0
+AU:2338|murrurundi|0
+AU:6282|yallingup|0
+AU:5214|hindmarsh island|0
+AU:4311|minden|0
+AU:3015|newport|0
+AU:2474|ettrick|0
+AU:4375|cottonvale|0
+AU:2778|linden|0
+AU:6244|boyup brook|0
+AU:3396|hopetoun|0
+AU:3285|yambuk|0
+AU:4876|bamaga|0
+AU:6450|esperance|0
+AU:2668|barmedman|0
+AU:2475|tooloom|0
+AU:6348|hopetoun|0
+AU:7112|nicholls rivulet|0
+AU:3919|crib point|0
+AU:4717|blackwater|0
+AU:6280|wonnerup|0
+AU:5263|coonawarra|0
+AU:4153|belmont|0
+AU:3523|argyle|0
+AU:4183|dunwich|0
+AU:4806|home hill|0
+AU:3736|myrtleford|0
+AU:3956|dumbalk|0
+AU:6312|yilliminning|0
+AU:6517|carnamah|0
+AU:5307|marama|0
+AU:3699|mount beauty|0
+AU:3361|skipton|0
+AU:2828|gulargambone|0
+AU:2545|bodalla|0
+AU:6418|bruce rock|0
+AU:6415|merredin|0
+AU:6286|forest grove|0
+AU:7171|penna|0
+AU:6353|tarin rock|0
+AU:3980|tooradin|0
+AU:2465|harwood|0
+AU:3781|cockatoo|0
+AU:6044|lancelin|0
+AU:3518|fernihurst|0
+AU:7211|epping forest|0
+AU:2339|warrah|0
+AU:2361|bonshaw|0
+AU:6169|safety bay|0
+AU:6770|halls creek|0
+AU:5583|edithburgh|0
+AU:7163|middleton|0
+AU:2472|tabbimoble|0
+AU:2847|portland|0
+AU:3926|merricks north|0
+AU:3419|kaniva|0
+AU:0804|parap|0
+AU:0880|yirrkala|0
+AU:3575|sylvaterre|0
+AU:6081|stoneville|0
+AU:2528|windang|0
+AU:4504|narangba|0
+AU:5341|renmark|0
+AU:2490|tumbulgum|0
+AU:2839|brewarrina|0
+AU:6275|nannup|0
+AU:3301|croxton east|0
+AU:4884|yungaburra|0
+AU:4550|landsborough|0
+AU:7276|gravelly beach|0
+AU:6525|port denison|0
+AU:2157|glenorie|0
+AU:3283|yarpturk|0
+AU:7258|breadalbane|0
+AU:2352|tintinhull|0
+AU:5110|bolivar|0
+AU:3631|cosgrove|0
+AU:3521|pyalong|0
+AU:5401|hamley bridge|0
+AU:5136|norton summit|0
+AU:6176|karnup|0
+AU:7184|nubeena|0
+AU:3991|bass|0
+AU:6207|north dandalup|0
+AU:4404|bowenville|0
+AU:5233|gumeracha|0
+AU:4388|yelarbon|0
+AU:4809|giru|0
+AU:6335|gnowangerup|0
+AU:3275|mailors flat|0
+AU:4677|miriam vale|0
+AU:6126|keysbrook|0
+AU:6288|karridale|0
+AU:3235|boonah|0
+AU:3254|cororooke|0
+AU:6213|dwellingup|0
+AU:3822|darnum|0
+AU:4481|windorah|0
+AU:5204|normanville|0
+AU:5462|blyth|0
+AU:4620|aramara|0
+AU:2643|howlong|0
+AU:2809|greenethorpe|0
+AU:5350|rosedale|0
+AU:4798|calen|0
+AU:5261|culburra|0
+AU:6490|elabbin|0
+AU:3697|tawonga|0
+AU:3433|monegeetta|0
+AU:3468|mount lonarch|0
+AU:3732|moyhu|0
+AU:2702|ganmain|0
+AU:3310|merino|0
+AU:3392|minyip|0
+AU:5607|ungarra|0
+AU:3869|yinnar|0
+AU:2626|colinton|0
+AU:2415|stroud road|0
+AU:3385|deep lead|0
+AU:6311|yornaning|0
+AU:3302|branxholme|0
+AU:6395|kojonup|0
+AU:2002|world square|0
+AU:3373|waterloo|0
+AU:7302|cressy|0
+AU:2015|beaconsfield|0
+AU:6720|point samson|0
+AU:3900|benambra|0
+AU:3923|rhyll|0
+AU:2108|palm beach|0
+AU:6318|broomehill|0
+AU:3638|yielima|0
+AU:3446|malmsbury|0
+AU:3951|arawata|0
+AU:4849|cardwell|0
+AU:3755|yan yean|0
+AU:5472|georgetown|0
+AU:6572|piawaning|0
+AU:3236|forrest|0
+AU:6072|mahogany creek|0
+AU:7263|legerwood|0
+AU:3482|watchem|0
+AU:6426|yellowdine|0
+AU:3562|torrumbarry|0
+AU:3572|tennyson|0
+AU:5733|marree|0
+AU:3281|grassmere|0
+AU:5510|lochiel|0
+AU:6315|cancanning|0
+AU:3345|gordon|0
+AU:2843|coolah|0
+AU:2736|tooleybuc|0
+AU:4359|greenmount|0
+AU:2717|dareton|0
+AU:5138|basket range|0
+AU:2397|bellata|0
+AU:6254|greenbushes|0
+AU:3303|wallacedale|0
+AU:6423|carrabin|0
+AU:2807|koorawatha|0
+AU:0822|maningrida|0
+AU:2398|gurley|0
+AU:6211|dawesville|0
+AU:6350|dumbleyung|0
+AU:3864|fernbank|0
+AU:3890|cann river|0
+AU:4492|thargomindah|0
+AU:3270|peterborough|0
+AU:4406|kaimkillenbun|0
+AU:4376|thulimbah|0
+AU:6218|yarloop|0
+AU:5203|yankalilla|0
+AU:3785|tremont|0
+AU:2732|barham|0
+AU:6488|trayning|0
+AU:3670|baddaginnie|0
+AU:6403|grass valley|0
+AU:6410|kellerberrin|0
+AU:6405|meckering|0
+AU:6370|wickepin|0
+AU:3720|bonnie doon|0
+AU:4489|wyandra|0
+AU:2341|werris creek|0
+AU:2725|stockinbingal|0
+AU:4371|yangan|0
+AU:3728|wilby|0
+AU:2144|auburn|0
+AU:2355|bendemeer|0
+AU:4410|jandowae|0
+AU:3309|digby|0
+AU:2424|mount george|0
+AU:5411|tarlee|0
+AU:5730|blinman|0
+AU:7182|port arthur|0
+AU:3488|speed|0
+AU:5570|port clinton|0
+AU:4731|isisford|0
+AU:3965|port welshpool|0
+AU:4382|ballandean|0
+AU:7255|emita|0
+AU:6316|woodanilling|0
+AU:3898|omeo|0
+AU:6321|cranbrook|0
+AU:6507|dandaragan|0
+AU:6326|narrikup|0
+AU:1005|sydney|0
+AU:9015|brisbane|0
+AU:8399|melbourne|0
+AU:2610|canberra|0
+AU:1440|waterloo|0
+AU:0200|canberra|0
+AU:3217|geelong|0
+AU:5001|adelaide|0
+AU:3002|melbourne|0
+AU:0900|darwin|0
+AU:5889|adelaide|0
+AU:6850|perth|0
+AU:2057|chatswood|0
+AU:1888|bankstown|0
+AU:3539|bendigo|0
+AU:2001|sydney|0
+AU:1597|lane cove|0
+AU:2109|sydney|0
+AU:2826|dubbo|0
+AU:4002|brisbane|0
+AU:1849|villawood|0
+AU:1741|parramatta|0
+AU:8576|ivanhoe|0
+AU:3183|st kilda|0
+AU:6958|perth|0
+AU:2059|north sydney|0
+AU:0811|darwin|0
+AU:3129|box hill|0
+AU:6926|kalamunda|0
+AU:2601|canberra|0
+AU:2308|newcastle|0
+AU:0872|alice springs|0
+AU:8008|melbourne|0
+AU:3632|shepparton|0
+AU:7850|hobart|0
+AU:6909|nedlands|0
+AU:3554|bendigo|0
+AU:3841|morwell|0
+AU:2522|wollongong|0
+AU:2796|bathurst|0
+AU:0871|alice springs|0
+AU:1134|sydney|0
+AU:1101|sydney|0
+AU:6946|wanneroo|0
+AU:6231|bunbury|0
+AU:6936|midland|0
+AU:6968|rockingham|0
+AU:3502|mildura|0
+AU:6531|geraldton|0
+AU:3402|horsham|0
+AU:6919|joondalup|0
+AU:3354|ballarat|0
+AU:6332|albany|0
+AU:2751|penrith|0
+AU:0852|katherine|0
+AU:6966|kwinana|0
+AU:6433|kalgoorlie|0
+AU:3853|sale|0
+AU:5301|sherlock|0
+AU:3517|inglewood|0
+AU:2022|bondi junction|0
+AU:2126|cherrybrook|0
+AU:2731|moama|0
+AU:3126|canterbury|0
+AU:2166|cabramatta|0
+AU:3078|fairfield|0
+AU:5725|roxby downs|0
+AU:3145|darling|0
+AU:3004|melbourne|0
+AU:6031|neerabup|0
+AU:2296|islington|0
+AU:3401|karnak|0
+AU:6398|walpole|0
+AU:3202|heatherton|0
+AU:2707|coleambally|0
+AU:4381|fletcher|0
+AU:5555|alford|0
+AU:4487|st george|0
+AU:2104|bayview|0
+AU:3761|st andrews|0
+AU:4108|coopers plains|0
+AU:3530|culgoa|0
+AU:3916|merricks|0
+AU:7052|blackmans bay|0
+AU:4564|mudjimba|0
+AU:6646|wiluna|0
+AU:3091|yarrambat|0
+AU:3085|macleod|0
+AU:5072|magill|0
+AU:6003|northbridge|0
+AU:3727|st james|0
+AU:3738|ovens|0
+AU:2063|northbridge|0
+AU:3001|melbourne|0
+AU:3724|mansfield|0
+AU:4074|sumner|0
+AU:6149|bull creek|0
+AU:3051|north melbourne|0
+AU:2912|gungahlin|0
+AU:4128|shailer park|0
+AU:2045|haberfield|0
+AU:6006|north perth|0
+AU:4032|chermside|0
+AU:3048|meadow heights|0
+AU:2607|farrer|0
+AU:2904|fadden|0
+AU:4036|bald hills|0
+AU:2112|ryde|0
+AU:4031|gordon park|0
+AU:3180|knoxfield|0
+AU:2111|gladesville|0
+AU:2641|lavington|0
+AU:4174|hemmant|0
+AU:4173|tingalpa|0
+AU:4107|salisbury|0
+AU:5260|tailem bend|0
+AU:4803|hamilton island|0
+AU:6104|belmont|0
+AU:6005|west perth|0
+AU:3219|newcomb|0
+AU:6050|mount lawley|0
+AU:3033|keilor east|0
+AU:2309|dangar island|0
+AU:2125|pennant hills|0
+AU:5012|woodville gardens|0
+AU:2605|hughes|0
+AU:5109|salisbury plain|0
+AU:2028|double bay|0
+AU:6060|yokine|0
+AU:2445|bonny hills|0
+AU:2565|ingleburn|0
+AU:4161|alexandra hills|0
+AU:2133|croydon park|0
+AU:7016|risdon vale|0
+AU:3038|keilor downs|0
+AU:4817|bohle plains|0
+AU:3049|westmeadows|0
+AU:7004|battery point|0
+AU:4073|sinnamon park|0
+AU:5097|redwood park|0
+AU:6101|east victoria park|0
+AU:3188|hampton|0
+AU:5069|maylands|0
+AU:3161|caulfield north|0
+AU:6108|thornlie|0
+AU:2615|belconnen|0
+AU:5113|davoren park|0
+AU:6105|kewdale|0
+AU:2319|lemon tree passage|0
+AU:2194|campsie|0
+AU:6025|hillarys|0
+AU:2204|marrickville|0
+AU:5046|oaklands park|0
+AU:2760|st marys|0
+AU:6064|alexander heights|0
+AU:2094|fairlight|0
+AU:2614|belconnen|0
+AU:2131|ashfield|0
+AU:2761|glendenning|0
+AU:3165|bentleigh east|0
+AU:2749|castlereagh|0
+AU:5006|north adelaide|0
+AU:5032|underdale|0
+AU:3672|benalla|0
+AU:3215|north geelong|0
+AU:2759|erskine park|0
+AU:2733|moulamein|0
+AU:5107|parafield gardens|0
+AU:3187|brighton east|0
+AU:2902|kambah|0
+AU:4054|arana hills|0
+AU:4818|deeragun|0
+AU:2075|st ives|0
+AU:3102|kew east|0
+AU:2906|conder|0
+AU:2043|erskineville|0
+AU:2168|ashcroft|0
+AU:3054|carlton north|0
+AU:6100|burswood|0
+AU:6052|bedford|0
+AU:4701|rockhampton|0
+AU:4575|bokarina|0
+AU:3003|west melbourne|0
+AU:4132|crestmead|0
+AU:5095|mawson lakes|0
+AU:3842|churchill|0
+AU:2914|bonner|0
+AU:2095|manly|0
+AU:2303|hamilton|0
+AU:6004|east perth|0
+AU:5070|glynde|0
+AU:2116|rydalmere|0
+AU:2154|castle hill|0
+AU:6062|embleton|0
+AU:2345|attunga|0
+AU:2011|potts point|0
+AU:4214|arundel|0
+AU:2903|wanniassa|0
+AU:5037|north plympton|0
+AU:4030|windsor|0
+AU:3379|wickliffe|0
+AU:2199|yagoona|0
+AU:2176|bossley park|0
+AU:3081|heidelberg heights|0
+AU:5013|wingfield|0
+AU:2192|belmore|0
+AU:5024|west beach|0
+AU:2018|rosebery|0
+AU:2121|epping|0
+AU:2768|parklea|0
+AU:2603|forrest|0
+AU:4103|annerley|0
+AU:6061|nollamara|0
+AU:5025|kidman park|0
+AU:6023|duncraig|0
+AU:6057|high wycombe|0
+AU:2298|waratah|0
+AU:4154|wakerley|0
+AU:1790|st marys|0
+AU:7249|south launceston|0
+AU:2302|newcastle west|0
+AU:2196|roselands|0
+AU:0886|jabiru|0
+AU:4812|pimlico|0
+AU:5021|west lakes|0
+AU:2619|jerrabomberra|0
+AU:2082|berowra heights|0
+AU:5075|dernancourt|0
+AU:3019|braybrook|0
+AU:6147|lynwood|0
+AU:2293|newcastle|0
+AU:4172|murarrie|0
+AU:3025|altona north|0
+AU:3116|chirnside park|0
+AU:2179|austral|0
+AU:3086|la trobe university|0
+AU:4072|university of queensland|0
+AU:2006|the university of sydney|0
+AU:6571|yerecoin|0
+AU:5160|lonsdale|0
+AU:7055|huntingfield|0
+AU:2119|beecroft|0
+AU:4222|griffith university|0
+AU:6053|bayswater|0
+AU:5018|outer harbor|0
+AU:3005|world trade centre|0
+AU:2130|summer hill|0
+AU:3042|keilor park|0
+AU:4216|biggera waters|0
+AU:2282|warners bay|0
+AU:2025|woollahra|0
+AU:3200|frankston north|0
+AU:3082|mill park|0
+AU:0828|berrimah|0
+AU:5950|adelaide airport|0
+AU:2901|tuggeranong dc|0
+AU:6165|hope valley|0
+AU:3027|williams landing|0
+AU:6904|subiaco|0
+AU:3045|melbourne airport|0
+AU:2351|university of new england|0
+AU:6028|burns beach|0
+AU:2754|north richmond|0
+AU:2004|eastern suburbs mc|0
+AU:0836|herbert|0
+AU:3800|monash university|0
+AU:4022|rothwell|0
+AU:1215|australia square|0
+AU:5041|cumberland park|0
+AU:4011|clayfield|0
+AU:5106|salisbury south|0
+AU:4509|mango hill|0
+AU:3010|university of melbourne|0
+AU:4494|bungunya|0
+AU:4155|chandler|0
+AU:4102|woolloongabba|0
+AU:3022|ardeer|0
+AU:4021|kippa-ring|0
+AU:3086|la trobe university|0
+AU:4072|university of queensland|0
+AU:2006|the university of sydney|0
+AU:6571|yerecoin|0
+AU:5160|lonsdale|0
+AU:7055|huntingfield|0
+AU:2119|beecroft|0
+AU:4222|griffith university|0
+AU:6053|bayswater|0
+AU:5018|outer harbor|0
+AU:3005|world trade centre|0
+AU:2130|summer hill|0
+AU:3042|keilor park|0
+AU:4216|biggera waters|0
+AU:2282|warners bay|0
+AU:2025|woollahra|0
+AU:3200|frankston north|0
+AU:3082|mill park|0
+AU:0828|berrimah|0
+AU:5950|adelaide airport|0
+AU:2901|tuggeranong dc|0
+AU:6165|hope valley|0
+AU:3027|williams landing|0
+AU:6904|subiaco|0
+AU:3045|melbourne airport|0
+AU:2351|university of new england|0
+AU:6028|burns beach|0
+AU:2754|north richmond|0
+AU:2004|eastern suburbs mc|0
+AU:0836|herbert|0
+AU:3800|monash university|0
+AU:4022|rothwell|0
+AU:1215|australia square|0
+AU:5041|cumberland park|0
+AU:4011|clayfield|0
+AU:5106|salisbury south|0
+AU:4509|mango hill|0
+AU:3010|university of melbourne|0
+AU:4494|bungunya|0
+AU:4155|chandler|0
+AU:4102|woolloongabba|0
+AU:3022|ardeer|0
+AU:4021|kippa-ring|0
+AU:6501|muchea|0
+AU:4875|thursday island|0
+AU:6079|melaleuca|0
+AU:0832|johnston|0
+AU:2306|windale|0
+AU:3712|rubicon|0
+AU:2052|university of new south wales|0
+AU:098633|scoresby|0
+AU:75093|north sydney|0
+AU:5087|windsor gardens|0
+AU:153-023|sydney|0
+AU:5116|evanston|0
+AU:6015|city beach|0
+AU:5076|athelstone|0
+AU:6024|greenwood|0
+AU:6018|karrinyup|0
+AU:6058|norseman|0
+AU:94304|canberra|0
+AU:94303|sydney|0
+AU:228211|scoresby|0
+AU:3114|park orchards|0
+AU:95823|melbourne|0
+AU:5165|christies beach|0
+AU:95014|balwyn north|0
+AU:78745|milton|0
+AU:2080|mount kuring-gai|0
+AU:2558|eagle vale|0
+AU:6063|ferndale|0
+AU:6030|mindarie|0
+AU:4385|bonshaw|0
+AU:5040|novar gardens|0
+AU:6722|hamilton|0
+AU:30349|sydney|0
+AU:92704|sydney|0
+AU:90011|riverstone|0
+AU:75001|sydney|0
+AU:60323|sydney|0
+AU:14620|sydney|0
+AU:10025|sydney|0
+AU:95123|sydney|0
+AU:8000|sydney|0
+AU:77084|sydney|0
+AU:30093|sydney|0
+AU:33647|sydney|0
+AU:92154|sydney|0
+AU:14609|sydney|0
+AU:rg21 3hf|sydney|0
+AU:02108|sydney|0
+AU:1000|sydney|0
+AU:75217|sydney|0
+AU:19120|sydney|0
+AU:1147|sydney|0
+AU:10286|sydney|0
+AU:85032|sydney|0
+AU:55407|sydney|0
+AU:60629|sydney|0
+AU:48228|sydney|0
+AU:20000-000|sydney|0
+AU:20011|sydney|0
+AU:52732|waitara|0
+AU:1011 aa|sydney|0
+AU:98115|sydney|0
+AU:80219|sydney|0
+AU:44130|sydney|0
+AU:66102|sydney|0
+AU:4486|dirranbandi|0
+AU:2564|long point|0
+AU:6630|mullewa|0
+AU:6077|gnangara|0
+AU:5454|spalding|0
+AU:4511|ningi|0
+AU:4477|augathella|0
+AU:4117|karawatha|0
+AU:2172|voyager point|0
+AU:4745|dysart|0
+AU:4378|applethorpe|0
+AU:7179|eaglehawk neck|0
+AU:5331|kingston on murray|0
+AU:5357|new well|0
+AU:6575|miling|0
+AU:5126|yatala vale|0
+AU:4365|leyburn|0
+AU:5332|moorook|0
+AU:6121|oakford|0
+AU:5340|paringa|0
+AU:3238|hordern vale|0
+AU:3096|wattle glen|0
+AU:3542|lalbert|0
+AU:4744|moranbah|0
+AU:5222|penneshaw|0
+AU:2798|millthorpe|0
+AU:2406|mungindi|0
+AU:3633|congupna|0
+AU:3391|brim|0
+AU:6328|manypeaks|0
+AU:6479|mukinbudin|0
+AU:5580|curramulka|0
+AU:5144|carey gully|0
+AU:2631|steeple flat|0
+AU:4859|south johnstone|0
+AU:2625|thredbo|0
+AU:5073|tranmere|0
+AU:6175|singleton|0
+AU:0862|newcastle waters|0
+AU:4801|hayman island|0
+AU:6172|port kennedy|0
+AU:5724|mintabie|0
+AU:4372|tannymorel|0
+AU:0839|coolalinga|0
+AU:6502|bindoon|0
+AU:4757|eungella|0
+AU:7264|gladstone|0
+AU:4420|taroom|0
+AU:2808|wyangala|0
+AU:3920|hmas cerberus|0
+AU:6083|gidgegannup|0
+AU:4601|goomeri|0
+AU:6173|secret harbour|0
+AU:3483|birchip|0
+AU:4287|barney view|0
+AU:4029|royal brisbane hospital|0
+AU:5166|osullivan beach|0
+AU:5132|paracombe|0
+AU:4712|duaringa|0
+AU:2557|gregory hills|0
+AU:4116|calamvale|0
+AU:3760|smiths gully|0
+AU:5604|port neill|0
+AU:5020|west lakes shore|0
+AU:3279|ballangeich|0
+AU:5608|whyalla norrie|0
+AU:4374|dalveen|0
+AU:3378|tatyoon|0
+AU:4364|brookstead|0
+AU:4674|baffle creek|0
+AU:6513|watheroo|0
+AU:5265|coonalpyn|0
+AU:5093|para vista|0
+AU:6341|nyabing|0
+AU:0885|alyangula|0
+AU:5243|oakbank|0
+AU:6029|trigg|0
+AU:6765|fitzroy crossing|0
+AU:4230|robina town centre|0
+AU:4403|jondaryan|0
+AU:2403|delungra|0
+AU:3873|gormandale|0
+AU:2174|edmondson park|0
+AU:6032|nowergup|0
+AU:6262|northcliffe|0
+AU:3213|lovely banks|0
+AU:5278|kalangadoo|0
+AU:6181|stake hill|0
+AU:6174|golden bay|0
+AU:4345|gatton college|0
+AU:3055|brunswick west|0
+AU:3649|katamatite|0
+AU:2585|galong|0
+AU:7468|strahan|0
+AU:2649|laurel hill|0
+AU:6067|cullacabardee|0
+AU:2476|woodenbong|0
+AU:6460|goomalling|0
+AU:5354|swan reach|0
+AU:3737|myrtleford|0
+AU:2823|trangie|0
+AU:3635|wunghnu|0
+AU:5202|myponga|0
+AU:2178|cecil park|0
+AU:5732|copley|0
+AU:7023|opossum bay|0
+AU:4418|guluguba|0
+AU:2757|kurmond|0
+AU:4112|kuraby|0
+AU:6124|jarrahdale|0
+AU:2399|pallamallawa|0
+AU:5139|forest range|0
+AU:5520|snowtown|0
+AU:5127|wynn vale|0
+AU:6609|dalwallinu|0
+AU:3928|main ridge|0
+AU:6515|coorow|0
+AU:2488|bogangar|0
+AU:2489|pottsville beach|0
+AU:5720|woomera|0
+AU:2555|badgerys creek|0
+AU:2769|the ponds|0
+AU:4819|nelly bay|0
+AU:6519|three springs|0
+AU:6034|eglinton|0
+AU:6574|bindi bindi|0
+AU:5344|glossop|0
+AU:5303|parilla|0
+AU:6041|guilderton|0
+AU:3322|cressy|0
+AU:6640|east murchison|0
+AU:5701|tarcoola|0
+AU:5091|tea tree gully|0
+AU:3698|tawonga south|0
+AU:4886|millaa millaa|0
+AU:3090|plenty|0
+AU:2793|woodstock|0
+AU:3967|hedley|0
+AU:5521|redhill|0
+AU:6171|baldivis|0
+AU:3865|lindenow|0
+AU:2307|shortland|0
+AU:4855|el arish|0
+AU:2588|wallendbeen|0
+AU:2175|horsley park|0
+AU:5089|highbury|0
+AU:6516|jurien bay|0
+AU:5270|mundulla|0
+AU:4611|mondure|0
+AU:0846|adelaide river|0
+AU:4856|silkwood|0
+AU:4711|glendale|0
+AU:2747|kingswood|0
+AU:2342|currabubula|0
+AU:2659|walla walla|0
+AU:7178|murdunna|0
+AU:4581|rainbow beach|0
+AU:4482|birdsville|0
+AU:5552|paskeville|0
+AU:4037|eatons hill|0
+AU:6394|muradup|0
+AU:5273|avenue range|0
+AU:3438|new gisborne|0
+AU:6224|brunswick|0
+AU:4411|warra|0
+AU:5088|holden hill|0
+AU:6038|alkimos|0
+AU:6078|mariginiup|0
+AU:6162|south fremantle|0
+AU:2752|silverdale|0
+AU:5096|para hills|0
+AU:5440|cockburn|0
+AU:4756|finch hatton|0
+AU:6240|lowden|0
+AU:6036|butler|0
+AU:2297|tighes hill|0
+AU:6754|paraburdoo|0
+AU:3893|stirling|0
+AU:3941|st andrews beach|0
+AU:5240|lenswood|0
+AU:4739|carmila|0
+AU:0854|borroloola|0
+AU:6567|julimar|0
+AU:4697|raglan|0
+AU:4419|wandoan|0
+AU:4184|macleay island|0
+AU:5577|warooka|0
+AU:2396|baradine|0
+AU:6726|cable beach|0
+AU:2177|bonnyrigg|0
+AU:5232|cudlee creek|0
+AU:4572|alexandra headland|0
+AU:6564|clackline|0
+AU:5311|paruna|0
+AU:6226|roelands|0
+AU:3557|goornong|0
+AU:4822|richmond|0
+AU:4600|kilkivan|0
+AU:3607|tabilk|0
+AU:2748|orchard hills|0
+AU:4065|bardon|0
+AU:3662|puckapunyal|0
+AU:6556|chidlow|0
+AU:5083|nailsworth|0
+AU:4115|parkinson|0
+AU:2426|coopernook|0
+AU:6180|parklands|0
+AU:2792|mandurama|0
+AU:6059|dianella|0
+AU:4363|southbrook|0
+AU:7259|targa|0
+AU:5115|munno para|0
+AU:6229|picton|0
+AU:6716|pannawonica|0
+AU:3407|balmoral|0
+AU:3701|tallandoon|0
+AU:4746|middlemount|0
+AU:6442|kambalda west|0
+AU:6718|roebourne|0
+AU:6260|pemberton|0
+AU:4743|glenden|0
+AU:3097|kangaroo ground|0
+AU:3942|blairgowrie|0
+AU:5220|parndana|0
+AU:0829|holtze|0
+AU:6612|wubin|0
+AU:2784|bullaburra|0
+AU:4158|thorneside|0
+AU:4402|cooyar|0
+AU:3478|st arnaud|0
+AU:5164|christie downs|0
+AU:6638|cooladar hill|0
+AU:4736|jundah|0
+AU:3269|port campbell|0
+AU:4018|fitzgibbon|0
+AU:5302|lameroo|0
+AU:5221|american river|0
+AU:6369|narembeen|0
+AU:5603|arno bay|0
+AU:4156|burbank|0
+AU:7024|cremorne|0
+AU:0853|tindal|0
+AU:6227|burekup|0
+AU:4828|camooweal|0
+AU:0837|manton|0
+AU:3940|rosebud west|0
+AU:5170|maslin beach|0
+AU:6372|yealering|0
+AU:4613|proston|0
+AU:4699|bajool|0
+AU:6209|furnissdale|0
+AU:4815|kelso|0
+AU:4497|thallon|0
+AU:7007|tolmans hill|0
+AU:3708|tintaldra|0
+AU:2105|church point|0
+AU:6705|gascoyne junction|0
+AU:6436|menzies|0
+AU:2876|bogan gate|0
+AU:5481|bangor|0
+AU:3563|lockington|0
+AU:3586|tyntynder south|0
+AU:3274|caramut|0
+AU:2846|capertee|0
+AU:3762|bylands|0
+AU:0834|virginia|0
+AU:5582|stansbury|0
+AU:2868|obley|0
+AU:5346|cobdogla|0
+AU:7213|rossarden|0
+AU:2563|menangle|0
+AU:3570|raywood|0
+AU:6309|popanyinning|0
+AU:3719|yarck|0
+AU:3520|korong vale|0
+AU:7267|karoola|0
+AU:4678|bororen|0
+AU:4892|pormpuraaw|0
+AU:2791|carcoar|0
+AU:6437|leinster|0
+AU:3659|tallarook|0
+AU:3665|longwood|0
+AU:5275|reedy creek|0
+AU:6033|carabooda|0
+AU:4478|tambo|0
+AU:4732|muttaburra|0
+AU:5452|watervale|0
+AU:2409|boggabilla|0
+AU:6397|rocky gully|0
+AU:3420|serviceton|0
+AU:6528|walkaway|0
+AU:7185|premaydena|0
+AU:5661|wirrulla|0
+AU:4467|mungallala|0
+AU:5266|tintinara|0
+AU:3835|thorpdale|0
+AU:3388|rupanyup|0
+AU:7139|strathgordon|0
+AU:3494|colignan|0
+AU:7261|branxholm|0
+AU:2874|tullamore|0
+AU:3639|picola|0
+AU:4422|meandarra|0
+AU:6338|borden|0
+AU:6468|kalannie|0
+AU:2379|mullaley|0
+AU:4716|thangool|0
+AU:4726|aramac|0
+AU:2864|cudal|0
+AU:5609|whyalla jenkins|0
+AU:3891|gipsy point|0
+AU:5140|greenhill|0
+AU:2797|lyndhurst|0
+AU:4462|amby|0
+AU:6161|rottnest island|0
+AU:3413|peronne|0
+AU:6396|frankland river|0
+AU:6343|pingrup|0
+AU:3573|pine grove|0
+AU:6461|dowerin|0
+AU:6509|new norcia|0
+AU:6505|wannamal|0
+AU:3273|hexham|0
+AU:5275|reedy creek|0
+AU:6033|carabooda|0
+AU:4478|tambo|0
+AU:4732|muttaburra|0
+AU:5452|watervale|0
+AU:2409|boggabilla|0
+AU:6397|rocky gully|0
+AU:3420|serviceton|0
+AU:6528|walkaway|0
+AU:7185|premaydena|0
+AU:5661|wirrulla|0
+AU:4467|mungallala|0
+AU:5266|tintinara|0
+AU:3835|thorpdale|0
+AU:3388|rupanyup|0
+AU:7139|strathgordon|0
+AU:3494|colignan|0
+AU:7261|branxholm|0
+AU:2874|tullamore|0
+AU:3639|picola|0
+AU:4422|meandarra|0
+AU:6338|borden|0
+AU:6468|kalannie|0
+AU:2379|mullaley|0
+AU:4716|thangool|0
+AU:4726|aramac|0
+AU:2864|cudal|0
+AU:5609|whyalla jenkins|0
+AU:3891|gipsy point|0
+AU:5140|greenhill|0
+AU:2797|lyndhurst|0
+AU:4462|amby|0
+AU:6161|rottnest island|0
+AU:3413|peronne|0
+AU:6396|frankland river|0
+AU:6343|pingrup|0
+AU:3573|pine grove|0
+AU:6461|dowerin|0
+AU:6509|new norcia|0
+AU:6505|wannamal|0
+AU:3273|hexham|0
+AU:5322|ramco|0
+AU:6256|yornup|0
+AU:3617|byrneside|0
+AU:4423|glenmorgan|0
+AU:4706|ogmore|0
+AU:2721|quandialla|0
+AU:5321|cadell|0
+AU:3964|port franklin|0
+AU:5642|rudall|0
+AU:3725|goorambat|0
+AU:2879|menindee|0
+AU:3529|nullawil|0
+AU:3589|woorinen|0
+AU:6361|harrismith|0
+AU:4427|yuleba|0
+AU:3622|koyuga|0
+AU:6306|brookton|0
+AU:6393|duranillin|0
+AU:4694|yarwun|0
+AU:6489|kununoppin|0
+AU:5150|leawood gardens|0
+AU:6477|bencubbin|0
+AU:3590|beverford|0
+AU:2405|boomi|0
+AU:3581|lake charm|0
+AU:2727|coolac|0
+AU:4424|drillham|0
+AU:3522|tooborac|0
+AU:2386|burren junction|0
+AU:4612|hivesville|0
+AU:5471|gulnare|0
+AU:5306|wynarka|0
+AU:3887|lake tyers|0
+AU:3469|elmhurst|0
+AU:3957|stony creek|0
+AU:3583|tresco|0
+AU:4425|dulacca|0
+AU:6337|jerramungup|0
+AU:2401|gravesend|0
+AU:2867|cumnock|0
+AU:4461|muckadilla|0
+AU:3887|lake tyers|0
+AU:3469|elmhurst|0
+AU:3957|stony creek|0
+AU:3583|tresco|0
+AU:4425|dulacca|0
+AU:6337|jerramungup|0
+AU:2401|gravesend|0
+AU:2867|cumnock|0
+AU:4461|muckadilla|0
+AU:3624|girgarre|0
+AU:3375|buangor|0
+AU:3852|east sale|0
+AU:0875|larapinta|0
+AU:3063|yuroke|0
+AU:3507|walpeup|0
+AU:5432|carrieton|0
+AU:4813|townsville milpo|0
+AU:6356|lake king|0
+AU:6042|seabird|0
+AU:6386|shackleton|0
+AU:4713|woorabinda|0
+AU:5421|terowie|0
+AU:6445|salmon gums|0
+AU:4727|ilfracombe|0
+AU:5632|yeelanna|0
+AU:3323|foxhow|0
+AU:5654|minnipa|0
+AU:6568|bolgart|0
+AU:3571|dingee|0
+AU:5630|edillilie|0
+AU:4857|silkwood east|0
+AU:5650|warramboo|0
+AU:2678|riverina msc|0
+AU:3430|clarkefield|0
+AU:4412|brigalow|0
+AU:6352|kukerin|0
+AU:6484|bullfinch|0
+AU:2410|yetman|0
+AU:6068|whiteman|0
+AU:3979|kernot|0
+AU:6355|newdegate|0
+AU:4479|cooladdi|0
+AU:5308|galga|0
+AU:5655|poochera|0
+AU:2726|jugiong|0
+AU:6608|pithara|0
+AU:3588|woorinen south|0
+AU:5671|port kenny|0
+AU:7176|kellevie|0
+AU:4733|corfield|0
+AU:3267|scotts creek|0
+AU:3889|club terrace|0
+AU:5416|farrell flat|0
+AU:2387|rowena|0
+AU:6758|nullagine|0
+AU:0841|darwin river|0
+AU:5493|yongala|0
+AU:6504|mooliabeenee|0
+AU:5651|kyancutta|0
+AU:4491|eulo|0
+AU:6446|grass patch|0
+AU:6420|muntadgin|0
+AU:5310|wanbi|0
+AU:7174|copping|0
+AU:4707|st lawrence|0
+AU:6521|badgingarra|0
+AU:3857|cowwarr|0
+AU:6518|eneabba|0
+AU:6606|ballidu|0
+AU:7257|cape barren island|0
+AU:2411|croppa creek|0
+AU:6221|wokalup|0
+AU:2739|buronga|0
+AU:5601|iron knob|0
+AU:5470||0
+AU:3895|ensay|0
+AU:4474|adavale|0
+AU:3491|patchewollock|0
+AU:5660|cungena|0
+AU:6473|wialki|0
+AU:3489|tempy|0
+AU:6447|scaddan|0
+AU:2661|kapooka|0
+AU:2408|north star|0
+AU:4728|jericho|0

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <title>
+        Geojson Viewer
+    </title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.43.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.43.0/mapbox-gl.css' rel='stylesheet' />
+    <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.2.0/mapbox-gl-geocoder.min.js'></script>
+    <link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.2.0/mapbox-gl-geocoder.css' type='text/css' />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <link rel="stylesheet" type="text/css" href="index.css">
+</head>
+<body>
+    <div id="controls">
+        <div class="btn-group" role="group" aria-label="countries" onclick="changeCountry(event)" id="countries">
+          <button type="button" class="btn btn-primary active" id="au">AU</button>
+          <button type="button" class="btn btn-primary" id="ca">CA</button>
+          <button type="button" class="btn btn-primary" id="es">ES</button>
+          <button type="button" class="btn btn-primary" id="uk">UK</button>
+          <button type="button" class="btn btn-primary" id="us">US</button>
+        </div>
+        <div class="btn-group" role="group" aria-label="granuality" onclick="changeGranuality(event)" id="granuality">
+          <button type="button" class="btn btn-secondary active" id="provinces">Provinces</button>
+          <button type="button" class="btn btn-secondary" id="postal-codes">Postal Codes</button>
+        </div>
+    </div>
+    <div id='map'></div>
+    <div id="loader">
+        <span>Loading Data ...</span>
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>

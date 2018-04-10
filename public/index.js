@@ -34,7 +34,7 @@ function update(geojson) {
 
     map = new mapboxgl.Map({
         container: 'map',
-        style: 'mapbox://styles/sardanalokesh/cjei4qvys0g7j2rqoyp2zd72y',
+        style: 'mapbox://styles/sardanalokesh/cjdead20tee572rlca70kz35q',
         center: [-98.585522,37.8333333],
         zoom: 3,
         preserveDrawingBuffer: true
@@ -48,16 +48,39 @@ function update(geojson) {
         });
         
         let polygonLayer = {
-            "id": "polygonLayer",
-            "type": "line",
-            "source": "region-boundaries",
-            "paint": {
-                "line-color": "#0083ff",
-                "line-width": 2
-            }
+          "id": "polygonLayer",
+          "type": "fill",
+          "source": 'region-boundaries',
+          "paint": {
+            "fill-color": "#ffffff",
+            "fill-opacity": 0.5,
+            "fill-outline-color": "#ff0000",
+          }
         };
 
-        map.addLayer(polygonLayer);
+        map.addLayer(polygonLayer, 'waterway-label');
+
+        let popup = new mapboxgl.Popup({
+          closeButton: false,
+          closeOnClick: false
+        });
+
+        map.on('mousemove', 'polygonLayer', event => {
+            map.getCanvas().style.cursor = 'pointer';
+            let html = '<table><tbody>';
+            for (let p in event.features[0].properties) {
+                html += '<tr><td>' + p + '</td><td>' + event.features[0].properties[p] + '</td></tr>';
+            }
+            popup.setLngLat(event.lngLat)
+            .setHTML(html)
+            .addTo(map);
+
+        });
+
+        map.on('mouseleave', 'polygonLayer', event => {
+            map.getCanvas().style.cursor = '';
+            if (popup.isOpen()) popup.remove();
+        });
 
         let bounds = getBounds(geojson);
         map.fitBounds(bounds.toArray(), {

@@ -1,0 +1,3068 @@
+UK:ch34|ellesmere port|0
+UK:wf16|heckmondwike|0
+UK:fk12|alva|0
+UK:np11|newport|0
+UK:la10|sedbergh|0
+UK:gu21|woking|0
+UK:ky4|cowdenbeath|0
+UK:wa13|lymm|0
+UK:g1|glasgow|0
+UK:bh20|wareham|0
+UK:ab30|laurencekirk|0
+UK:ba9|wincanton|0
+UK:gu14|farnborough|0
+UK:bl5|westhoughton|0
+UK:da5|bexley|0
+UK:sp1|salisbury|0
+UK:cm7|braintree|0
+UK:hu19|withernsea|0
+UK:bh15|poole|0
+UK:bh22|ferndown|0
+UK:pe38|downham market|0
+UK:de73|melbourne|0
+UK:tr5|st agnes|0
+UK:ha9|wembley|0
+UK:ml8|carluke|0
+UK:bh23|christchurch|0
+UK:cw12|congleton|0
+UK:so30|hedge end|0
+UK:ln8|market rasen|0
+UK:rg10|ruscombe|0
+UK:nn1|northampton|0
+UK:rh19|east grinstead|0
+UK:sa14|llanelli|0
+UK:st14|uttoxeter|0
+UK:wr10|pershore|0
+UK:ka13|kilwinning|0
+UK:np22|tredegar|0
+UK:dy1|dudley|0
+UK:ab21|dyce|0
+UK:cm99|chelmsford|0
+UK:sa16|burry port|0
+UK:dn21|gainsborough|0
+UK:s18|dronfield|0
+UK:ne48|bellingham|0
+UK:yo17|malton|0
+UK:ng24|newark|0
+UK:td1|clovenfords|0
+UK:hg5|knaresborough|0
+UK:g64|bishopbriggs|0
+UK:ct5|whitstable|0
+UK:wd25|leavesden|0
+UK:td5|kelso|0
+UK:sk5|reddish|0
+UK:le11|loughborough|0
+UK:ip20|harleston|0
+UK:bt30|downpatrick|0
+UK:gl18|newent|0
+UK:bl4|farnworth|0
+UK:wr9|droitwich|0
+UK:cb3|cambridge|0
+UK:sg9|buntingford|0
+UK:ta10|langport|0
+UK:da7|bexleyheath|0
+UK:ox9|tetsworth|0
+UK:hd1|huddersfield|0
+UK:kw16|stromness|0
+UK:iv26|ullapool|0
+UK:bl6|rivington|0
+UK:bt82|strabane|0
+UK:ss7|benfleet|0
+UK:dg3|thornhill|0
+UK:cv11|nuneaton|0
+UK:fk3|grangemouth|0
+UK:ln9|horncastle|0
+UK:dl1|darlington|0
+UK:st1|stoke on trent|0
+UK:gl1|gloucester|0
+UK:ts28|wingate|0
+UK:ip14|stowmarket|0
+UK:rh20|pulborough|0
+UK:tn9|tonbridge|0
+UK:rg17|hungerford|0
+UK:s80|worksop|0
+UK:hp7|little chalfont|0
+UK:rg19|thatcham|0
+UK:np7|abergavenny|0
+UK:rg1|reading|0
+UK:la2|high bentham|0
+UK:gu29|midhurst|0
+UK:ca9|alston|0
+UK:ll57|bangor|0
+UK:le15|oakham|0
+UK:ky15|cupar|0
+UK:mk44|wyboston|0
+UK:dl7|leeming bar|0
+UK:sa1|swansea|0
+UK:ch3|tattenhall|0
+UK:cv21|rugby|0
+UK:yo8|selby|0
+UK:ox5|kidlington|0
+UK:le9|elmesthorpe|0
+UK:sm7|banstead|0
+UK:sa19|talley|0
+UK:tn23|ashford|0
+UK:ox15|bloxham|0
+UK:sy14|malpas|0
+UK:ch5|hawarden|0
+UK:cm4|stock|0
+UK:ng10|long eaton|0
+UK:rg7|aldermaston|0
+UK:e14|tower hamlets|0
+UK:bt27|lisburn|0
+UK:sm5|carshalton|0
+UK:gl54|winchcombe|0
+UK:rh10|crawley|0
+UK:la22|ambleside|0
+UK:tn33|sedlescombe|0
+UK:ll12|gresford|0
+UK:rg24|chineham|0
+UK:ne7|heaton|0
+UK:tr7|newquay|0
+UK:al10|hatfield|0
+UK:bn18|arundel|0
+UK:nr4|colney|0
+UK:lu5|houghton regis|0
+UK:ng22|boughton|0
+UK:wa1|warrington|0
+UK:ng16|kimberley|0
+UK:so14|southampton|0
+UK:pe27|st ives|0
+UK:ip8|little blakenham|0
+UK:sl2|stoke poges|0
+UK:da11|northfleet|0
+UK:gl12|wotton under edge|0
+UK:dn40|immingham|0
+UK:so40|totton|0
+UK:la9|kendal|0
+UK:hd7|marsden|0
+UK:hp9|beaconsfield|0
+UK:mk40|bedford|0
+UK:sm6|wallington|0
+UK:sw10|kensington and chelsea|0
+UK:yo1|york|0
+UK:ls27|morley|0
+UK:ip15|aldeburgh|0
+UK:ip5|martlesham heath|0
+UK:sg4|codicote|0
+UK:sy17|carno|0
+UK:mk18|buckingham|0
+UK:bb1|blackburn|0
+UK:tq12|newton abbot|0
+UK:cb25|bottisham|0
+UK:cm17|hastingwood|0
+UK:ip1|ipswich|0
+UK:cb7|ely|0
+UK:pa28|southend|0
+UK:tw1|twickenham|0
+UK:ox16|banbury|0
+UK:dl10|richmond|0
+UK:kt20|tadworth|0
+UK:tn30|tenterden|0
+UK:b91|solihull|0
+UK:ph16|pitlochry|0
+UK:cr5|coulsdon|0
+UK:ll19|prestatyn|0
+UK:gl9|hawkesbury upton|0
+UK:ls18|horsforth|0
+UK:cr3|caterham|0
+UK:me4|chatham|0
+UK:pl27|wadebridge|0
+UK:pa12|lochwinnoch|0
+UK:sl4|windsor|0
+UK:kt17|ewell|0
+UK:b76|sutton coldfield|0
+UK:lu7|leighton buzzard|0
+UK:bn45|poynings|0
+UK:sl5|sunningdale|0
+UK:s35|chapeltown|0
+UK:de56|kilburn|0
+UK:bs48|nailsea|0
+UK:mk46|olney|0
+UK:ch60|heswall|0
+UK:bh18|broadstone|0
+UK:ox18|burford|0
+UK:ox12|wantage|0
+UK:tw20|egham|0
+UK:dh8|consett|0
+UK:al3|redbourn|0
+UK:cb8|newmarket|0
+UK:iv55|stein|0
+UK:ab52|insch|0
+UK:tw14|feltham|0
+UK:co15|clacton-on-sea|0
+UK:dl13|woodland|0
+UK:hu10|willerby|0
+UK:ne8|gateshead|0
+UK:hp14|stokenchurch|0
+UK:b60|stoke prior|0
+UK:rg9|henley-on-thames|0
+UK:da14|sidcup|0
+UK:ha1|harrow on the hill|0
+UK:sr8|peterlee|0
+UK:co6|earls colne|0
+UK:pe1|peterborough|0
+UK:iv25|dornoch|0
+UK:ls17|harewood|0
+UK:g78|barrhead|0
+UK:wd23|bushey|0
+UK:cf46|treharris|0
+UK:wd3|rickmansworth|0
+UK:kt21|ashtead|0
+UK:pa20|kingarth|0
+UK:wa7|runcorn|0
+UK:eh25|roslin|0
+UK:ch41|birkenhead|0
+UK:ts19|stockton-on-tees|0
+UK:wf17|batley|0
+UK:tr15|redruth|0
+UK:sy16|newtown|0
+UK:cf82|ystrad mynach|0
+UK:cw4|holmes chapel|0
+UK:tn1|royal tunbridge wells|0
+UK:bb7|clitheroe|0
+UK:sy13|whitchurch|0
+UK:s33|castleton|0
+UK:rh8|oxted|0
+UK:kt11|cobham|0
+UK:tn13|sevenoaks|0
+UK:cm15|brentwood|0
+UK:gu28|petworth|0
+UK:ab45|banff|0
+UK:cf10|cardiff|0
+UK:ip12|melton|0
+UK:sa71|pembroke|0
+UK:lu1|luton|0
+UK:co9|halstead|0
+UK:tf3|telford|0
+UK:rg45|crowthorne|0
+UK:rm16|thurrock|0
+UK:bn7|lewes|0
+UK:ng12|edwalton|0
+UK:bt38|carrickfergus|0
+UK:de1|derby|0
+UK:po36|brading|0
+UK:kt4|worcester park|0
+UK:ol13|bacup|0
+UK:bn15|lancing|0
+UK:sl0|iver|0
+UK:po22|felpham|0
+UK:tn12|staplehurst|0
+UK:hr2|kingstone|0
+UK:g83|alexandria|0
+UK:sa73|milford haven|0
+UK:ws10|wednesbury|0
+UK:sa3|southgate|0
+UK:de55|alfreton|0
+UK:cv9|atherstone|0
+UK:ll46|harlech|0
+UK:de45|bakewell|0
+UK:ts24|hartlepool|0
+UK:tn7|hartfield|0
+UK:sn13|corsham|0
+UK:sa61|haverfordwest|0
+UK:wa6|helsby|0
+UK:bd21|keighley|0
+UK:ll54|caernarfon|0
+UK:ex15|cullompton|0
+UK:hp1|hemel hempstead|0
+UK:s70|barnsley|0
+UK:sk17|buxton|0
+UK:sl3|langley|0
+UK:ll41|ffestiniog|0
+UK:ss16|basildon|0
+UK:ng9|chilwell|0
+UK:ss5|hockley|0
+UK:ex5|farringdon|0
+UK:eh47|blackburn|0
+UK:ne3|kenton|0
+UK:eh48|bathgate|0
+UK:bt63|portadown|0
+UK:fk8|stirling|0
+UK:mk11|stony stratford|0
+UK:ba12|warminster|0
+UK:ls5|kirkstall|0
+UK:kt19|epsom|0
+UK:ws15|rugeley|0
+UK:ka1|kilmarnock|0
+UK:ba22|tintinhull|0
+UK:ml2|wishaw|0
+UK:ex6|exminster|0
+UK:ba10|bruton|0
+UK:cv12|bedworth|0
+UK:po35|bembridge|0
+UK:sa12|port talbot|0
+UK:tn37|st leonards-on-sea|0
+UK:wf13|dewsbury|0
+UK:bt78|omagh|0
+UK:m33|sale|0
+UK:hr4|hereford|0
+UK:cm2|great baddow|0
+UK:pe30|kings lynn|0
+UK:pl25|st austell|0
+UK:pe10|bourne|0
+UK:pa34|oban|0
+UK:ng15|hucknall|0
+UK:cw5|nantwich|0
+UK:sa31|carmarthen|0
+UK:cv36|shipston-on-stour|0
+UK:m44|irlam|0
+UK:rm18|tilbury|0
+UK:sl9|chalfont st peter|0
+UK:gu30|liphook|0
+UK:ub10|hillingdon|0
+UK:ba4|shepton mallet|0
+UK:ch1|sealand|0
+UK:co16|thorpe-le-soken|0
+UK:cv34|warwick|0
+UK:wf5|ossett|0
+UK:sk6|mellor|0
+UK:bt45|magherafelt|0
+UK:hd9|holme|0
+UK:de12|overseal|0
+UK:de7|ilkeston|0
+UK:so32|durley|0
+UK:sn4|wootton bassett|0
+UK:td7|selkirk|0
+UK:kt16|chertsey|0
+UK:br3|beckenham|0
+UK:bh24|ringwood|0
+UK:ex22|holsworthy|0
+UK:ss12|wickford|0
+UK:ll18|rhyl|0
+UK:gl13|berkeley|0
+UK:tq11|buckfastleigh|0
+UK:la14|barrow-in-furness|0
+UK:b31|northfield|0
+UK:g76|eaglesham|0
+UK:g74|east kilbride|0
+UK:ml11|douglas|0
+UK:b79|tamworth|0
+UK:tf11|shifnal|0
+UK:kw9|brora|0
+UK:ca15|maryport|0
+UK:bd19|cleckheaton|0
+UK:l34|knowsley|0
+UK:sa68|kilgetty|0
+UK:m6|salford|0
+UK:ec2n|london|0
+UK:sp7|shaftesbury|0
+UK:se1|lambeth|0
+UK:pe29|huntingdon|0
+UK:hg3|darley|0
+UK:wa5|burtonwood|0
+UK:wr14|malvern|0
+UK:m31|partington|0
+UK:g73|rutherglen|0
+UK:bt32|banbridge|0
+UK:ts12|saltburn-by-the-sea|0
+UK:sn16|malmesbury|0
+UK:ne65|rothbury|0
+UK:ne20|matfen|0
+UK:ne47|whitfield|0
+UK:ss8|canvey island|0
+UK:pl21|ivybridge|0
+UK:ox3|marston|0
+UK:bt47|londonderry|0
+UK:sy11|oswestry|0
+UK:bb5|accrington|0
+UK:bb4|rawtenstall|0
+UK:rg12|bracknell|0
+UK:l1|liverpool|0
+UK:ol10|heywood|0
+UK:dy9|hagley|0
+UK:tw6|heathrow|0
+UK:bn5|henfield|0
+UK:hp5|chesham|0
+UK:gl7|cirencester|0
+UK:ip11|felixstowe|0
+UK:bb9|nelson|0
+UK:ca10|tebay|0
+UK:ls29|ilkley|0
+UK:ky11|dunfermline|0
+UK:bt36|newtownabbey|0
+UK:sk22|new mills|0
+UK:iv49|kilbride|0
+UK:de75|heanor|0
+UK:td4|earlston|0
+UK:ml9|stonehouse|0
+UK:ip25|watton|0
+UK:wr12|willersey|0
+UK:le12|shepshed|0
+UK:bn2|ovingdean|0
+UK:eh33|macmerry|0
+UK:g63|balfron|0
+UK:ox26|bicester|0
+UK:kt15|addlestone|0
+UK:ab32|skene|0
+UK:hp22|stoke mandeville|0
+UK:wa11|haydock|0
+UK:ne30|north shields|0
+UK:ig10|loughton|0
+UK:al2|bricket wood|0
+UK:e11|redbridge|0
+UK:gu8|elstead|0
+UK:nr10|cawston|0
+UK:cb23|bar hill|0
+UK:sn9|pewsey|0
+UK:kt7|thames ditton|0
+UK:rm15|south ockendon|0
+UK:bt34|newry|0
+UK:sm2|sutton|0
+UK:eh49|linlithgow|0
+UK:pr1|preston|0
+UK:sw6|fulham|0
+UK:kt12|walton-on-thames|0
+UK:hp16|great missenden|0
+UK:hg4|ripon|0
+UK:rh2|reigate|0
+UK:pe37|swaffham|0
+UK:sn12|melksham|0
+UK:nr13|little plumstead|0
+UK:bd1|bradford|0
+UK:tn27|charing|0
+UK:nr1|norwich|0
+UK:co7|alresford|0
+UK:fy8|lytham st annes|0
+UK:dg11|lockerbie|0
+UK:dl8|leyburn|0
+UK:nr21|fakenham|0
+UK:fy7|fleetwood|0
+UK:wn8|skelmersdale|0
+UK:cb22|great shelford|0
+UK:g65|kilsyth|0
+UK:dn15|scunthorpe|0
+UK:rh16|haywards heath|0
+UK:cf37|pontypridd|0
+UK:ab31|banchory|0
+UK:ab33|whitehouse|0
+UK:dt6|bridport|0
+UK:sg18|biggleswade|0
+UK:b19|hockley|0
+UK:rh12|horsham|0
+UK:ct20|folkestone|0
+UK:ts1|middlesbrough|0
+UK:kt10|esher|0
+UK:dy4|tipton|0
+UK:ex32|barnstaple|0
+UK:gu47|sandhurst|0
+UK:b49|alcester|0
+UK:cv10|hartshill|0
+UK:hp11|high wycombe|0
+UK:da12|gravesend|0
+UK:dd11|arbroath|0
+UK:ll16|denbigh|0
+UK:gu19|bagshot|0
+UK:al1|st albans|0
+UK:ml7|shotts|0
+UK:pa11|bridge of weir|0
+UK:l19|garston|0
+UK:sn1|swindon|0
+UK:ln1|fenton|0
+UK:np26|caldicot|0
+UK:me19|west malling|0
+UK:ln11|louth|0
+UK:bt61|armagh|0
+UK:tn22|uckfield|0
+UK:sl6|hurley|0
+UK:cw7|winsford|0
+UK:tw17|shepperton|0
+UK:np44|cwmbran|0
+UK:dy8|stourbridge|0
+UK:yo51|boroughbridge|0
+UK:ts15|yarm|0
+UK:ig1|ilford|0
+UK:b63|halesowen|0
+UK:gu15|camberley|0
+UK:nn16|kettering|0
+UK:wf10|castleford|0
+UK:ca12|keswick|0
+UK:td3|gordon|0
+UK:g33|stepps|0
+UK:ss4|rochford|0
+UK:en5|barnet|0
+UK:nr15|long stratton|0
+UK:de4|matlock|0
+UK:nr35|bungay|0
+UK:b95|henley-in-arden|0
+UK:wv5|wombourne|0
+UK:g81|clydebank|0
+UK:po9|havant|0
+UK:gl55|chipping campden|0
+UK:pa3|paisley|0
+UK:ka29|fairlie|0
+UK:rm10|dagenham|0
+UK:bt41|antrim|0
+UK:po5|southsea|0
+UK:ta6|bridgwater|0
+UK:ne99|newcastle upon tyne|0
+UK:wa15|ringway|0
+UK:bn21|eastbourne|0
+UK:pl14|liskeard|0
+UK:rg27|heckfield|0
+UK:dn14|goole|0
+UK:yo42|pocklington|0
+UK:le8|whetstone|0
+UK:cv1|coventry|0
+UK:me10|sittingbourne|0
+UK:bt51|coleraine|0
+UK:br8|swanley|0
+UK:ip21|scole|0
+UK:eh12|edinburgh|0
+UK:ox17|charlton|0
+UK:l20|bootle|0
+UK:ox10|wallingford|0
+UK:wv16|bridgnorth|0
+UK:wr11|evesham|0
+UK:iv31|lossiemouth|0
+UK:ab12|portlethen|0
+UK:ld7|knighton|0
+UK:da4|horton kirby|0
+UK:cf34|maesteg|0
+UK:g72|blantyre|0
+UK:gu16|frimley|0
+UK:st13|leek|0
+UK:wa14|altrincham|0
+UK:td6|melrose|0
+UK:s41|chesterfield|0
+UK:ba8|templecombe|0
+UK:s42|wingerworth|0
+UK:wr1|worcester|0
+UK:ml1|motherwell|0
+UK:pl17|callington|0
+UK:po38|ventnor|0
+UK:bd97|bingley|0
+UK:wd6|borehamwood|0
+UK:ct11|ramsgate|0
+UK:ph7|crieff|0
+UK:po18|singleton|0
+UK:co1|colchester|0
+UK:fy1|blackpool|0
+UK:sy8|ludlow|0
+UK:hs6|lochmaddy|0
+UK:pl22|lostwithiel|0
+UK:pe25|skegness|0
+UK:ne38|washington|0
+UK:ct21|hythe|0
+UK:np4|pontypool|0
+UK:ex16|tiverton|0
+UK:dh2|chester-le-street|0
+UK:tw11|teddington|0
+UK:wf8|pontefract|0
+UK:ne11|dunston|0
+UK:kt22|leatherhead|0
+UK:tn31|brede|0
+UK:rh18|forest row|0
+UK:pa13|kilmacolm|0
+UK:dt1|dorchester|0
+UK:nr28|north walsham|0
+UK:gu3|normandy|0
+UK:ws13|lichfield|0
+UK:bn11|worthing|0
+UK:da8|erith|0
+UK:mk16|newport pagnell|0
+UK:ca13|cockermouth|0
+UK:cm5|ongar|0
+UK:sy20|machynlleth|0
+UK:ky6|leslie|0
+UK:co5|tiptree|0
+UK:ky8|leven|0
+UK:cm6|white roding|0
+UK:da3|longfield|0
+UK:de6|clifton|0
+UK:co13|frinton-on-sea|0
+UK:sg12|ware|0
+UK:kt1|kingston upon thames|0
+UK:pr25|leyland|0
+UK:bs37|chipping sodbury|0
+UK:s66|maltby|0
+UK:gu11|aldershot|0
+UK:bs34|stoke gifford|0
+UK:ct16|dover|0
+UK:wd7|radlett|0
+UK:sk7|hazel grove|0
+UK:ne66|alnwick|0
+UK:ox1|oxford|0
+UK:ta9|brent knoll|0
+UK:sn7|faringdon|0
+UK:ka27|brodick|0
+UK:ng34|sleaford|0
+UK:en10|broxbourne|0
+UK:sy15|montgomery|0
+UK:hx6|ripponden|0
+UK:rm14|upminster|0
+UK:po16|fareham|0
+UK:bt18|holywood|0
+UK:pe31|dersingham|0
+UK:ca7|wigton|0
+UK:tr8|mitchell|0
+UK:nr5|bowthorpe|0
+UK:tr6|perranporth|0
+UK:hd6|brighouse|0
+UK:ex23|bude|0
+UK:ml4|bellshill|0
+UK:mk17|little horwood|0
+UK:ol2|royton|0
+UK:sa43|cardigan|0
+UK:sg1|stevenage|0
+UK:tr11|falmouth|0
+UK:sw11|wandsworth|0
+UK:me3|high halstow|0
+UK:ha8|edgware|0
+UK:ox7|fifield|0
+UK:m35|failsworth|0
+UK:tf9|market drayton|0
+UK:pl12|saltash|0
+UK:kt6|surbiton|0
+UK:hu11|garton|0
+UK:ll15|ruthin|0
+UK:bn9|newhaven|0
+UK:bn1|falmer|0
+UK:nr8|costessey|0
+UK:ls24|tadcaster|0
+UK:rg8|pangbourne|0
+UK:hp10|loudwater|0
+UK:ss1|southend-on-sea|0
+UK:so41|lymington|0
+UK:ts23|billingham|0
+UK:rh17|balcombe|0
+UK:ka9|prestwick|0
+UK:ca3|carlisle|0
+UK:bt29|glenavy|0
+UK:ll55|llanberis|0
+UK:pr8|southport|0
+UK:sa33|brook|0
+UK:ec1m|camden|0
+UK:pe19|st neots|0
+UK:hs1|stornoway|0
+UK:sg5|hitchin|0
+UK:bn13|patching|0
+UK:dy5|brierley hill|0
+UK:gl15|lydney|0
+UK:sa72|pembroke dock|0
+UK:gl8|tetbury|0
+UK:le67|coalville|0
+UK:bn44|steyning|0
+UK:ll17|rhuallt|0
+UK:ol5|mossley|0
+UK:dg12|annan|0
+UK:eh52|broxburn|0
+UK:ta1|taunton|0
+UK:hr8|ledbury|0
+UK:cm12|billericay|0
+UK:nn7|blisworth|0
+UK:nr27|cromer|0
+UK:bh14|parkstone|0
+UK:le10|hinckley|0
+UK:la4|morecambe|0
+UK:sw15|roehampton|0
+UK:bt23|newtownards|0
+UK:ox20|woodstock|0
+UK:ls1|leeds|0
+UK:rm17|grays|0
+UK:ec1a|islington|0
+UK:ab11|aberdeen|0
+UK:bd18|saltaire|0
+UK:ky1|thornton|0
+UK:sa62|johnston|0
+UK:b1|birmingham|0
+UK:ex14|honiton|0
+UK:dg2|dumfries|0
+UK:dt11|farnham|0
+UK:iv17|alness|0
+UK:bt62|tandragee|0
+UK:sk13|glossop|0
+UK:bt80|cookstown|0
+UK:pa19|gourock|0
+UK:sm4|morden|0
+UK:pl4|plymouth|0
+UK:td15|berwick-upon-tweed|0
+UK:ka7|ayr|0
+UK:ta13|south petherton|0
+UK:wd17|watford|0
+UK:so21|hursley|0
+UK:cw9|northwich|0
+UK:en9|waltham abbey|0
+UK:sa48|lampeter|0
+UK:ch43|prenton|0
+UK:cf64|penarth|0
+UK:nn29|wollaston|0
+UK:tr10|penryn|0
+UK:gl52|bishops cleeve|0
+UK:dl9|catterick garrison|0
+UK:ox25|merton|0
+UK:ln12|mablethorpe|0
+UK:sg17|shefford|0
+UK:nr33|lowestoft|0
+UK:ls23|bramham|0
+UK:bh2|bournemouth|0
+UK:td11|duns|0
+UK:dd9|brechin|0
+UK:sn11|stockley|0
+UK:pa5|johnstone|0
+UK:fk17|callander|0
+UK:ab56|cullen|0
+UK:ba15|bradford-on-avon|0
+UK:kw15|kirkwall|0
+UK:gl16|coleford|0
+UK:le65|ashby-de-la-zouch|0
+UK:ws1|walsall|0
+UK:cf45|mountain ash|0
+UK:tn5|wadhurst|0
+UK:pe9|stamford|0
+UK:ba21|yeovil|0
+UK:mk2|bletchley|0
+UK:ha7|stanmore|0
+UK:cv7|meriden|0
+UK:bn8|ringmer|0
+UK:ex34|ilfracombe|0
+UK:dn10|everton|0
+UK:bt75|fivemiletown|0
+UK:sa41|crymmych|0
+UK:me2|rochester|0
+UK:ne33|south shields|0
+UK:ld1|llandrindod wells|0
+UK:le13|melton mowbray|0
+UK:po1|portsmouth|0
+UK:dn1|doncaster|0
+UK:al5|harpenden|0
+UK:rg21|basingstoke|0
+UK:ha5|pinner|0
+UK:mk43|cranfield|0
+UK:dt7|lyme regis|0
+UK:en8|waltham cross|0
+UK:wf15|liversedge|0
+UK:me12|sheerness|0
+UK:bd17|shipley|0
+UK:dl14|bishop auckland|0
+UK:bd23|kettlewell|0
+UK:ng18|mansfield|0
+UK:td9|denholm|0
+UK:ab51|inverurie|0
+UK:bl7|belmont|0
+UK:ca28|whitehaven|0
+UK:gu25|virginia water|0
+UK:pl31|bodmin|0
+UK:bs6|redland|0
+UK:ne28|wallsend|0
+UK:tw19|stanwell|0
+UK:cf36|porthcawl|0
+UK:n10|haringey|0
+UK:sy6|church stretton|0
+UK:s62|wentworth|0
+UK:ha3|harrow|0
+UK:ox13|kingston bagpuize|0
+UK:bt66|lurgan|0
+UK:hx1|halifax|0
+UK:en2|enfield|0
+UK:bt65|craigavon|0
+UK:tn8|edenbridge|0
+UK:rh14|billingshurst|0
+UK:dt4|weymouth|0
+UK:bn10|peacehaven|0
+UK:g66|kirkintilloch|0
+UK:wd4|kings langley|0
+UK:eh14|currie|0
+UK:ex20|okehampton|0
+UK:mk5|shenley church end|0
+UK:ox28|witney|0
+UK:lu6|dunstable|0
+UK:po13|lee-on-the-solent|0
+UK:nn11|daventry|0
+UK:dn18|barton upon humber|0
+UK:cm0|southminster|0
+UK:ub6|greenford|0
+UK:mk19|hanslope|0
+UK:sn6|bourton|0
+UK:bt42|moorfields|0
+UK:wn5|billinge|0
+UK:m41|urmston|0
+UK:pe15|march|0
+UK:e2|hackney|0
+UK:ct1|canterbury|0
+UK:ne24|blyth|0
+UK:ne32|jarrow|0
+UK:PH32|ft augustus|0
+UK:bt43|ballymena|0
+UK:pl7|plympton|0
+UK:bn3|hove|0
+UK:cr0|croydon|0
+UK:sg7|baldock|0
+UK:me17|lenham|0
+UK:bn27|hailsham|0
+UK:cm1|broomfield|0
+UK:hr6|leominster|0
+UK:ub2|southall|0
+UK:tn6|crowborough|0
+UK:m46|atherton|0
+UK:sn10|devizes|0
+UK:ws4|pelsall|0
+UK:dh6|sherburn|0
+UK:l32|kirkby|0
+UK:fk5|larbert|0
+UK:bh21|wimborne|0
+UK:ss17|corringham|0
+UK:la23|windermere|0
+UK:ze2|sandwick|0
+UK:mk42|kempston|0
+UK:po31|cowes|0
+UK:s98|sheffield|0
+UK:ta18|crewkerne|0
+UK:sp10|andover|0
+UK:ip27|lakenheath|0
+UK:so42|brockenhurst|0
+UK:bt17|dunmurry|0
+UK:iv52|craig|0
+UK:de13|burton upon trent|0
+UK:wf4|bretton|0
+UK:dg7|castle douglas|0
+UK:br6|orpington|0
+UK:cw8|delamere|0
+UK:tw3|hounslow|0
+UK:m2|manchester|0
+UK:g71|uddingston|0
+UK:rg41|winnersh|0
+UK:gu24|pirbright|0
+UK:ss0|westcliff-on-sea|0
+UK:l31|maghull|0
+UK:gu52|fleet|0
+UK:rg5|woodley|0
+UK:hx5|elland|0
+UK:sa34|whitland|0
+UK:eh38|heriot|0
+UK:po33|ryde|0
+UK:de11|swadlincote|0
+UK:kw14|thurso|0
+UK:sk8|cheadle|0
+UK:da9|greenhithe|0
+UK:sl8|bourne end|0
+UK:yo16|carnaby|0
+UK:ka3|dunlop|0
+UK:bn24|pevensey|0
+UK:ox49|lewknor|0
+UK:bs35|thornbury|0
+UK:iv36|forres|0
+UK:cw6|tarporley|0
+UK:ex10|sidmouth|0
+UK:tn32|robertsbridge|0
+UK:rg40|wokingham|0
+UK:tw8|brentford|0
+UK:nn15|burton latimer|0
+UK:ll65|valley|0
+UK:dn22|west drayton|0
+UK:ph8|dunkeld|0
+UK:cf40|rhondda|0
+UK:ip17|saxmundham|0
+UK:po14|titchfield|0
+UK:ph10|blairgowrie|0
+UK:sk9|handforth|0
+UK:ll11|wrexham|0
+UK:gu6|cranleigh|0
+UK:ml3|hamilton|0
+UK:bn43|shoreham-by-sea|0
+UK:yo26|great ouseburn|0
+UK:gl17|longhope|0
+UK:ol6|ashton-under-lyne|0
+UK:le18|wigston|0
+UK:tf10|woodcote|0
+UK:dl5|newton aycliffe|0
+UK:bd22|oakworth|0
+UK:sg14|hertford|0
+UK:bs21|clevedon|0
+UK:sy4|clive|0
+UK:sl7|marlow|0
+UK:la1|lancaster|0
+UK:sr7|seaham|0
+UK:sy7|newcastle|0
+UK:g46|giffnock|0
+UK:me20|aylesford|0
+UK:eh23|gorebridge|0
+UK:cm20|harlow|0
+UK:rg42|binfield|0
+UK:bt1|belfast|0
+UK:tw16|sunbury-on-thames|0
+UK:bt70|dungannon|0
+UK:cm22|bishops stortford|0
+UK:nn10|rushden|0
+UK:yo25|great driffield|0
+UK:yo15|bridlington|0
+UK:ng1|nottingham|0
+UK:wf1|wakefield|0
+UK:tq1|torquay|0
+UK:rm5|havering|0
+UK:cf83|caerphilly|0
+UK:b38|kings norton|0
+UK:ch62|bromborough|0
+UK:so31|locks heath|0
+UK:ta17|hinton st george|0
+UK:yo7|thirsk|0
+UK:bl2|harwood|0
+UK:gu1|guildford|0
+UK:cr8|purley|0
+UK:l14|huyton-with-roby|0
+UK:sy23|aberystwyth|0
+UK:sg6|letchworth|0
+UK:pe8|oundle|0
+UK:kt14|byfleet|0
+UK:gu34|alton|0
+UK:ba3|midsomer norton|0
+UK:rm11|hornchurch|0
+UK:fk1|falkirk|0
+UK:le1|leicester|0
+UK:bn6|albourne|0
+UK:ne46|hexham|0
+UK:lu2|lilley|0
+UK:ml12|biggar|0
+UK:ex8|exmouth|0
+UK:pa15|greenock|0
+UK:cf72|pontyclun|0
+UK:nw1|bloomsbury|0
+UK:po11|south hayling|0
+UK:bb11|burnley|0
+UK:dt9|sherborne|0
+UK:np12|blackwood|0
+UK:tn39|bexhill|0
+UK:hp18|brill|0
+UK:kt8|molesey|0
+UK:wa16|knutsford|0
+UK:ca5|beaumont|0
+UK:ml5|coatbridge|0
+UK:ch42|tranmere|0
+UK:gu26|hindhead|0
+UK:co12|harwich|0
+UK:bb8|foulridge|0
+UK:cw1|crewe|0
+UK:tn26|kingsnorth|0
+UK:ne6|walker|0
+UK:nr29|horsey|0
+UK:cf47|merthyr tydfil|0
+UK:cb9|haverhill|0
+UK:tw18|staines|0
+UK:co10|sudbury|0
+UK:rg28|tufton|0
+UK:hs3|harris|0
+UK:ln5|lincoln|0
+UK:mk45|ampthill|0
+UK:ka12|irvine|0
+UK:me13|faversham|0
+UK:pa31|lochgilphead|0
+UK:cw10|middlewich|0
+UK:tr18|penzance|0
+UK:dl2|winston|0
+UK:da17|belvedere|0
+UK:s43|barlborough|0
+UK:rg2|shinfield|0
+UK:gl50|cheltenham|0
+UK:pe28|coppingford|0
+UK:ba11|frome|0
+UK:b50|broom|0
+UK:cf71|cowbridge|0
+UK:nr17|attleborough|0
+UK:ne22|bedlington|0
+UK:rm1|romford|0
+UK:ll31|llandudno junction|0
+UK:ip29|bury saint edmunds|0
+UK:bt9|stranmillis|0
+UK:sk1|stockport|0
+UK:ox14|abingdon|0
+UK:bs49|yatton|0
+UK:so51|romsey|0
+UK:ch45|wallasey|0
+UK:sl1|slough|0
+UK:eh21|musselburgh|0
+UK:mk1|milton keynes|0
+UK:ze1|lerwick|0
+UK:bl8|tottington|0
+UK:b67|smethwick|0
+UK:rg26|tadley|0
+UK:la12|colton|0
+UK:ws11|cannock|0
+UK:tr14|camborne|0
+UK:nn14|geddington|0
+UK:ta8|burnham-on-sea|0
+UK:de72|risley|0
+UK:sk15|stalybridge|0
+UK:al6|welwyn|0
+UK:dh5|houghton le spring|0
+UK:ts9|stokesley|0
+UK:hp3|bovingdon|0
+UK:sr1|sunderland|0
+UK:ig7|chigwell|0
+UK:nr18|wymondham|0
+UK:gl11|dursley|0
+UK:tn34|hastings|0
+UK:hp6|amersham|0
+UK:ch7|mold|0
+UK:dy10|kidderminster|0
+UK:eh51|boness|0
+UK:da13|meopham|0
+UK:gu23|send|0
+UK:kt9|chessington|0
+UK:ab43|fraserburgh|0
+UK:ne39|rowlands gill|0
+UK:so20|stockbridge|0
+UK:ta21|wellington|0
+UK:b97|redditch|0
+UK:dl12|barnard castle|0
+UK:td2|lauder|0
+UK:ls22|wetherby|0
+UK:cb10|saffron walden|0
+UK:hu17|beverley|0
+UK:ip19|halesworth|0
+UK:wn1|wigan|0
+UK:tw7|isleworth|0
+UK:sa10|neath|0
+UK:ol16|rochdale|0
+UK:yo41|stamford bridge|0
+UK:ls28|farsley|0
+UK:wv14|bilston|0
+UK:ca11|penrith|0
+UK:al9|brookmans park|0
+UK:ss6|rayleigh|0
+UK:nr30|great yarmouth|0
+UK:ll77|llangefni|0
+UK:bn88|brighton|0
+UK:nn13|brackley|0
+UK:hr3|clifford|0
+UK:bs32|almondsbury|0
+UK:gu10|bentley|0
+UK:ba1|bath|0
+UK:bl1|bolton|0
+UK:hp27|princes risborough|0
+UK:hr9|ross-on-wye|0
+UK:ws7|burntwood|0
+UK:nr9|lenwade|0
+UK:po30|newport|0
+UK:ex39|bideford|0
+UK:ch48|west kirby|0
+UK:yo12|scarborough|0
+UK:eh55|west calder|0
+UK:hu1|hull|0
+UK:cf62|barry|0
+UK:pe13|wisbech|0
+UK:pl15|launceston|0
+UK:cm9|maldon|0
+UK:iv27|lochinver|0
+UK:iv11|cromarty|0
+UK:cf31|bridgend|0
+UK:bb18|barnoldswick|0
+UK:pe16|chatteris|0
+UK:pl18|calstock|0
+UK:ng25|southwell|0
+UK:ky7|glenrothes|0
+UK:so24|bighton|0
+UK:gu7|godalming|0
+UK:ws9|aldridge|0
+UK:me7|gillingham|0
+UK:ky16|st andrews|0
+UK:pa23|sandbank|0
+UK:sa44|llandysul|0
+UK:ip18|southwold|0
+UK:sw17|wimbledon|0
+UK:ll53|pwllheli|0
+UK:bn16|rustington|0
+UK:tn25|smeeth|0
+UK:ne26|whitley bay|0
+UK:cf48|dowlais|0
+UK:ss3|shoeburyness|0
+UK:hp23|tring|0
+UK:wa8|widnes|0
+UK:cm3|great leighs|0
+UK:bn14|findon|0
+UK:sn8|marlborough|0
+UK:l29|sefton|0
+UK:me14|maidstone|0
+UK:br2|bromley|0
+UK:ne23|cramlington|0
+UK:rg14|newbury|0
+UK:eh39|north berwick|0
+UK:cw11|sandbach|0
+UK:rh15|burgess hill|0
+UK:hp20|aylesbury|0
+UK:po19|chichester|0
+UK:ne61|morpeth|0
+UK:gu46|yateley|0
+UK:ta20|chard|0
+UK:st16|stafford|0
+UK:cb4|long stanton|0
+UK:hg1|harrogate|0
+UK:pr7|chorley|0
+UK:ig9|buckhurst hill|0
+UK:ip16|leiston|0
+UK:bt74|enniskillen|0
+UK:ab55|keith|0
+UK:cv8|kenilworth|0
+UK:tn21|heathfield|0
+UK:ca14|workington|0
+UK:dd8|forfar|0
+UK:bd20|bradley|0
+UK:cm21|sawbridgeworth|0
+UK:ll36|tywyn|0
+UK:pa14|port glasgow|0
+UK:ts21|sedgefield|0
+UK:rh6|horley|0
+UK:l39|halsall|0
+UK:ip28|mildenhall|0
+UK:pl32|camelford|0
+UK:cb24|swavesey|0
+UK:la21|torver|0
+UK:ex31|parracombe|0
+UK:b80|studley|0
+UK:dn35|cleethorpes|0
+UK:nr16|snetterton|0
+UK:gl51|staverton|0
+UK:ld3|brecon|0
+UK:rm3|harold wood|0
+UK:sk16|dukinfield|0
+UK:bs23|weston-super-mare|0
+UK:dl4|shildon|0
+UK:le3|glenfield|0
+UK:eh45|eddleston|0
+UK:ub8|uxbridge|0
+UK:bl9|bury|0
+UK:ct6|herne bay|0
+UK:pe11|spalding|0
+UK:m26|radcliffe|0
+UK:ts11|marske-by-the-sea|0
+UK:pl11|torpoint|0
+UK:dn32|grimsby|0
+UK:br7|chislehurst|0
+UK:bt4|sydenham|0
+UK:iv51|portree|0
+UK:dn11|rossington|0
+UK:ig11|barking and dagenham|0
+UK:iv15|dingwall|0
+UK:co11|manningtree|0
+UK:bs1|bristol|0
+UK:dd1|dundee|0
+UK:dh4|penshaw|0
+UK:sy21|welshpool|0
+UK:se10|greenwich|0
+UK:bh25|new milton|0
+UK:ip98|diss|0
+UK:dl6|northallerton|0
+UK:ta19|ilminster|0
+UK:hs2|lionel|0
+UK:tn19|etchingham|0
+UK:ph1|perth|0
+UK:tr13|porthleven|0
+UK:rm19|purfleet|0
+UK:cf39|porth|0
+UK:so53|chandlers ford|0
+UK:tn16|westerham|0
+UK:ct10|broadstairs|0
+UK:b48|alvechurch|0
+UK:iv1|inverness|0
+UK:g61|bearsden|0
+UK:tq7|kingsbridge|0
+UK:cv31|royal leamington spa|0
+UK:pa4|renfrew|0
+UK:ox39|chinnor|0
+UK:pl19|tavistock|0
+UK:st5|newcastle-under-lyme|0
+UK:sg8|royston|0
+UK:ll30|llandudno|0
+UK:dl16|spennymoor|0
+UK:po21|bognor regis|0
+UK:ss9|leigh-on-sea|0
+UK:sn15|chippenham|0
+UK:hu15|brough|0
+UK:tf13|shipton|0
+UK:eh42|dunbar|0
+UK:sw13|richmond upon thames|0
+UK:g82|dumbarton|0
+UK:dn8|thorne|0
+UK:ky13|milnathort|0
+UK:mk6|simpson|0
+UK:so50|eastleigh|0
+UK:ol1|oldham|0
+UK:ba14|trowbridge|0
+UK:gl20|tewkesbury|0
+UK:ex4|exeter|0
+UK:ne63|ashington|0
+UK:dd10|montrose|0
+UK:dy13|stourport-on-severn|0
+UK:la7|milnthorpe|0
+UK:np25|monmouth|0
+UK:tn35|westfield|0
+UK:nn12|towcester|0
+UK:dn20|brigg|0
+UK:sa38|newcastle emlyn|0
+UK:gu27|haslemere|0
+UK:ct13|sandwich|0
+UK:ts10|redcar|0
+UK:ll28|colwyn bay|0
+UK:tn15|seal|0
+UK:sy1|shrewsbury|0
+UK:sp6|fordingbridge|0
+UK:cv37|stratford-upon-avon|0
+UK:al4|wheathampstead|0
+UK:ex17|crediton|0
+UK:ng31|grantham|0
+UK:dy6|kingswinford|0
+UK:dh97|durham|0
+UK:ab38|aberlour|0
+UK:de74|kegworth|0
+UK:gl5|stroud|0
+UK:sa18|ammanford|0
+UK:al8|welwyn garden city|0
+UK:rh4|dorking|0
+UK:m17|trafford park|0
+UK:wa10|st helens|0
+UK:g67|cumbernauld|0
+UK:po7|denmead|0
+UK:nn8|wellingborough|0
+UK:s64|mexborough|0
+UK:dy14|cleobury mortimer|0
+UK:tn11|hildenborough|0
+UK:da1|dartford|0
+UK:wr2|grimley|0
+UK:wv1|wolverhampton|0
+UK:ig8|woodford green|0
+UK:hp4|berkhamsted|0
+UK:np23|victoria|0
+UK:bb3|darwen|0
+UK:tr27|hayle|0
+UK:b71|sandwell|0
+UK:nr34|beccles|0
+UK:ox29|eynsham|0
+UK:gl14|cinderford|0
+UK:ky5|lochgelly|0
+UK:np16|chepstow|0
+UK:np15|raglan|0
+UK:en11|hoddesdon|0
+UK:kt13|weybridge|0
+UK:le17|lutterworth|0
+UK:tq9|totnes|0
+UK:gu12|ash vale|0
+UK:iv30|elgin|0
+UK:cm11|downham|0
+UK:ct14|deal|0
+UK:l4|walton|0
+UK:st7|kidsgrove|0
+UK:nn17|corby|0
+UK:bb12|padiham|0
+UK:da16|welling|0
+UK:ct3|knowlton|0
+UK:rg29|odiham|0
+UK:bt19|bangor|0
+UK:bn25|seaford|0
+UK:nw10|ealing|0
+UK:dt5|portland|0
+UK:s73|wombwell|0
+UK:wf14|mirfield|0
+UK:tq3|paignton|0
+UK:ba6|glastonbury|0
+UK:cm16|epping|0
+UK:le19|enderby|0
+UK:ct9|margate|0
+UK:nr25|hempstead|0
+UK:ip24|thetford|0
+UK:ox44|chalgrove|0
+UK:dl17|ferryhill|0
+UK:bh19|swanage|0
+UK:ab42|hatton|0
+UK:dt8|beaminster|0
+UK:en6|potters bar|0
+UK:eh54|livingston|0
+UK:cv35|lighthorne|0
+UK:ox11|didcot|0
+UK:tw12|hampton hill|0
+UK:po12|gosport|0
+UK:gl56|moreton-in-marsh|0
+UK:s60|rotherham|0
+UK:td14|eyemouth|0
+UK:kt3|new malden|0
+UK:dt10|sturminster newton|0
+UK:tr1|truro|0
+UK:kw1|wick|0
+UK:td8|jedburgh|0
+UK:dn39|kirmington|0
+UK:e10|waltham forest|0
+UK:b46|water orton|0
+UK:sa70|tenby|0
+UK:bn26|polegate|0
+UK:fk10|alloa|0
+UK:bn17|littlehampton|0
+UK:ml6|airdrie|0
+UK:e12|newham|0
+UK:le7|ratcliffe on the wreake|0
+UK:wa12|newton-le-willows|0
+UK:sk11|macclesfield|0
+UK:cr4|mitcham|0
+UK:wa4|daresbury|0
+UK:ch6|flint|0
+UK:ph15|aberfeldy|0
+UK:tf12|broseley|0
+UK:le16|market harborough|0
+UK:pe24|wainfleet all saints|0
+UK:ub7|yiewsley|0
+UK:pl13|looe|0
+UK:nr23|wells next the sea|0
+UK:ch63|bebington|0
+UK:pe23|spilsby|0
+UK:pe21|boston|0
+UK:ne42|prudhoe|0
+UK:eh22|dalkeith|0
+UK:ng17|sutton in ashfield|0
+UK:so23|winchester|0
+UK:gu32|petersfield|0
+UK:ph33|ft william|0
+UK:po40|freshwater|0
+UK:gu35|bordon|0
+UK:cm8|witham|0
+UK:sa67|narberth|0
+UK:nr19|dereham|0
+UK:ts27|castle eden|0
+UK:eh46|west linton|0
+UK:b8|saltley|0
+UK:ll13|wrexham|0
+UK:e8|hackney|0
+UK:rm8|barking and dagenham|0
+UK:gu9|farnham|0
+UK:ig5|redbridge|0
+UK:wa9|st helens|0
+UK:sw2|lambeth|0
+UK:l36|knowsley|0
+UK:nw3|camden|0
+UK:n15|haringey|0
+UK:hu3|hull|0
+UK:w8|kensington and chelsea|0
+UK:s75|barnsley|0
+UK:sw1a|london|0
+UK:kt5|kingston upon thames|0
+UK:dy2|dudley|0
+UK:g68|cumbernauld|0
+UK:w7|ealing|0
+UK:tn24|ashford|0
+UK:cr2|croydon|0
+UK:sa11|neath|0
+UK:iv3|inverness|0
+UK:sp2|salisbury|0
+UK:se18|greenwich|0
+UK:sw19|merton|0
+UK:np19|newport|0
+UK:so15|southampton|0
+UK:cm23|bishops stortford|0
+UK:m60|manchester|0
+UK:me16|maidstone|0
+UK:de14|burton upon trent|0
+UK:bt48|londonderry|0
+UK:so43|lyndhurst|0
+UK:cv32|royal leamington spa|0
+UK:e17|waltham forest|0
+UK:wf2|wakefield|0
+UK:bt71|dungannon|0
+UK:l2|liverpool|0
+UK:se15|southwark|0
+UK:sr2|sunderland|0
+UK:dn34|grimsby|0
+UK:se13|lewisham|0
+UK:sw18|wandsworth|0
+UK:b61|bromsgrove|0
+UK:cb5|bottisham|0
+UK:nw7|barnet|0
+UK:w6|hammersmith and fulham|0
+UK:ol8|oldham|0
+UK:ky12|dunfermline|0
+UK:ph2|perth|0
+UK:dn7|hatfield|0
+UK:eh2|edinburgh|0
+UK:w2|city of westminster|0
+UK:bt35|newry|0
+UK:e13|newham|0
+UK:ab25|aberdeen|0
+UK:n1|islington|0
+UK:ch65|ellesmere port|0
+UK:yo23|york|0
+UK:bt28|lisburn|0
+UK:bt20|bangor|0
+UK:ip32|bury saint edmunds|0
+UK:pe3|peterborough|0
+UK:sa15|llanelli|0
+UK:pa6|houston|0
+UK:wv11|wednesfield|0
+UK:ln6|birchwood|0
+UK:rg20|kingsclere|0
+UK:ka26|turnberry|0
+UK:wc2n|london|0
+UK:tq2|torquay|0
+UK:pa29||0
+UK:nr26|sheringham|0
+UK:ch4|dodleston|0
+UK:wn6|appley bridge|0
+UK:dg1|dumfries|0
+UK:ll48|garreg|0
+UK:bt64|craigavon|0
+UK:np20|newport|0
+UK:pr5|preston|0
+UK:mk8|milton keynes|0
+UK:ec3a|london|0
+UK:b45|birmingham|0
+UK:sa99|swansea|0
+UK:wc1a|london|0
+UK:cv3|coventry|0
+UK:bn20|eastbourne|0
+UK:b6|bromsgrove|0
+UK:n20|london|0
+UK:cf35|bridgend|0
+UK:m23|manchester|0
+UK:se6|london|0
+UK:bn12|worthing|0
+UK:ab10|aberdeen|0
+UK:sw8|london|0
+UK:sn38|swindon|0
+UK:s32|eyam|0
+UK:pa10|johnstone|0
+UK:ch44|wallasey|0
+UK:l37|liverpool|0
+UK:bt15|belfast|0
+UK:sa32|carmarthen|0
+UK:ph11|blairgowrie|0
+UK:ts18|stockton-on-tees|0
+UK:w1c|london|0
+UK:w1w|london|0
+UK:g51|glasgow|0
+UK:b4|birmingham|0
+UK:sk2|stockport|0
+UK:sy10|oswestry|0
+UK:s63|rotherham|0
+UK:ls26|leeds|0
+UK:tf6|telford|0
+UK:nn18|corby|0
+UK:hp15|high wycombe|0
+UK:wr5|worcester|0
+UK:wv2|wolverhampton|0
+UK:ls4|leeds|0
+UK:n19|london|0
+UK:hu6|hull|0
+UK:ct17|dover|0
+UK:ip26|thetford|0
+UK:bs40|bristol|0
+UK:da10|dartford|0
+UK:n9|london|0
+UK:b32|birmingham|0
+UK:b70|west bromwich|0
+UK:pa42|port ellen|0
+UK:cf15|cardiff|0
+UK:w14|london|0
+UK:b18|birmingham|0
+UK:ct50|folkestone|0
+UK:bd8|bradford|0
+UK:hd2|huddersfield|0
+UK:ts22|billingham|0
+UK:sk10|macclesfield|0
+UK:dd3|dundee|0
+UK:ss99|southend-on-sea|0
+UK:ct2|canterbury|0
+UK:g2|glasgow|0
+UK:ts7|middlesbrough|0
+UK:bt37|newtownabbey|0
+UK:bd15|bradford|0
+UK:cb6|ely|0
+UK:ol4|oldham|0
+UK:n6|london|0
+UK:le87|leicester|0
+UK:bh4|bournemouth|0
+UK:cf5|cardiff|0
+UK:wn3|wigan|0
+UK:ss14|basildon|0
+UK:ec2r|london|0
+UK:ng20|mansfield|0
+UK:gu17|camberley|0
+UK:hu9|hull|0
+UK:ne1|newcastle upon tyne|0
+UK:iv2|inverness|0
+UK:m8|manchester|0
+UK:cf11|cardiff|0
+UK:wa2|warrington|0
+UK:nr31|great yarmouth|0
+UK:de99|derby|0
+UK:ls16|leeds|0
+UK:sr9|sunderland|0
+UK:m32|manchester|0
+UK:bd5|bradford|0
+UK:sy5|shrewsbury|0
+UK:wr3|worcester|0
+UK:ct4|canterbury|0
+UK:m20|manchester|0
+UK:wv6|wolverhampton|0
+UK:eh11|edinburgh|0
+UK:sg11|ware|0
+UK:se7|london|0
+UK:pr26|leyland|0
+UK:eh30|dalmeny|0
+UK:ip9|ipswich|0
+UK:b28|birmingham|0
+UK:ca2|carlisle|0
+UK:s1|sheffield|0
+UK:ex1|exeter|0
+UK:s4|sheffield|0
+UK:yo10|york|0
+UK:n13|london|0
+UK:so16|southampton|0
+UK:ws2|walsall|0
+UK:s40|chesterfield|0
+UK:ec2m|london|0
+UK:e15|london|0
+UK:dh1|durham|0
+UK:ls2|leeds|0
+UK:bs8|bristol|0
+UK:me9|sittingbourne|0
+UK:b44|birmingham|0
+UK:s10|sheffield|0
+UK:se17|london|0
+UK:ng32|grantham|0
+UK:b20|birmingham|0
+UK:bd11|bradford|0
+UK:sl95|slough|0
+UK:nr3|norwich|0
+UK:bs14|bristol|0
+UK:ch88|chester|0
+UK:b36|birmingham|0
+UK:eh99|edinburgh|0
+UK:m50|salford|0
+UK:nn4|northampton|0
+UK:mk14|milton keynes|0
+UK:hd3|huddersfield|0
+UK:ts25|hartlepool|0
+UK:bh5|bournemouth|0
+UK:yo13|scarborough|0
+UK:co4|colchester|0
+UK:gu5|fleet|0
+UK:pa37|oban|0
+UK:dt2|dorchester|0
+UK:wr7|worcester|0
+UK:pr0|preston|0
+UK:ng14|nottingham|0
+UK:l6|liverpool|0
+UK:sw1x|london|0
+UK:se2|london|0
+UK:ch66|ellesmere port|0
+UK:so17|southampton|0
+UK:b13|birmingham|0
+UK:w11|london|0
+UK:hx3|halifax|0
+UK:rg23|basingstoke|0
+UK:bt5|belfast|0
+UK:ph13|blairgowrie|0
+UK:wr99|worcester|0
+UK:bt12|belfast|0
+UK:hp17|aylesbury|0
+UK:s96|sheffield|0
+UK:hd8|huddersfield|0
+UK:fy4|blackpool|0
+UK:po17|fareham|0
+UK:s49|chesterfield|0
+UK:sn5|swindon|0
+UK:pe20|boston|0
+UK:sp11|andover|0
+UK:ng5|nottingham|0
+UK:hg2|harrogate|0
+UK:ec4v|london|0
+UK:wf12|dewsbury|0
+UK:n12|london|0
+UK:dy11|kidderminster|0
+UK:fy3|blackpool|0
+UK:n8|london|0
+UK:ss22|southend-on-sea|0
+UK:co8|mount bures|0
+UK:ls8|leeds|0
+UK:n7|london|0
+UK:mk4|milton keynes|0
+UK:ol12|rochdale|0
+UK:g12|glasgow|0
+UK:bt16|belfast|0
+UK:yo61|york|0
+UK:b2|birmingham|0
+UK:mk13|milton keynes|0
+UK:b77|tamworth|0
+UK:bh11|bournemouth|0
+UK:l38|liverpool|0
+UK:bs16|bristol|0
+UK:cf32|bridgend|0
+UK:cb21|cambridge|0
+UK:cv2|coventry|0
+UK:m18|manchester|0
+UK:st18|stafford|0
+UK:e18|london|0
+UK:m15|manchester|0
+UK:se26|london|0
+UK:l30|bootle|0
+UK:g21|glasgow|0
+UK:rh5|dorking|0
+UK:gl6|stroud|0
+UK:ne13|newcastle upon tyne|0
+UK:eh18|lasswade|0
+UK:tw5|hounslow|0
+UK:s5|sheffield|0
+UK:l71|liverpool|0
+UK:nn3|northampton|0
+UK:l11|liverpool|0
+UK:pe14|wisbech|0
+UK:wv3|wolverhampton|0
+UK:gl53|cheltenham|0
+UK:g40|glasgow|0
+UK:ll67|cemaes bay|0
+UK:s8|sheffield|0
+UK:pr11|preston|0
+UK:al7|welwyn garden city|0
+UK:bn41|brighton|0
+UK:ss11|wickford|0
+UK:dh9|annfield plain|0
+UK:so52|southampton|0
+UK:bt7|belfast|0
+UK:n3|london|0
+UK:de21|derby|0
+UK:nr32|lowestoft|0
+UK:wc2b|london|0
+UK:ca6|carlisle|0
+UK:bn22|eastbourne|0
+UK:hp19|aylesbury|0
+UK:ec4m|london|0
+UK:sw14|london|0
+UK:pe6|peterborough|0
+UK:se22|london|0
+UK:ph5|crieff|0
+UK:se16|london|0
+UK:l40|ormskirk|0
+UK:ph6|crieff|0
+UK:se4|london|0
+UK:hp8|chalfont|0
+UK:bs98|bristol|0
+UK:nw8|london|0
+UK:ne2|newcastle upon tyne|0
+UK:b98|redditch|0
+UK:ts6|middlesbrough|0
+UK:bs22|weston-super-mare|0
+UK:ng21|mansfield|0
+UK:yo11|scarborough|0
+UK:bs10|bristol|0
+UK:bt11|belfast|0
+UK:dn16|scunthorpe|0
+UK:bt13|belfast|0
+UK:s11|sheffield|0
+UK:hp2|hemel hempstead|0
+UK:nw4|london|0
+UK:s9|sheffield|0
+UK:cr9|croydon|0
+UK:b25|birmingham|0
+UK:ne12|newcastle upon tyne|0
+UK:po8|waterlooville|0
+UK:sk3|stockport|0
+UK:ls15|leeds|0
+UK:ls9|leeds|0
+UK:yo60|york|0
+UK:me8|gillingham|0
+UK:mk3|milton keynes|0
+UK:iv13|inverness|0
+UK:b47|birmingham|0
+UK:g53|glasgow|0
+UK:g45|glasgow|0
+UK:wa55|warrington|0
+UK:ng80|nottingham|0
+UK:tf4|telford|0
+UK:l35|prescot|0
+UK:pr9|southport|0
+UK:g44|glasgow|0
+UK:l7|liverpool|0
+UK:wc1e|london|0
+UK:se25|london|0
+UK:ln4|lincoln|0
+UK:ec3m|london|0
+UK:sa2|swansea|0
+UK:wr8|worcester|0
+UK:bd14|bradford|0
+UK:l21|liverpool|0
+UK:g62|glasgow|0
+UK:eh53|livingston|0
+UK:ng2|nottingham|0
+UK:nr11|norwich|0
+UK:ws14|lichfield|0
+UK:s81|worksop|0
+UK:ts2|middlesbrough|0
+UK:dt3|weymouth|0
+UK:s20|sheffield|0
+UK:bb6|blackburn|0
+UK:ec3r|london|0
+UK:ch2|chester|0
+UK:bt92|enniskillen|0
+UK:ec3n|london|0
+UK:s26|sheffield|0
+UK:ls98|leeds|0
+UK:sp8|gillingham|0
+UK:wc1x|london|0
+UK:b7|birmingham|0
+UK:rg22|basingstoke|0
+UK:l69|liverpool|0
+UK:ec4n|london|0
+UK:pa1|paisley|0
+UK:bt94|enniskillen|0
+UK:wf7|pontefract|0
+UK:wd19|watford|0
+UK:pa65|craignure|0
+UK:nn6|northampton|0
+UK:l12|liverpool|0
+UK:g3|glasgow|0
+UK:la3|morecambe|0
+UK:gl4|gloucester|0
+UK:cf99|cardiff|0
+UK:bs7|bristol|0
+UK:g42|glasgow|0
+UK:ca1|carlisle|0
+UK:wd24|watford|0
+UK:g5|glasgow|0
+UK:eh32|prestonpans|0
+UK:w4|london|0
+UK:yo62|york|0
+UK:ts4|middlesbrough|0
+UK:m1|manchester|0
+UK:b26|birmingham|0
+UK:sw16|london|0
+UK:me15|maidstone|0
+UK:ec4y|london|0
+UK:n22|london|0
+UK:w1j|london|0
+UK:bs11|bristol|0
+UK:yo24|york|0
+UK:ip2|ipswich|0
+UK:lu3|luton|0
+UK:ng33|grantham|0
+UK:st20|stafford|0
+UK:mk41|bedford|0
+UK:ng23|newark|0
+UK:eh13|edinburgh|0
+UK:mk15|milton keynes|0
+UK:m16|manchester|0
+UK:hd5|huddersfield|0
+UK:bt93|enniskillen|0
+UK:rm20|grays|0
+UK:dy3|dudley|0
+UK:b40|birmingham|0
+UK:l25|liverpool|0
+UK:bs99|bristol|0
+UK:ec4r|london|0
+UK:hr1|hereford|0
+UK:g15|glasgow|0
+UK:m38|manchester|0
+UK:gl2|gloucester|0
+UK:ls99|leeds|0
+UK:dn5|doncaster|0
+UK:bh12|poole|0
+UK:ne9|gateshead|0
+UK:ng8|nottingham|0
+UK:bd12|bradford|0
+UK:ls11|leeds|0
+UK:bd2|bradford|0
+UK:bt52|coleraine|0
+UK:da2|dartford|0
+UK:ec1v|london|0
+UK:b78|tamworth|0
+UK:g4|glasgow|0
+UK:nn5|northampton|0
+UK:e9|london|0
+UK:pl20|merrivale|0
+UK:ct15|dover|0
+UK:po3|portsmouth|0
+UK:ng6|nottingham|0
+UK:fk2|falkirk|0
+UK:mk9|milton keynes|0
+UK:m34|manchester|0
+UK:st15|moddershall|0
+UK:sw9|london|0
+UK:b24|birmingham|0
+UK:g22|glasgow|0
+UK:wc2h|london|0
+UK:ls12|leeds|0
+UK:la13|barrow-in-furness|0
+UK:ec1n|london|0
+UK:wv7|wolverhampton|0
+UK:ct19|folkestone|0
+UK:l13|liverpool|0
+UK:n4|london|0
+UK:cb11|saffron walden|0
+UK:g69|glasgow|0
+UK:g77|glasgow|0
+UK:ne82|newcastle upon tyne|0
+UK:tw15|ashford|0
+UK:b43|birmingham|0
+UK:l72|liverpool|0
+UK:m9|manchester|0
+UK:sp5|salisbury|0
+UK:lu4|luton|0
+UK:eh10|edinburgh|0
+UK:so45|southampton|0
+UK:wa3|warrington|0
+UK:ab15|aberdeen|0
+UK:ng4|nottingham|0
+UK:se14|london|0
+UK:g60|glasgow|0
+UK:ta3|taunton|0
+UK:l24|liverpool|0
+UK:ng19|mansfield|0
+UK:bs13|bristol|0
+UK:b10|birmingham|0
+UK:bd10|bradford|0
+UK:wr4|worcester|0
+UK:ng90|nottingham|0
+UK:w12|london|0
+UK:bt2|belfast|0
+UK:sa13|port talbot|0
+UK:ne25|whitley bay|0
+UK:ls19|leeds|0
+UK:bh9|bournemouth|0
+UK:b30|birmingham|0
+UK:cv6|coventry|0
+UK:bh13|poole|0
+UK:n14|london|0
+UK:ba2|bath|0
+UK:ln2|lincoln|0
+UK:sm1|sutton|0
+UK:g52|glasgow|0
+UK:b75|sutton coldfield|0
+UK:wc2e|london|0
+UK:tf2|telford|0
+UK:bl78|bolton|0
+UK:nw9|london|0
+UK:de23|derby|0
+UK:ne15|newcastle upon tyne|0
+UK:tw4|hounslow|0
+UK:ab16|aberdeen|0
+UK:w1b|london|0
+UK:m19|manchester|0
+UK:n11|london|0
+UK:wd18|watford|0
+UK:cf3|cardiff|0
+UK:ts3|middlesbrough|0
+UK:ba5|westbury sub mendip|0
+UK:sa4|swansea|0
+UK:sp3|salisbury|0
+UK:ne34|south shields|0
+UK:sa9|swansea|0
+UK:yo32|york|0
+UK:se12|london|0
+UK:sa8|swansea|0
+UK:bn42|brighton|0
+UK:m4|manchester|0
+UK:wv4|wolverhampton|0
+UK:gu51|fleet|0
+UK:sw5|london|0
+UK:ec1y|london|0
+UK:bd7|bradford|0
+UK:ba20|yeovil|0
+UK:bt6|belfast|0
+UK:iv5|inverness|0
+UK:tr19|penzance|0
+UK:wc1v|london|0
+UK:s13|sheffield|0
+UK:pe26|huntingdon|0
+UK:eh4|edinburgh|0
+UK:tr4|truro|0
+UK:m40|manchester|0
+UK:b29|birmingham|0
+UK:po15|fareham|0
+UK:ss2|southend-on-sea|0
+UK:pa32|inveraray|0
+UK:bs5|bristol|0
+UK:ip13|woodbridge|0
+UK:bh10|bournemouth|0
+UK:pr4|preston|0
+UK:ls88|leeds|0
+UK:ng3|nottingham|0
+UK:m45|manchester|0
+UK:gu95|camberley|0
+UK:nr2|norwich|0
+UK:ab23|aberdeen|0
+UK:ox33|oxford|0
+UK:g31|glasgow|0
+UK:wf3|wakefield|0
+UK:sr3|sunderland|0
+UK:e3|london|0
+UK:sw20|london|0
+UK:m21|manchester|0
+UK:cv23|rugby|0
+UK:sw4|london|0
+UK:cb1|cambridge|0
+UK:bs2|bristol|0
+UK:rh11|crawley|0
+UK:sy3|shrewsbury|0
+UK:se27|london|0
+UK:m14|manchester|0
+UK:g75|glasgow|0
+UK:n2|london|0
+UK:kt2|kingston upon thames|0
+UK:ec2y|london|0
+UK:l22|liverpool|0
+UK:m30|manchester|0
+UK:dn4|doncaster|0
+UK:l74|liverpool|0
+UK:sn26|swindon|0
+UK:wc1n|london|0
+UK:bd98|shipley|0
+UK:e1w|london|0
+UK:l15|liverpool|0
+UK:dn9|doncaster|0
+UK:tq13|newton abbot|0
+UK:mk77|milton keynes|0
+UK:g79|glasgow|0
+UK:sw1y|london|0
+UK:l9|liverpool|0
+UK:sa6|swansea|0
+UK:tr12|helston|0
+UK:bd99|bradford|0
+UK:s21|sheffield|0
+UK:ec3v|london|0
+UK:me1|rochester|0
+UK:tw10|richmond|0
+UK:ka28|millport|0
+UK:st17|stafford|0
+UK:cm24|stansted|0
+UK:en1|enfield|0
+UK:tr2|truro|0
+UK:m5|salford|0
+UK:sw1w|london|0
+UK:dn6|doncaster|0
+UK:nw11|london|0
+UK:b73|sutton coldfield|0
+UK:wr78|worcester|0
+UK:ne83|newcastle upon tyne|0
+UK:fk7|stirling|0
+UK:gu22|woking|0
+UK:pa30|lochgilphead|0
+UK:s72|barnsley|0
+UK:s17|sheffield|0
+UK:ts26|hartlepool|0
+UK:l23|liverpool|0
+UK:g34|glasgow|0
+UK:l3|liverpool|0
+UK:dl3|darlington|0
+UK:cf33|bridgend|0
+UK:se24|london|0
+UK:po6|portsmouth|0
+UK:ex3|exeter|0
+UK:ph40|mallaig|0
+UK:bl3|bolton|0
+UK:ts16|stockton-on-tees|0
+UK:ls3|leeds|0
+UK:s12|sheffield|0
+UK:bs4|bristol|0
+UK:bs36|bristol|0
+UK:cm98|chelmsford|0
+UK:eh1|edinburgh|0
+UK:ky2|kirkcaldy|0
+UK:dl11|richmond|0
+UK:ta5|bridgwater|0
+UK:ph12|blairgowrie|0
+UK:bh16|poole|0
+UK:wv15|bridgnorth|0
+UK:dd2|dundee|0
+UK:en7|waltham cross|0
+UK:sw99|london|0
+UK:dd4|dundee|0
+UK:fy2|blackpool|0
+UK:mk7|milton keynes|0
+UK:dn36|grimsby|0
+UK:e6|london|0
+UK:sm3|sutton|0
+UK:sa7|swansea|0
+UK:le5|leicester|0
+UK:bh3|bournemouth|0
+UK:dn37|grimsby|0
+UK:w1k|london|0
+UK:eh15|edinburgh|0
+UK:s2|sheffield|0
+UK:pl8|plymouth|0
+UK:gu4|guildford|0
+UK:kt18|epsom|0
+UK:bs15|bristol|0
+UK:rg6|reading|0
+UK:n17|london|0
+UK:l18|liverpool|0
+UK:g58|glasgow|0
+UK:m22|manchester|0
+UK:l8|liverpool|0
+UK:ne98|newcastle upon tyne|0
+UK:la8|kendal|0
+UK:pl30|bodmin|0
+UK:bs9|bristol|0
+UK:cm19|harlow|0
+UK:bl0|bury|0
+UK:ta4|taunton|0
+UK:b34|birmingham|0
+UK:st21|stafford|0
+UK:pa2|paisley|0
+UK:pl2|plymouth|0
+UK:rg18|thatcham|0
+UK:tw9|richmond|0
+UK:g32|glasgow|0
+UK:iv9|avoch|0
+UK:cf63|barry|0
+UK:bn50|brighton|0
+UK:bd9|bradford|0
+UK:bs41|bristol|0
+UK:ne4|hexham|0
+UK:rm4|stapleford tawney|0
+UK:td10|duns|0
+UK:wc1b|london|0
+UK:bd4|bradford|0
+UK:pr2|preston|0
+UK:b9|birmingham|0
+UK:s45|chesterfield|0
+UK:ec1r|london|0
+UK:br1|bromley|0
+UK:ha2|harrow|0
+UK:m28|manchester|0
+UK:bn52|hove|0
+UK:pl6|plymouth|0
+UK:bh1|bournemouth|0
+UK:ll14|wrexham|0
+UK:w1d|london|0
+UK:ch27|wallasey|0
+UK:nr6|norwich|0
+UK:w5|london|0
+UK:le2|leicester|0
+UK:cm18|harlow|0
+UK:ec4a|london|0
+UK:bt67|craigavon|0
+UK:ol11|rochdale|0
+UK:iv7|dingwall|0
+UK:w10|london|0
+UK:b3|birmingham|0
+UK:s74|barnsley|0
+UK:w9|london|0
+UK:sg13|hertford|0
+UK:ls14|leeds|0
+UK:ws5|walsall|0
+UK:sn25|swindon|0
+UK:m12|manchester|0
+UK:tn14|sevenoaks|0
+UK:le14|melton mowbray|0
+UK:bt14|belfast|0
+UK:bn23|eastbourne|0
+UK:wa88|widnes|0
+UK:sw1h|london|0
+UK:w1g|london|0
+UK:m27|manchester|0
+UK:pe5|peterborough|0
+UK:ec2v|london|0
+UK:s25|sheffield|0
+UK:b23|birmingham|0
+UK:eh6|edinburgh|0
+UK:ls7|leeds|0
+UK:nr12|norwich|0
+UK:se28|london|0
+UK:tr20|penzance|0
+UK:s7|sheffield|0
+UK:hu8|hull|0
+UK:cf95|cardiff|0
+UK:ws12|cannock|0
+UK:hu5|hull|0
+UK:tw33da|heston|0
+UK:ab22|aberdeen|0
+UK:cb2|cambridge|0
+UK:bd13|bradford|0
+UK:b11|birmingham|0
+UK:ka2|kilmarnock|0
+UK:ta2|taunton|0
+UK:ip4|ipswich|0
+UK:ls13|leeds|0
+UK:ss15|basildon|0
+UK:s61|rotherham|0
+UK:yo30|york|0
+UK:bh8|bournemouth|0
+UK:w1f|london|0
+UK:se21|london|0
+UK:ca4|carlisle|0
+UK:co3|colchester|0
+UK:so18|southampton|0
+UK:pe4|peterborough|0
+UK:cw2|crewe|0
+UK:w13|london|0
+UK:pr3|preston|0
+UK:ls10|leeds|0
+UK:m90|manchester|0
+UK:m13|manchester|0
+UK:bd3|bradford|0
+UK:b37|birmingham|0
+UK:bs3|bristol|0
+UK:en3|enfield|0
+UK:eh17|edinburgh|0
+UK:hx4|halifax|0
+UK:b16|birmingham|0
+UK:ws6|walsall|0
+UK:hu7|hull|0
+UK:hp13|high wycombe|0
+UK:wc1r|london|0
+UK:l10|liverpool|0
+UK:bh17|poole|0
+UK:n16|london|0
+UK:tf1|telford|0
+UK:s6|rotherham|0
+UK:nw5|london|0
+UK:bd16|bingley|0
+UK:b93|solihull|0
+UK:cf23|cardiff|0
+UK:ng7|nottingham|0
+UK:sy2|shrewsbury|0
+UK:bt22|newtownards|0
+UK:nr7|norwich|0
+UK:ne19|newcastle upon tyne|0
+UK:po20|chichester|0
+UK:s71|barnsley|0
+UK:le4|leicester|0
+UK:wv8|wolverhampton|0
+UK:ta7|bridgwater|0
+UK:rh13|horsham|0
+UK:dn33|grimsby|0
+UK:ha13ag|harrow on the hill|0
+UK:ip6|ipswich|0
+UK:po2|portsmouth|0
+UK:yo19|york|0
+UK:ts13|saltburn-by-the-sea|0
+UK:wv9|wolverhampton|0
+UK:cf24|cardiff|0
+UK:le95|leicester|0
+UK:ol3|oldham|0
+UK:ls25|leeds|0
+UK:pl9|plymouth|0
+UK:ne10|gateshead|0
+UK:ec2a|london|0
+UK:ph14|perth|0
+UK:eh7|edinburgh|0
+UK:gl10|stonehouse|0
+UK:ls6|leeds|0
+UK:sw7|london|0
+UK:bs24|weston-super-mare|0
+UK:bs30|bristol|0
+UK:m25|manchester|0
+UK:hp12|high wycombe|0
+UK:ne85|newcastle upon tyne|0
+UK:w1u|london|0
+UK:kt23|leatherhead|0
+UK:dn17|scunthorpe|0
+UK:n5|london|0
+UK:rg31|reading|0
+UK:cv13|nuneaton|0
+UK:wv10|wolverhampton|0
+UK:wr6|worcester|0
+UK:eh5|livingston|0
+UK:dn3|doncaster|0
+UK:le6|leicester|0
+UK:de24|derby|0
+UK:me6|west malling|0
+UK:n18|london|0
+UK:b21|birmingham|0
+UK:iv16|dingwall|0
+UK:bt60|armagh|0
+UK:b72|sutton coldfield|0
+UK:gu31|petersfield|0
+UK:dd5|dundee|0
+UK:kt24|leatherhead|0
+UK:ox27|bicester|0
+UK:bh6|bournemouth|0
+UK:se11|london|0
+UK:ab24|aberdeen|0
+UK:e1|london|0
+UK:sp4|salisbury|0
+UK:wc2r|london|0
+UK:yo31|york|0
+UK:nw6|london|0
+UK:wc2a|london|0
+UK:bh7|bournemouth|0
+UK:de22|derby|0
+UK:se20|london|0
+UK:ka6|ayr|0
+UK:eh16|edinburgh|0
+UK:sr6|sunderland|0
+UK:bs39|bristol|0
+UK:yo90|york|0
+UK:bb10|burnley|0
+UK:l27|liverpool|0
+UK:cv4|coventry|0
+UK:wf9|pontefract|0
+UK:ne5|newcastle upon tyne|0
+UK:cw3|crewe|0
+UK:m29|manchester|0
+UK:ts5|middlesbrough|0
+UK:ll29|colwyn bay|0
+UK:eh8|edinburgh|0
+UK:b33|birmingham|0
+UK:tf7|telford|0
+UK:se8|london|0
+UK:ox4|oxford|0
+UK:pl1|plymouth|0
+UK:tq4|paignton|0
+UK:ne27|newcastle upon tyne|0
+UK:se9|london|0
+UK:sn14|chippenham|0
+UK:ln3|lincoln|0
+UK:w3|london|0
+UK:gl3|gloucester|0
+UK:b35|birmingham|0
+UK:pl3|plymouth|0
+UK:pe12|spalding|0
+UK:b74|sutton coldfield|0
+UK:m3|salford|0
+UK:ws3|walsall|0
+UK:bt79|omagh|0
+UK:b5|birmingham|0
+UK:se3|london|0
+UK:ls20|leeds|0
+UK:hd4|huddersfield|0
+UK:ng11|nottingham|0
+UK:sw3|london|0
+UK:wc1h|london|0
+UK:ss13|basildon|0
+UK:le55|leicester|0
+UK:nn9|wellingborough|0
+UK:g14|glasgow|0
+UK:ne17|newcastle upon tyne|0
+UK:ts17|stockton-on-tees|0
+UK:ct18|folkestone|0
+UK:m99|manchester|0
+UK:wn2|wigan|0
+UK:w1s|london|0
+UK:se23|london|0
+UK:de3|derby|0
+UK:hp21|aylesbury|0
+UK:bt3|belfast|0
+UK:so19|southampton|0
+UK:w1h|london|0
+UK:pa9|johnstone|0
+UK:b96|redditch|0
+UK:ha0|wembley|0
+UK:s36|sheffield|0
+UK:e4|london|0
+UK:eh95|edinburgh|0
+UK:wn4|wigan|0
+UK:dn41|grimsby|0
+UK:sw1e|london|0
+UK:pa16|greenock|0
+UK:b12|birmingham|0
+UK:iv63|inverness|0
+UK:sn2|swindon|0
+UK:cf38|pontypridd|0
+UK:cv22|rugby|0
+UK:so22|winchester|0
+UK:sr4|sunderland|0
+UK:b92|solihull|0
+UK:yo91|york|0
+UK:se5|london|0
+UK:se19|london|0
+UK:tf5|telford|0
+UK:ct12|ramsgate|0
+UK:dn31|grimsby|0
+UK:s14|sheffield|0
+UK:sg2|stevenage|0
+UK:sy24|borth|0
+UK:dn12|doncaster|0
+UK:g41|glasgow|0
+UK:sw12|london|0
+UK:ol9|oldham|0
+UK:ph41|mallaig|0
+UK:l75|liverpool|0
+UK:sa5|swansea|0
+UK:mk12|milton keynes|0
+UK:ex2|exeter|0
+UK:ws8|walsall|0
+UK:ip7|ipswich|0
+UK:st19|stafford|0
+UK:bl11|bolton|0
+UK:ne29|north shields|0
+UK:rg30|reading|0
+UK:de65|derby|0
+UK:cf14|cardiff|0
+UK:sw1v|london|0
+UK:l26|liverpool|0
+UK:g11|glasgow|0
+UK:wd5|abbots langley|0
+UK:eh9|edinburgh|0
+UK:rg4|reading|0
+UK:ts20|stockton-on-tees|0
+UK:ne16|newcastle upon tyne|0
+UK:l33|liverpool|0
+UK:gu2|guildford|0
+UK:bt10|belfast|0
+UK:yo43|york|0
+UK:tr16|redruth|0
+UK:ne18|newcastle upon tyne|0
+UK:ip10|ipswich|0
+UK:b90|solihull|0
+UK:b15|birmingham|0
+UK:dh7|durham|0
+UK:s65|rotherham|0
+UK:pr6|chorley|0
+UK:l70|liverpool|0
+UK:ox2|oxford|0
+UK:b42|birmingham|0
+UK:sn3|swindon|0
+UK:g23|glasgow|0
+UK:dn55|doncaster|0
+UK:ts8|middlesbrough|0
+UK:bd6|bradford|0
+UK:tr3|truro|0
+UK:b14|birmingham|0
+UK:b17|birmingham|0
+UK:g13|glasgow|0
+UK:bs31|bristol|0
+UK:sr5|sunderland|0
+UK:ng13|nottingham|0
+UK:b27|birmingham|0
+UK:s44|chesterfield|0
+UK:en4|barnet|0
+UK:cm14|brentwood|0
+UK:fk9|stirling|0
+UK:sk4|stockport|0
+UK:e7|london|0
+UK:co2|colchester|0
+UK:ka11|irvine|0
+UK:l16|liverpool|0
+UK:b94|solihull|0
+UK:w1t|london|0
+UK:cv5|coventry|0
+UK:ne37|washington|0
+UK:w1a|london|0
+UK:pe7|peterborough|0
+UK:tf8|telford|0
+UK:mk10|milton keynes|0
+UK:bt44|ballymena|0
+UK:bb2|blackburn|0
+UK:pe2|peterborough|0
+UK:m24|manchester|0
+UK:m43|manchester|0
+UK:hu12|hull|0
+UK:g20|glasgow|0
+UK:bt8|belfast|0
+UK:ka8|ayr|0
+UK:e16|london|0
+UK:pe22|boston|0
+UK:ln7|market rasen|0
+UK:rg25|basingstoke|0
+UK:cm77|braintree|0
+UK:n21|london|0
+UK:dn2|doncaster|0
+UK:l5|liverpool|0
+UK:s3|sheffield|0
+UK:me18|maidstone|0
+UK:hu2|hull|0
+UK:hx2|halifax|0
+UK:tn10|tonbridge|0
+UK:l17|liverpool|0
+UK:g43|glasgow|0
+UK:l28|liverpool|0
+UK:sw1p|london|0
+UK:nn2|northampton|0
+UK:hu4|hull|0
+UK:ip3|ipswich|0
+UK:pl5|plymouth|0
+UK:sk12|stockport|0
+UK:bs20|bristol|0
+UK:m11|manchester|0
+UK:nw2|london|0
+UK:me5|chatham|0
+UK:cm13|brentwood|0
+UK:eh3|edinburgh|0
+UK:m7|salford|0
+UK:nr14|norwich|0
+UK:gl19|gloucester|0
+UK:e5|london|0
+UK:ol7|ashton-under-lyne|0
+UK:b65|rowley regis|0
+UK:sw61ab|fulham|0
+UK:ca8|greenhead|0
+UK:ch99|chester|0
+UK:dh98|durham|0
+UK:so5|romsey|0
+UK:g70|glasgow|0
+UK:ip23|thwaite|0
+UK:kt80aa|molesey|0
+UK:s99|sheffield|0
+UK:ph18|blair atholl|0
+UK:l67|liverpool|0
+UK:l68|liverpool|0
+UK:nw12ae|bloomsbury|0
+UK:kw12|halkirk|0
+UK:ld4|llangammarch wells|0
+UK:dg13|eskdalemuir|0
+UK:bt53|dervock|0
+UK:n1c|london|0
+UK:ec3p|london|0
+UK:ld8|willey|0
+UK:e98|london|0
+UK:dh99|durham|0
+UK:br5|orpington|0
+UK:ec2p|london|0
+UK:wc1|london|0
+UK:ab1|aberdeen|0
+UK:rm2|grays|0
+UK:wc2|london|0
+UK:ch8|chester|0
+UK:sy9|shrewsbury|0
+UK:wv|wolverhampton|0
+UK:ec3|london|0
+UK:yo2|york|0
+UK:nw|london|0
+UK:ec1|london|0
+UK:yo3|york|0
+UK:cf1|cardiff|0
+UK:sw1|london|0
+UK:ec2|london|0
+UK:sk|stockport|0
+UK:wd1|watford|0
+UK:ec4|london|0
+UK:wc|london|0
+UK:tw2|egham|0
+UK:st2|stafford|0
+UK:w1|london|0
+UK:np18|newport|0
+UK:ha4|hillingdon|0
+UK:cr7|croydon|0
+UK:ub5|ealing|0
+UK:yo95|york|0
+UK:ol95|oldham|0
+UK:ts92|middlesbrough|0
+UK:pl26|st austell|0
+UK:lu95|leighton buzzard|0
+UK:bt99|belfast|0
+UK:rm12|havering|0
+UK:gu13|fleet|0
+UK:tn4|royal tunbridge wells|0
+UK:bb0|blackburn|0
+UK:ub3|hillingdon|0
+UK:cw98|crewe|0
+UK:da6|bexley|0
+UK:cf42|rhondda|0
+UK:po4|portsmouth|0
+UK:ub18|ealing|0
+UK:rm9|barking and dagenham|0
+UK:da15|bexley|0
+UK:de15|burton upon trent|0
+UK:dh3|chester-le-street|0
+UK:tn38|hastings|0
+UK:sn99|swindon|0
+UK:wc99|london|0
+UK:ig2|redbridge|0
+UK:tr26|st ives|0
+UK:ca95|workington|0
+UK:ub1|ealing|0
+UK:bl80|bolton|0
+UK:s97|rotherham|0
+UK:eh29|edinburgh|0
+UK:tn2|royal tunbridge wells|0
+UK:ub4|hillingdon|0
+UK:ky99|dunfermline|0
+UK:fy0|blackpool|0
+UK:yo6|york|0
+UK:ox8|witney|0
+UK:dn38|barnetby|0
+UK:ab41|ellon|0
+UK:ip31|bardwell|0
+UK:ka4|galston|0
+UK:g84|helensburgh|0
+UK:ch64|neston|0
+UK:sy25|tregaron|0
+UK:fk4|castlecary|0
+UK:po32|whippingham|0
+UK:bt26|hillsborough|0
+UK:ph3|auchterarder|0
+UK:ca26|frizington|0
+UK:la18|millom|0
+UK:iv18|invergordon|0
+UK:wv13|willenhall|0
+UK:iv6|muir of ord|0
+UK:pe33|marham|0
+UK:bt40|larne|0
+UK:nr20|foulsham|0
+UK:b66|smethwick|0
+UK:ka25|kilbirnie|0
+UK:pl28|padstow|0
+UK:eh35|ormiston|0
+UK:bs29|banwell|0
+UK:eh31|gullane|0
+UK:dg4|sanquhar|0
+UK:tw13|hanworth|0
+UK:ll40|dolgellau|0
+UK:ll68|amlwch|0
+UK:eh43|walkerburn|0
+UK:rh1|salfords|0
+UK:sy12|ellesmere|0
+UK:cf43|ferndale|0
+UK:ip22|winfarthing|0
+UK:hs9|castlebay|0
+UK:cf81|bargoed|0
+UK:po34|seaview|0
+UK:hr7|bromyard|0
+UK:ll60|gaerwen|0
+UK:hx7|hebden bridge|0
+UK:ub9|harefield|0
+UK:ka17|darvel|0
+UK:st6|burslem|0
+UK:dg10|moffat|0
+UK:ll24|penmachno|0
+UK:bs26|loxton|0
+UK:bt56|portrush|0
+UK:wf11|knottingley|0
+UK:bt68|caledon|0
+UK:rh9|godstone|0
+UK:rh7|lingfield|0
+UK:la6|lupton|0
+UK:td12|coldstream|0
+UK:np8|crickhowell|0
+UK:dg6|kirkcudbright|0
+UK:bt24|ballynahinch|0
+UK:ne41|wylam|0
+UK:ll21|derwen|0
+UK:ll22|abergele|0
+UK:iv4|beauly|0
+UK:hu13|hessle|0
+UK:ka22|ardrossan|0
+UK:ca20|sellafield|0
+UK:ne71|wooler|0
+UK:eh27|kirknewton|0
+UK:ig3|ilford|0
+UK:tn36|icklesham|0
+UK:ka19|maybole|0
+UK:po37|shanklin|0
+UK:ky14|newburgh|0
+UK:ne31|hebburn|0
+UK:iv10|fortrose|0
+UK:ld6|rhayader|0
+UK:hr5|titley|0
+UK:pe32|gayton|0
+UK:ne36|east boldon|0
+UK:sy22|llanfyllin|0
+UK:hu18|hornsea|0
+UK:cv47|southam|0
+UK:cv33|offchurch|0
+UK:ts14|guisborough|0
+UK:pa7|bishopton|0
+UK:ab54|huntly|0
+UK:cr6|warlingham|0
+UK:wf6|normanton|0
+UK:ab53|turriff|0
+UK:ll61|llanfairpwllgwyngyll|0
+UK:fk13|tillicoultry|0
+UK:ne43|stocksfield|0
+UK:ne44|healey|0
+UK:ab39|stonehaven|0
+UK:ab44|macduff|0
+UK:iv12|nairn|0
+UK:hu14|swanland|0
+UK:ub11|uxbridge|0
+UK:eh41|haddington|0
+UK:po10|westbourne|0
+UK:ll35|aberdovey|0
+UK:nw1w|camden|0
+UK:bt31|castlewellan|0
+UK:ca25|cleator moor|0
+UK:ca17|winton|0
+UK:iv32|fochabers|0
+UK:ky3|burntisland|0
+UK:ka20|stevenston|0
+UK:pa26|cairndow|0
+UK:ka18|cumnock|0
+UK:ph4|blackford|0
+UK:ca23|cleator|0
+UK:ka10|troon|0
+UK:ph32|ft augustus|0
+UK:ip30|woolpit|0
+UK:pl23|fowey|0
+UK:cf44|aberdare|0
+UK:po41|yarmouth|0
+UK:ab34|birse|0
+UK:dg9|stranraer|0
+UK:tn17|rolvenden|0
+UK:eh20|loanhead|0
+UK:gu20|windlesham|0
+UK:ka15|beith|0
+UK:ec4p|islington|0
+UK:np13|abertillery|0
+UK:ld5|beulah|0
+UK:eh28|ratho|0
+UK:iv19|tain|0
+UK:nr22|walsingham|0
+UK:b62|halesowen|0
+UK:fk14|dollar|0
+UK:bt54|ballycastle|0
+UK:st4|etruria|0
+UK:da18|erith|0
+UK:sg3|knebworth|0
+UK:bn99|worthing|0
+UK:rm7|romford|0
+UK:dy12|bewdley|0
+UK:np10|bassaleg|0
+UK:dg5|dalbeattie|0
+UK:pe35|sandringham|0
+UK:bd24|settle|0
+UK:ll62|bodorgan|0
+UK:st3|longton|0
+UK:dn19|new holland|0
+UK:dg8|newton stewart|0
+UK:sa69|saundersfoot|0
+UK:dl15|willington|0
+UK:ol14|todmorden|0
+UK:ca22|egremont|0
+UK:dd7|carnoustie|0
+UK:td13|cockburnspath|0
+UK:ne70|belford|0
+UK:ln13|hannah|0
+UK:wr15|tenbury wells|0
+UK:wr13|welland|0
+UK:ka21|saltcoats|0
+UK:sa46|aberaeron|0
+UK:ig6|barkingside|0
+UK:bt57|bushmills|0
+UK:bt39|ballyclare|0
+UK:de5|denby|0
+UK:dd6|tayport|0
+UK:ll32|conwy|0
+UK:ml10|strathaven|0
+UK:iv20|shandwick|0
+UK:bt49|limavady|0
+UK:rh3|betchworth|0
+UK:ab35|ballater|0
+UK:fk15|dunblane|0
+UK:ll33|llanfairfechan|0
+UK:sa20|llandovery|0
+UK:ph22|rothiemurchus|0
+UK:sy19|pennant|0
+UK:ab36|strathdon|0
+UK:pe36|hunstanton|0
+UK:ka30|largs|0
+UK:eh26|howgate|0
+UK:ln10|woodhall spa|0
+UK:sk14|mottram|0
+UK:ll26|llanrwst|0
+UK:fk6|denny|0
+UK:la5|arnside|0
+UK:cf61|llantwit major|0
+UK:ll49|porthmadog|0
+UK:ka24|dalry|0
+UK:wv12|willenhall|0
+UK:bt25|dromore|0
+UK:st10|stoke-on-trent|0
+UK:ky9|leven|0
+UK:st11|stoke-on-trent|0
+UK:eh19|bonnyrigg|0
+UK:sa42|newport|0
+UK:ig4|ilford|0
+UK:ip33|bury saint edmunds|0
+UK:m61|manchester|0
+UK:ca21|beckermet|0
+UK:st8|stoke-on-trent|0
+UK:ll71|llanerchymedd|0
+UK:bt55|portstewart|0
+UK:ll20|llangollen|0
+UK:ll42|barmouth|0
+UK:tn18|cranbrook|0
+UK:tq8|salcombe|0
+UK:rm13|havering|0
+UK:ta23|watchet|0
+UK:rm6|romford|0
+UK:ch49|thurstaston|0
+UK:yo14|filey|0
+UK:tn40|bexhill|0
+UK:ex7|dawlish|0
+UK:pa43|bowmore|0
+UK:pe34|kings lynn|0
+UK:br4|bromley|0
+UK:sg19|potton|0
+UK:ta24|minehead|0
+UK:fy5|thornton-cleveleys|0
+UK:ex12|seaton|0
+UK:ch46|birkenhead|0
+UK:yo21|whitby|0
+UK:tq14|teignmouth|0
+UK:ha6|hillingdon|0
+UK:la11|grange-over-sands|0
+UK:tq5|brixham|0
+UK:kw17|finstown|0
+UK:bh31|verwood|0
+UK:ba7|castle cary|0
+UK:sg15|arlesey|0
+UK:dg16|mill hill|0
+UK:ex13|axminster|0
+UK:pa25|st. catherines|0
+UK:pa72|aros|0
+UK:iv42|moorlands|0
+UK:iv24|ardgay|0
+UK:kw8|loth|0
+UK:ta11|somerton|0
+UK:bt33|newcastle|0
+UK:ex35|lynton|0
+UK:pa77|baugh|0
+UK:ll23|parc|0
+UK:gu33|hawkley|0
+UK:ab37|ballindalloch|0
+UK:la19|corney|0
+UK:tr9|indian queens|0
+UK:dy7|bobbington|0
+UK:pa49|bruichladdich|0
+UK:pa44|bridgend|0
+UK:ex38|torrington|0
+UK:fk16|argaty|0
+UK:pa8|erskine|0
+UK:ex21|halwill|0
+UK:b69|oldbury|0
+UK:bs28|clewer|0
+UK:ca16|great asby|0
+UK:ph49|glencoe|0
+UK:ne40|greenside|0
+UK:me11|queenborough|0
+UK:tn3|blackham|0
+UK:bs27|cheddar|0
+UK:bt46|maghera|0
+UK:sk23|whaley bridge|0
+UK:pa21|millhouse|0
+UK:fk19|auchtubh|0
+UK:ta14|stoke-sub-hamdon|0
+UK:ta22|dulverton|0
+UK:tr21|isles of scilly|0
+UK:sg16|henlow|0
+UK:bs25|shipham|0
+UK:ph37|glenfinnan|0
+UK:sp9|tidworth|0
+UK:ph21|kincraig|0
+UK:yo22|fylingdales|0
+UK:sa64|st. nicholas|0
+UK:ex18|chulmleigh|0
+UK:tq6|dartmouth|0
+UK:iv14|strathpeffer|0
+UK:tn29|brookland|0
+UK:ch61|pensby|0
+UK:ll45|llanbedr|0
+UK:pl16|kelly|0
+UK:ex19|broadwoodkelly|0
+UK:st9|bagnall|0
+UK:b64|cradley heath|0
+UK:ne35|boldon colliery|0
+UK:ne45|corbridge|0
+UK:ba13|westbury|0
+UK:ca18|muncaster|0
+UK:ne64|newbiggin-by-the-sea|0
+UK:kw3|lybster|0
+UK:ct7|birchington|0
+UK:iv44|ord|0
+UK:ba16|street|0
+UK:ne21|winlaton|0
+UK:ol15|summit|0
+UK:ph31|tulloch|0
+UK:tq10|aish|0
+UK:ex9|budleigh salterton|0
+UK:wn7|leigh|0
+UK:yo18|pickering|0
+UK:ll70|dulas|0
+UK:ca19|santon|0
+UK:eh34|pencaitland|0
+UK:ls21|otley|0
+UK:b68|oldbury|0
+UK:pl10|forder|0
+UK:ex33|saunton|0
+UK:iv40|balmacara|0
+UK:ex36|south molton|0
+UK:ta12|martock|0
+UK:fy6|poulton-le-fylde|0
+UK:pl34|tintagel|0
+UK:hs8|stoneybridge|0
+UK:gu18|lightwater|0
+UK:ky10|abercrombie|0
+UK:ba7|castle cary|0
+UK:sg15|arlesey|0
+UK:dg16|mill hill|0
+UK:ex13|axminster|0
+UK:pa25|st. catherines|0
+UK:pa72|aros|0
+UK:iv42|moorlands|0
+UK:iv24|ardgay|0
+UK:kw8|loth|0
+UK:ta11|somerton|0
+UK:bt33|newcastle|0
+UK:ex35|lynton|0
+UK:pa77|baugh|0
+UK:ll23|parc|0
+UK:gu33|hawkley|0
+UK:ab37|ballindalloch|0
+UK:la19|corney|0
+UK:tr9|indian queens|0
+UK:dy7|bobbington|0
+UK:pa49|bruichladdich|0
+UK:pa44|bridgend|0
+UK:ex38|torrington|0
+UK:fk16|argaty|0
+UK:pa8|erskine|0
+UK:ex21|halwill|0
+UK:b69|oldbury|0
+UK:bs28|clewer|0
+UK:ca16|great asby|0
+UK:ph49|glencoe|0
+UK:ne40|greenside|0
+UK:me11|queenborough|0
+UK:tn3|blackham|0
+UK:bs27|cheddar|0
+UK:bt46|maghera|0
+UK:sk23|whaley bridge|0
+UK:pa21|millhouse|0
+UK:fk19|auchtubh|0
+UK:ta14|stoke-sub-hamdon|0
+UK:ta22|dulverton|0
+UK:tr21|isles of scilly|0
+UK:sg16|henlow|0
+UK:bs25|shipham|0
+UK:ph37|glenfinnan|0
+UK:sp9|tidworth|0
+UK:ph21|kincraig|0
+UK:yo22|fylingdales|0
+UK:sa64|st. nicholas|0
+UK:ex18|chulmleigh|0
+UK:tq6|dartmouth|0
+UK:iv14|strathpeffer|0
+UK:tn29|brookland|0
+UK:ch61|pensby|0
+UK:ll45|llanbedr|0
+UK:pl16|kelly|0
+UK:ex19|broadwoodkelly|0
+UK:st9|bagnall|0
+UK:b64|cradley heath|0
+UK:ne35|boldon colliery|0
+UK:ne45|corbridge|0
+UK:ba13|westbury|0
+UK:ca18|muncaster|0
+UK:ne64|newbiggin-by-the-sea|0
+UK:kw3|lybster|0
+UK:ct7|birchington|0
+UK:iv44|ord|0
+UK:ba16|street|0
+UK:ne21|winlaton|0
+UK:ol15|summit|0
+UK:ph31|tulloch|0
+UK:tq10|aish|0
+UK:ex9|budleigh salterton|0
+UK:wn7|leigh|0
+UK:yo18|pickering|0
+UK:ll70|dulas|0
+UK:ca19|santon|0
+UK:eh34|pencaitland|0
+UK:ls21|otley|0
+UK:b68|oldbury|0
+UK:pl10|forder|0
+UK:ex33|saunton|0
+UK:iv40|balmacara|0
+UK:ex36|south molton|0
+UK:ta12|martock|0
+UK:fy6|poulton-le-fylde|0
+UK:pl34|tintagel|0
+UK:hs8|stoneybridge|0
+UK:gu18|lightwater|0
+UK:ky10|abercrombie|0
+UK:hu16|cottingham|0
+UK:tr17|marazion|0
+UK:ph42|isle of eigg|0
+UK:pl24|porcupine|0
+UK:ex11|ottery st mary|0
+UK:ex37|chittlehampton|0
+UK:iv54|lochcarron|0
+UK:eh36|humbie|0
+UK:sa65|fishguard|0
+UK:64319|manchester|0
+UK:92230|goudhurst|0
+UK:78140|heath and reach|0
+UK:pa75|tobermory|0
+UK:1119|edinburgh|0
+UK:tn28|new romney|0
+UK:95014|brinklow|0
+UK:10025|brighton|0
+UK:2571|smethwick|0
+UK:40213|bracknell|0
+UK:20011|manchester|0
+UK:la17|beckside|0
+UK:30349|reading|0
+UK:60323|barnet|0
+UK:94304|grimsby|0
+UK:3400|nottingham|0
+UK:65451|ealing|0
+UK:75001|isleworth|0
+UK:47235|southwark|0
+UK:90011|newham|0
+UK:14609|wokingham|0
+UK:8320000|bracknell|0
+UK:06850|hindhead|0
+UK:92704|watford|0
+UK:55106|southsea|0
+UK:02108|city of westminster|0
+UK:28001|newcastle upon tyne|0
+UK:46227|birmingham|0
+UK:98115|brighton|0
+UK:85032|brighton|0
+UK:68200-000|barnet|0
+UK:29004|doncaster|0
+UK:m6c|bracknell|0
+UK:44130|city of westminster|0
+UK:2500|burton upon trent|0
+UK:19120|watford|0
+UK:66102|birmingham|0
+UK:48228|city of westminster|0
+UK:80219|city of westminster|0
+UK:21215|cramlington|0
+UK:94112|city of westminster|0
+UK:77084|glasgow|0
+UK:d01|city of westminster|0
+UK:228211|havering|0
+UK:52732|bromley|0
+UK:07000-000|brighton|0
+UK:33186|city of westminster|0
+UK:ll74|benllech|0
+UK:ph9|logierait|0
+UK:kw5|latheron|0
+UK:eh40|east linton|0
+UK:pa24|lochgoilhead|0
+UK:pl35|boscastle|0
+UK:sa35|cilrhedyn|0
+UK:sa40|glanduar|0
+UK:bt21|donaghadee|0
+UK:ll64|rhosneigr|0
+UK:pa18|wemyss bay|0
+UK:fk18|strathyre|0
+UK:tn20|mayfield|0
+UK:ph35|invergarry|0
+UK:hu20|little weighton|0
+UK:ka23|west kilbride|0
+UK:n81|haringey|0
+UK:sa39|pencader|0
+UK:ka16|newmilns|0
+UK:ll44|dyffryn ardudwy|0
+UK:ne49|haltwhistle|0
+UK:kw10|golspie|0
+UK:kw6|dunbeath|0
+UK:bt81|castlederg|0
+UK:ph50|kinlochleven|0
+UK:ll72|llanallgo|0
+UK:bt77|augher|0
+UK:ll58|beaumaris|0
+UK:ch47|hoylake|0
+UK:ne68|seahouses|0
+UK:pa27|strachur|0
+UK:e20|newham|0
+UK:ab13|milltimber|0
+UK:ec1p|islington|0
+UK:bt69|aughnacloy|0
+UK:la20|hawthwaite|0
+UK:sa45|new quay|0
+UK:ex24|colyton|0
+UK:la16|askam-in-furness|0
+UK:ld2|builth wells|0
+UK:iv53|achmore|0
+UK:ze3|virkie|0
+UK:ts29|trimdon station|0
+UK:sa37|newchapel|0
+UK:pa17|skelmorlie|0
+UK:iv41|kyleakin|0
+UK:sa66|clynderwen|0
+UK:fk21|killin|0
+UK:pl33|delabole|0
+UK:ch33|neston|0
+UK:ph26|dulnain bridge|0
+UK:ka5|mauchline|0
+UK:pa35|taynuilt|0
+UK:iv56|ose|0
+UK:sa63|clarbeston road|0
+UK:la15|dalton-in-furness|0
+UK:iv21|badachro|0
+UK:pa46|port askaig|0
+UK:ll47|talsarnau|0
+UK:pl29|port isaac|0
+UK:ph34|spean bridge|0
+UK:ll52|criccieth|0
+UK:ll27|llanrhychwyn|0
+UK:pa38|appin|0
+UK:iv23|garve|0
+UK:se1p|southwark|0
+UK:pa78|arinagour|0
+UK:sy18|llanidloes|0
+UK:eh37|pathhead|0
+UK:po39|totland bay|0
+UK:np24|new tredegar|0
+UK:sg10|much hadham|0
+UK:iv22|torridon|0
+UK:ne62|choppington|0
+UK:ll59|menai bridge|0
+UK:ab14|peterculter|0
+UK:ph24|boat of garten|0
+UK:eh24|rosewell|0
+UK:ph20|newtonmore|0
+UK:iv8|munlochy|0
+UK:nr24|hunworth|0
+UK:ph36|strontian|0
+UK:ph39|arisaig|0
+UK:sa17|trimsaran|0
+UK:dg14|canonbie|0
+UK:ll75|pentraeth|0
+UK:fk11|menstrie|0
+UK:pa33|dalmally|0
+UK:ph23|carrbridge|0
+UK:eh44|innerleithen|0
+UK:st12|barlaston|0
+UK:sa47|llanarth|0
+UK:fk20|crianlarich|0
+UK:ph19|dalwhinnie|0
+UK:cf41|pentre|0
+UK:ne67|chathill|0
+UK:ll25|dolwyddelan|0
+UK:hs7|creagorry|0
+UK:pa22|glendaruel|0
+UK:ll37|llwyngwril|0
+UK:iv46|tarskavaig|0
+UK:iv47|carbost|0
+UK:bt76|clogher|0
+UK:ll63|ty croes|0
+UK:hs7|creagorry|0
+UK:pa22|glendaruel|0
+UK:ll37|llwyngwril|0
+UK:iv46|tarskavaig|0
+UK:iv47|carbost|0
+UK:bt76|clogher|0
+UK:ll63|ty croes|0
+UK:ph17|rannoch|0
+UK:ll51|garndolbenmaen|0
+UK:iv45|ardvasar|0
+UK:hs5|leverburgh|0
+UK:iv28|rogart|0
+UK:ll38|friog|0
+UK:iv43|isle ornsay|0
+UK:g90|glasgow|0
+UK:pa67|bunessan|0
+UK:pa73|ulva ferry|0
+UK:kw13|forsinard|0
+UK:pa73|ulva ferry|0
+UK:kw13|forsinard|0
+UK:ka14|glengarnock|0
+UK:ch28|birkenhead|0
+UK:cr90|croydon|0
+UK:pa41|isle of gigha|0
+UK:ll78|brynteg|0
+UK:ll34|dwygyfylchi|0
+UK:pa63|croggan|0
+UK:pa64|lochdon|0
+UK:iv48|sconser|0
+UK:hs4|scalpay|0
+UK:pa60|isle of jura|0
+UK:pa45|ballygrant|0
+UK:ca24|westlakes science and technology park|0
+UK:pa70|pennyghael|0
+UK:ll56|y felinheli|0
+UK:pa71|gruline|0
+UK:ll76|llanbedrgoch|0
+UK:pa36|bridge of orchy|0
+UK:pa66|fionnphort|0
+UK:n1p|islington|0
+UK:pa74|torloisk|0
+UK:ph25|nethy bridge|0
+UK:ne69|bamburgh|0
+UK:ph38|glenuig|0
+UK:pa76|isle of iona|0
+UK:sa36|hermon|0
+UK:bs80|bristol|0
+UK:me99|maidstone|0
+UK:ll39|arthog|0
+UK:ll69|penysarn|0
+UK:ta16|merriott|0
+UK:kw7|berriedale|0
